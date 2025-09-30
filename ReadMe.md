@@ -23,8 +23,9 @@ https://www.tosecdev.org/tosec-naming-convention
 
 Title version (demo) (date)(publisher)(system)(video)(country)(language)(copyright)(devstatus)(media type)(media label)[cr][f][h][m][p][t][tr][o][u][v][b][a][!][more info]
 
+"For the TOSEC manager of EXELVISION, the source code provided here is exactly as published in the magazines. Any other version should be regarded as an alternative.
 
-Voir aussi RPUFOS.
+Voir aussi mon projet RPUFOS.
 
 ### 2
 
@@ -37,30 +38,35 @@ Mise au point d'un agent dédié Exelvision.
 
 The current state of each program's porting process is indicated by the icons shown in the following table.
 
-| Icon | Label          |
-|------|----------------|
-| ✅ | Finished and working |
-| ❌ | Failed |
-| ❕ |The source code should be cross-checked with the published version |
-| 📝 | Source code to be found or entered |
-| ✘ | Not possible |
+| Icon | Label |
+|------|-------|
+|  ✅  | Finished and working |
+|  ❌  | Failed |
+|  ❕  |The source code should be cross-checked with the published version |
+|  📝  | Source code to be found or entered |
+|  ✘  | Not possible |
 
 
 | ref  | Commentaire                             |
 |------|-----------------------------------------|
 | Bas  | Source format Basic                     |
 | K7   | fichier cassette emulation              |
-| Wav  | Fichier WAV pour lecteur                |
+| Wav  | Fichier WAV pour magnétophone           |
 | CRAM | Exelmémoire 16k (EXL100); 64K (Exeltel) |
 | BKP  | Sauvegarde K7 Exelmémoire               |
 
 L'Exlmémoire dispose d'une pile, mais le changement de pile fait perdre toutes les données. D'où la nécessité d'une sauvegarde (BKP).
 
+Les cassettes audio n'étant plus fabriquées, le fichier Wav sert de remplacement.\
+Il est tout à fait possible de copie le WAV sur une cassette si vous en possédez.
 
+___
 ### David H. Ahl
 
-Voir le projet RPUFOS.
+Voir le projet RPUFOS.\
+L'idée est d'adapter en force brute tous ses programmes.
 
+___
 ### Exelement Votre
 
 Publié par Exelvision. 20 numéros.
@@ -89,68 +95,77 @@ Publié par Exelvision. 20 numéros.
 
 (?) Ce numéro existe-t-il ?
 
+Star Trek : est l'adaptation sur EXL100 du jeu publié par David H. Ahl.
 
+___
 ### Hebdogiciel
 
-50 références à date.
+Revue française très connu par chez nous, au ton acerbe.\
+50 références à date.\
+Je crois qu'il y a tout.
 
-| No        | Source                       | Bas | K7 | Wav | FD | CRAM | BKP |
-|-----------|------------------------------|-----|----|-----|----|------|-----|
-| 58        | Exelbad                      |
-| 60        | Barman                       | ❕ |
-| 66        | Exelblitz                    |
-| 67 à 69   | Exelmanoir                   |
-| 70        | Croc en pomme                |
-| 71        | TMS7020                      |
-| 72        | Jackpot                      |
-| 73        | Générateur de caractère      |
-| 74        | Réunion                      |
-| 75 à 76   | Exelabyrinthe                |
-| 77        | Brique                       |
-| 78        | Salaire                      |
-| 79        | Exelstar                     |
-| 80 à 81   | Saturne 3                    |
-| 82        | Chenille                     |
-| 83        | Atlant-Eat                   |
-| 84 à 86   | Exeldessin                   |
-| 87        | 3D Teuf Teuf                 |
-| 88        | Perspective                  |
-| 89 à 90   | Sir Lancelot                 |
-| 91 à 93   | Zombie                       |
-| 94 à 97   | Citronnade                   |
-| 94 à 97   | EXEL Missil                  |
-| 94        | Exelmusic                    |
-| 94        | Patrouille Lunaire           |
-| 98 à 99   | Nocturnes                    |
-| 100       | Strife                       |
-| 101 à 102 | Star Wars                    |
-| 103 à 104 | Stress                       |
-| 105       | Rallye                       |
-| 107 à 108 | Démon d'Exelvision           |
-| 109 à 111 | Exelchateau                  |
-| 112 à 115 | De l'or ou la mort           |
-| 116 à 120 | Chevaux                      |
-| 121 à 123 | Haltéro                      |
-| 124 à 125 | Exelcar                      |
-| 126 à 127 | Territoire                   |
-| 128       | Exeldomino                   |
-| 129 à 131 | Pinball                      |
-| 132 à 133 | Memicon                      |
-| 134 à 138 | Tarot                        |
+| No        | Source                          | Bas | K7 | Wav | FD | CRAM | BKP |
+|-----------|---------------------------------|-----|----|-----|----|------|-----|
+| 58        | Exelbad                         |
+| 60        | Barman                          | ❕ |
+| 66        | Exelblitz                       |
+| 67 à 69   | Exelmanoir                      |
+| 70        | Croc en pomme                   |
+| 71        | TMS7020                         |
+| 72        | Jackpot                         |
+| 73        | Générateur de caractère         |
+| 74        | Réunion                         |
+| 75 à 76   | Exelabyrinthe                   |
+| 77        | Brique                          |
+| 78        | Salaire                         |
+| 79        | Exelstar                        |
+| 80 à 81   | Saturne 3                       |
+| 82        | Chenille                        |
+| 83        | Atlant-Eat                      |
+| 84 à 86   | Exeldessin                      |
+| 87        | 3D Teuf Teuf                    |
+| 88        | Perspective                     |
+| 89 à 90   | Sir Lancelot                    |
+| 91 à 93   | Zombie                          |
+| 94 à 97   | Citronnade                      |
+| 94 à 97   | EXEL Missil                     |
+| 94        | Exelmusic                       |
+| 94        | Patrouille Lunaire              |
+| 98 à 99   | Nocturnes                       |
+| 100       | Strife                          |
+| 101 à 102 | Star Wars                       |
+| 103 à 104 | Stress                          |
+| 105       | Rallye                          |
+| 107 à 108 | Démon d'Exelvision              |
+| 109 à 111 | Exelchateau                     |
+| 112 à 115 | De l'or ou la mort              |
+| 116 à 120 | Chevaux                         |
+| 121 à 123 | Haltéro                         |
+| 124 à 125 | Exelcar                         |
+| 126 à 127 | Territoire                      |
+| 128       | Exeldomino                      |
+| 129 à 131 | Pinball                         |
+| 132 à 133 | Memicon                         |
+| 134 à 138 | Tarot                           |
 | 139 à 141 | Recherche du Diamant Vert, A la |
-| 142 à 145 | Manoir                       |
-| 146       | Enigme                       |
-| 146       | Monkey Kong                  |
-| 146       | Tir au pigeon                |
-| 150 à 153 | Exlfrog                      |
-| 154 à 159 | Carpathians 1879             |
-| 160 à 165 | L'antre                      |
-| 166 à 168 | Jump (*)                     | ❌ |
+| 142 à 145 | Manoir                          |
+| 146       | Enigme                          |
+| 146       | Monkey Kong                     |
+| 146       | Tir au pigeon                   |
+| 150 à 153 | Exlfrog                         |
+| 154 à 159 | Carpathians 1879                |
+| 160 à 165 | L'antre                         |
+| 166 à 168 | Jump (\*)                       | ❌ |
 
-(*) incomplet, car arrêt de publication de la revue.
+(\*) incomplet, car arrêt de publication de la revue.
 
-
+___
 ### Tilt
+
+Revue française sur les jeux vidéos.\
+Pendant un temps on y trouvait des listing.\
+J'aen ai peut-être manqué.
+
 
 | No  | Source                  | Bas | K7 | Wav | FD | CRAM | BKP |
 |-----|-------------------------|-----|----|-----|----|------|-----|
@@ -170,10 +185,11 @@ Publié par Exelvision. 20 numéros.
 
 HS : Hors Série, Mars 1987, 240 listings.
 
-
+___
 ### PSI : 102 Programmes
 
-Janvier 1985.
+Livre daté de Janvier 1985.\
+Contient 101 programme est une aide au basic considérée comme 102ème.
 
 To do.
 
@@ -285,10 +301,11 @@ To do.
 
 102 ?
 
-
+___
 ### Minipuce : 25 Programmes
 
-Octobre 1985.
+Livre publié en Octobre 1985.\
+Pour le 25 ce sont des complément à la programmation en Basic.
 
 To do.
 
