@@ -30,9 +30,14 @@ Voir aussi mon projet RPUFOS.
 ### 2
 
 IA (LLM) et Système Expert.\
-Mise au point d'un agent dédié Exelvision.
+Mise au point d'un agent dédié Exelvision.\
+Préparation pour une database.
 
+___
 ## Ressources
+
+Si vous avez les codes sources, merci de me le faire savoir afin que je les ajoute.
+
 
 ### Status
 
@@ -70,7 +75,7 @@ ___
 ### Exelement Votre
 
 Publié par Exelvision. 20 numéros.\
-Analyse en cours.
+Analyse en cours. Mais déjà pas mal de choses.
 
 
 | No    | Source                             | Bas | K7 | Wav | FD | CRAM | BKP |
@@ -114,7 +119,7 @@ Analyse en cours.
 
 (?) Ce numéro existe-t-il ?
 
-Star Trek : est l'adaptation sur EXL100 du jeu publié par David H. Ahl.
+**Star Trek** : est l'adaptation sur EXL100 du jeu publié par David H. Ahl.
 
 ___
 ### Hebdogiciel
@@ -183,8 +188,9 @@ ___
 
 Revue française sur les jeux vidéos.\
 Pendant un temps on y trouvait des listing.\
-J'aen ai peut-être manqué.
+J'en ai peut-être manqué.
 
+12 références.
 
 | No  | Source                  | Bas | K7 | Wav | FD | CRAM | BKP |
 |-----|-------------------------|-----|----|-----|----|------|-----|
@@ -210,7 +216,6 @@ ___
 Livre daté de Janvier 1985.\
 Contient 101 programme est une aide au basic considérée comme 102ème.
 
-To do.
 
 
 | No  | Source                  | Bas | K7 | Wav | FD | CRAM | BKP |
@@ -318,15 +323,13 @@ To do.
 | 101 | Othello                 | 📝 |  |  |  |  |  |
 | 102 |                         | 📝 |  |  |  |  |  |
 
-102 ?
 
 ___
 ### Minipuce : 25 Programmes
 
 Livre publié en Octobre 1985.\
-Pour le 25 ce sont des complément à la programmation en Basic.
+Pour le 25 ce sont des compléments à la programmation en Basic.
 
-To do.
 
 
 | No | Source                              | Bas | K7 | Wav | FD | CRAM | BKP |
@@ -362,6 +365,13 @@ To do.
 ___
 ### Autres
 
-To do.
+#### Minitel
+
+Il y avait beaucoup de logiciels via le Minitel.\
+On ne désespère pas de tomber sur des pépites.
+
+#### Anonymes
+
+:-)
 
 ___
