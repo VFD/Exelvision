@@ -201,10 +201,10 @@ J'en ai peut-être manqué.
 | 036 | Carnet d'Adresses       | 📝 |  |  |  |  |  |
 | 037 | Corbeau et Renard, Le   | ❕ |  |  |  |  |  |
 | 037 | Char en Folie, Le       | 📝 |  |  |  |  |  |
-| HS  | Clavier Bavard          | 📝 |  |  |  |  |  |
-| HS  | Crayon Magique          | 📝 |  |  |  |  |  |
+| HS  | Clavier Bavard          | ❕ |  |  |  |  |  |
+| HS  | Crayon Magique          | ❕ |  |  |  |  |  |
 | HS  | Formule 1               | 📝 |  |  |  |  |  |
-| HS  | Musicorgue              | 📝 |  |  |  |  |  |
+| HS  | Musicorgue              | ❕ |  |  |  |  |  |
 | HS  | Threat Star             | 📝 |  |  |  |  |  |
 
 
