@@ -335,37 +335,40 @@ ___
 Livre publié en Octobre 1985.\
 Pour le 25 ce sont des compléments à la programmation en Basic.
 
+Il y a aussi 3 programmes de tris.
 
 
 | No | Source                              | T | Bas | K7 | Wav | FD | CRAM | BKP |
 |----|-------------------------------------|---|-----|----|-----|----|------|-----|
-| 01 | Calculette                          | A | 📝 |  |  |  |  |  |
+| 01 | Calculette                          | A | ❕ |  |  |  |  |  |
 | 02 | Dates                               | A | ❕ |  |  |  |  |  |
-| 03 | Dump                                | A | 📝 |  |  |  |  |  |
+| 03 | Dump                                | A | ❕ |  |  |  |  |  |
 | 04 | Fonctions Complementaires           | A | ❕ |  |  |  |  |  |
 | 05 | Histogramme                         | A | ❕ |  |  |  |  |  |
-| 06 | Initialisation Imprimante           | A | 📝 |  |  |  |  |  |
+| 06 | Initialisation Imprimante           | A | ❕ |  |  |  |  |  |
 | 07 | Message Defilant                    | A | ❕ |  |  |  |  |  |
-| 08 | Operation sur Valeurs Hexadecimales | A | 📝 |  |  |  |  |  |
-| 09 | Plan                                |   | 📝 |  |  |  |  |  |
-| 10 | Pronostics Tierce                   |   | 📝 |  |  |  |  |  |
-| 11 | Tris                                | A | 📝 |  |  |  |  |  |
+| 08 | Operation sur Valeurs Hexadecimales | A | ❕ |  |  |  |  |  |
+| 09 | Plan                                | A | ❕ |  |  |  |  |  |
+| 10 | Pronostics Tierce                   | A | ❕ |  |  |  |  |  |
+| 11 | Tris Numérique                      | A | ❕ |  |  |  |  |  |
+| -- | Tris Alphanumérique                 | A | ❕ |  |  |  |  |  |
+| -- | Méthodes de Tri                     | A | ❕ |  |  |  |  |  |
 | 12 | Barman                              | G | ❕ |  |  |  |  |  |
 | 13 | Bombardier                          | G | ❕ |  |  |  |  |  |
-| 14 | Citation                            | E | 📝 |  |  |  |  |  |
-| 15 | Coeur Secret                        |   | 📝 |  |  |  |  |  |
+| 14 | Citation                            | E | ❕ |  |  |  |  |  |
+| 15 | Coeur Secret                        | G | ❕ |  |  |  |  |  |
 | 16 | Jeu des Stations de Metro           | G | ❕ |  |  |  |  |  |
-| 17 | Rouge et le Noir, Le                |   | 📝 |  |  |  |  |  |
-| 18 | Loto                                |   | 📝 |  |  |  |  |  |
+| 17 | Rouge et le Noir, Le                | G | ❕ |  |  |  |  |  |
+| 18 | Loto                                | A | ❕ |  |  |  |  |  |
 | 19 | Petanque                            | G | ❕ |  |  |  |  |  |
-| 20 | Sahara                              |   | 📝 |  |  |  |  |  |
-| 21 | Suite Logique                       |   | 📝 |  |  |  |  |  |
-| 22 | Tapis Vert                          |   | 📝 |  |  |  |  |  |
-| 23 | Taquin Rotatif                      |   | 📝 |  |  |  |  |  |
+| 20 | Sahara                              | G | ❕ |  |  |  |  |  |
+| 21 | Suite Logique                       | E | ❕ |  |  |  |  |  |
+| 22 | Tapis Vert                          | G | ❕ |  |  |  |  |  |
+| 23 | Taquin Rotatif                      | G | ❕ |  |  |  |  |  |
 | 24 | Theme Astral                        | A | ❕ |  |  |  |  |  |
-| 25 | (\*)                                |   | 📝 |  |  |  |  |  |
+| 25 | (\*)                                | E | ❕ |  |  |  |  |  |
 
-(\*) Complément basic. Plusieurs listing.
+(\*) Complément basic. Plusieurs listing. Mis en MarkDown.
 
 A : Applications\
 C : Compilations\
@@ -373,6 +376,7 @@ E : Educational\
 D : Demos\
 G : Games
 
+TO DO: Validez tous les sources.
 
 ___
 ### Autres
