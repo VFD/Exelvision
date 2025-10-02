@@ -1,6 +1,6 @@
-10 ! ----------------------------------
+10 ! -------------------------------
 20 !          TAPIS VERT
-30 ! ----------------------------------
+30 ! -------------------------------
 40 CALL CHAR(2,"FFFFFFFFFFFFFFFFFFFF")
 50 TCOU$(1)="0BW"
 60 TCOU$(2)="0bY"
@@ -42,10 +42,10 @@
 420 LOCATE (13,25):PRINT "JEU POSSIBLE"
 430 LOCATE (14,25):PRINT "************"
 440 LOCATE (16,25):PRINT "Chiffre 1 a 9"
-450 LOCATE (17,25):PRINT "A pour 1 a 4"
-460 LOCATE (18,25):PRINT "B pour 6 a 9"
-470 LOCATE (19,25):PRINT "I pour impairs"
-480 LOCATE (20,25):PRINT "P pour pairs"
+450 LOCATE (17,25):PRINT "A pour  1 a 4"
+460 LOCATE (18,25):PRINT "B pour  6 a 9"
+470 LOCATE (19,25):PRINT "I pour  impairs"
+480 LOCATE (20,25):PRINT "P pour  pairs"
 490 LOCATE (10,25):PRINT "joueurs de"
 500 LOCATE (11,25):PRINT " 1 a 4 : "
 510 A$=KEY$

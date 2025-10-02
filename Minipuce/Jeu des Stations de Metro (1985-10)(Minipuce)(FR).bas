@@ -70,10 +70,10 @@
 700 PRINT "***********************"
 710 LOCATE (4,5):PRINT "Si vous empruntez quotidiennement"
 720 PRINT "le metro, vous connaissez sans doute par"
-730 PRINT " coeur le nom de toutes les stations de la ligne."
+730 PRINT "coeur le nom de toutes les stations de la ligne."
 740 LOCATE (10,5)
 750 PRINT "Cependant que savez vous des"
-760 PRINT " personnages celebres quo nomment ces station ?"
+760 PRINT "personnages celebres qui nomment ces stations ?"
 770 LOCATE (16,7)
 780 PRINT "Voulez vous lire le mode d'emploi (O/N)"
 790 REP$=KEY$:IF REP$="" THEN RANDOMIZE:GOTO 790
@@ -125,7 +125,7 @@
 1250 LOCATE (9,25):PRINT H$
 1260 LOCATE (12,25):PRINT T$(ST,2)
 1270 LOCATE (15,25):PRINT R$(FA)
-1280 LOCATE (6,2):PRINT "Tapez le numero de votre reponse ?"
+1280 LOCATE (6,2):PRINT "Tapez le numero de votre reponse ? "
 1290 Z$=KEY$:IF Z$="" THEN GOTO 1290
 1300 IF Z$<"0"OR Z$>"3" THEN GOTO 1290
 1310 NUMREP=ASC(Z$)-48:RD=RD+1
@@ -149,7 +149,7 @@
 1490 CALL COLOR("0MW")
 1500 LOCATE (19,4):PRINT "Votre score est de : ";SCORE;" sur ";MAX
 1510 IF CPT=49 THEN GOTO 1550
-1520 LOCATE (22,2):PRINT "Vous continuez (O/N) ?"
+1520 LOCATE (22,2):PRINT "Vous continuez (O/N) ? "
 1530 REP$=KEY$:IF REP$="" THEN GOTO 1530
 1540 IF REP$<>"N" THEN GOTO 870
 1550 LOCATE (22,2):PRINT "   Au   revoir ......."

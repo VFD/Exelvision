@@ -1,14 +1,7 @@
-50 !    *** SIGNIFICATION ***
-51 ! JJ=JOUR
-52 ! MM=MOI
-53 ! AA=ANNEE
-54 ! HH=HEURE
-55 ! MM=MINUTE
-56 ! NN=DEPARTEMENT DE NAISSANCE
-100 !----------------------------------!    !           THEME ASTRAL           !
-110 !      Edition PUSSY/MINIPUCE      !    !----------------------------------!
-120 !
-130 !ON ERROR 2040
+100 !-----------------------------------
+110 !          THEME ASTRAL
+120 !-----------------------------------
+130 ON ERROR 2040
 140 CLS "YMb"
 150 DIM PSI$(13),SIG$(13),DEP$(95),HET1$(24),HET2$(12),HSI$(31),AS$(2,14)
 160 GOSUB 940
