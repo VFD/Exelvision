@@ -17,6 +17,21 @@ Icon?
 *.tiff
 *.webp
 *.svg
+*.heif
+*.jfif
+*.hif
 
 # Ignore all PDF files
 *.pdf
+
+# Other
+*.doc
+*.docx
+*.xls
+*.xlxs
+*.txt
+
+# K7 Wav FD (for the moment)
+*.k7
+*.wav
+*.fd
