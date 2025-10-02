@@ -80,41 +80,46 @@ Analyse en cours. Mais déjà pas mal de choses.
 
 | No    | Source                             | Bas | K7 | Wav | FD | CRAM | BKP |
 |-------|------------------------------------|-----|----|-----|----|------|-----|
-| 01    | Exelplot                           | 📝 |
-| 01    | Exelspace                          | 📝 |
-| 01    | Courbes Mathematique               | 📝 |
-| 01    | Folklore Americain                 | 📝 |
-| 01    | Generation de Note Musicale        | 📝 |
-| 01    | Votre Biorythme                    | 📝 |
-| 02    | Boite a Rythme - Exeldrum          | 📝 |
-| 02    | Dynamique                          | 📝 |
-| 02    | Exelastre                          | 📝 |
-| 02    | Labyrinthe                         | 📝 |
-| 02    | Pedago                             | 📝 |
-| 03    | Editeur de Texte                   | 📝 |
-| 04    |
-| 05    | Tresors et Fantomes                | 📝 |
-| 06    | Mille-Pates                        | 📝 |
-| 07    | Ile maudite, L                     | 📝 |
-| 08(?) |
-| 09    | Mini Budget                        | 📝 |
-| 10    | Editeur de texte Cursif            | 📝 |
-| 10    | Football                           | 📝 |
-| 11    | Jeu de Cartes                      | 📝 |
-| 11    | Micro Facturation                  | 📝 |
-| 11    | Poker                              | 📝 |
-| 12    | Exeldomino                         | 📝 |
-| 13    | Facturation                        | 📝 |
-| 14    | Calendrier Perpetuel               | 📝 |
-| 14    | Europe et Tableau                  | 📝 |
-| 14    | Menu Deroulant                     | 📝 |
-| 15    | Histogramme                        | 📝 |
-| 16    | Fichier d'Adresses                 | 📝 |
-| 17-18 | Tarot                              | 📝 |
+| 01    | Exelplot                           | ❕ |  |  |  |  |  |
+| 01    | Exelspace                          | 📝 |  |  |  |  |  |
+| 01    | Courbes Mathematique               | 📝 |  |  |  |  |  |
+| 01    | Folklore Americain                 | ❕ |  |  |  |  |  |
+| 01    | Generation de Note Musicale        | ❕ |  |  |  |  |  |
+| 01    | Votre Biorythme                    | ❕ |  |  |  |  |  |
+| 02    | Boite a Rythme - Exeldrum          | 📝 |  |  |  |  |  |
+| 02    | Dynamique                          | 📝 |  |  |  |  |  |
+| 02    | Exelastre                          | 📝 |  |  |  |  |  |
+| 02    | Labyrinthe                         | 📝 |  |  |  |  |  |
+| 02    | Pedago                             | 📝 |  |  |  |  |  |
+| 03    | Editeur de Texte                   | 📝 |  |  |  |  |  |
+| 04    | Horloge Horaire                    | ❕ |  |  |  |  |  |
+| 05    | Tresors et Fantomes                | 📝 |  |  |  |  |  |
+| 05    | Recopie Ecran                      | 📝 |  |  |  |  |  |
+| 05    | ASM vers Data Basic                | 📝 |  |  |  |  |  |
+| 06    | Mille-Pates                        | ❕ |  |  |  |  |  |
+| 07    | Ile maudite, L                     | 📝 |  |  |  |  |  |
+| 08(?) |                                    |    |  |  |  |  |  |
+| 09    | Ile maudite, L \[FD\]              | 📝 | ✘ | ✘ |  |  |  |
+| 09    | Mini Budget                        | 📝 |  |  |  |  |  |
+| 09    | Auto Question                      | ❕ |  |  |  |  |  |
+| 09    | Calepin                            | 📝 |  |  |  |  |  |
+| 10    | Editeur de texte Cursif            | 📝 |  |  |  |  |  |
+| 10    | Football                           | 📝 |  |  |  |  |  |
+| 11    | Jeu de Cartes                      | 📝 |  |  |  |  |  |
+| 11    | Micro Facturation                  | 📝 |  |  |  |  |  |
+| 11    | Poker                              | 📝 |  |  |  |  |  |
+| 12    | Exeldomino                         | 📝 |  |  |  |  |  |
+| 13    | Facturation                        | 📝 |  |  |  |  |  |
+| 14    | Calendrier Perpetuel               | 📝 |  |  |  |  |  |
+| 14    | Europe et Tableau                  | 📝 |  |  |  |  |  |
+| 14    | Menu Deroulant                     | 📝 |  |  |  |  |  |
+| 15    | Histogramme                        | 📝 |  |  |  |  |  |
+| 16    | Fichier d'Adresses                 | 📝 |  |  |  |  |  |
+| 17-18 | Tarot                              | ❕ |  |  |  |  |  |
 | 19    | Star Trek                          | ❕ |  |  |  |  |  |
-| 20    | Jeu de la Vie, Le                  | 📝 |
-| 20    | Test et QI                         | 📝 |
-| 20    | Vie a Deux                         | 📝 |
+| 20    | Jeu de la Vie, Le                  | 📝 |  |  |  |  |  |
+| 20    | Test et QI                         | 📝 |  |  |  |  |  |
+| 20    | Vie a Deux                         | 📝 |  |  |  |  |  |
 
 
 (?) Ce numéro existe-t-il ?
@@ -133,52 +138,52 @@ Je crois qu'il y a tout.
 | 58        | Exelbad                         | 📝 |  |  |  |  |  |
 | 60        | Barman                          | ❕ |  |  |  |  |  |
 | 66        | Exelblitz                       | 📝 |  |  |  |  |  |
-| 67 à 69   | Exelmanoir                      | 📝 |  |  |  |  |  |
+| 67 à 69   | Exelmanoir                      | ❕ |  |  |  |  |  |
 | 70        | Croc en pomme                   | 📝 |  |  |  |  |  |
-| 71        | TMS7020                         | 📝 |  |  |  |  |  |
-| 72        | Jackpot                         | 📝 |  |  |  |  |  |
-| 73        | Générateur de caractère         | 📝 |  |  |  |  |  |
-| 74        | Réunion                         | 📝 |  |  |  |  |  |
-| 75 à 76   | Exelabyrinthe                   | 📝 |  |  |  |  |  |
-| 77        | Brique                          | 📝 |  |  |  |  |  |
-| 78        | Salaire                         | 📝 |  |  |  |  |  |
-| 79        | Exelstar                        | 📝 |  |  |  |  |  |
-| 80 à 81   | Saturne 3                       | 📝 |  |  |  |  |  |
-| 82        | Chenille                        | 📝 |  |  |  |  |  |
-| 83        | Atlant-Eat                      | 📝 |  |  |  |  |  |
+| 71        | TMS7020                         | ❕ |  |  |  |  |  |
+| 72        | Jackpot                         | ❕ |  |  |  |  |  |
+| 73        | Générateur de caractère         | ❕ |  |  |  |  |  |
+| 74        | Réunion                         | ❕ |  |  |  |  |  |
+| 75 à 76   | Exelabyrinthe                   | ❕ |  |  |  |  |  |
+| 77        | Brique                          | ❕ |  |  |  |  |  |
+| 78        | Salaire                         | ❕ |  |  |  |  |  |
+| 79        | Exelstar                        | ❕ |  |  |  |  |  |
+| 80 à 81   | Saturne 3                       | ❕ |  |  |  |  |  |
+| 82        | Chenille                        | ❕ |  |  |  |  |  |
+| 83        | Atlant-Eat                      | ❕ |  |  |  |  |  |
 | 84 à 86   | Exeldessin                      | 📝 |  |  |  |  |  |
-| 87        | 3D Teuf Teuf                    | 📝 |  |  |  |  |  |
-| 88        | Perspective                     | 📝 |  |  |  |  |  |
-| 89 à 90   | Sir Lancelot                    | 📝 |  |  |  |  |  |
-| 91 à 93   | Zombie                          | 📝 |  |  |  |  |  |
-| 94 à 97   | Citronnade                      | 📝 |  |  |  |  |  |
-| 94 à 97   | EXEL Missil                     | 📝 |  |  |  |  |  |
-| 94        | Exelmusic                       | 📝 |  |  |  |  |  |
-| 94        | Patrouille Lunaire              | 📝 |  |  |  |  |  |
-| 98 à 99   | Nocturnes                       | 📝 |  |  |  |  |  |
-| 100       | Strife                          | 📝 |  |  |  |  |  |
-| 101 à 102 | Star Wars                       | 📝 |  |  |  |  |  |
-| 103 à 104 | Stress                          | 📝 |  |  |  |  |  |
-| 105       | Rallye                          | 📝 |  |  |  |  |  |
-| 107 à 108 | Démon d'Exelvision              | 📝 |  |  |  |  |  |
-| 109 à 111 | Exelchateau                     | 📝 |  |  |  |  |  |
-| 112 à 115 | De l'or ou la mort              | 📝 |  |  |  |  |  |
-| 116 à 120 | Chevaux                         | 📝 |  |  |  |  |  |
-| 121 à 123 | Haltéro                         | 📝 |  |  |  |  |  |
-| 124 à 125 | Exelcar                         | 📝 |  |  |  |  |  |
-| 126 à 127 | Territoire                      | 📝 |  |  |  |  |  |
-| 128       | Exeldomino                      | 📝 |  |  |  |  |  |
-| 129 à 131 | Pinball                         | 📝 |  |  |  |  |  |
-| 132 à 133 | Memicon                         | 📝 |  |  |  |  |  |
-| 134 à 138 | Tarot                           | 📝 |  |  |  |  |  |
-| 139 à 141 | Recherche du Diamant Vert, A la | 📝 |  |  |  |  |  |
-| 142 à 145 | Manoir                          | 📝 |  |  |  |  |  |
-| 146       | Enigme                          | 📝 |  |  |  |  |  |
-| 146       | Monkey Kong                     | 📝 |  |  |  |  |  |
-| 146       | Tir au pigeon                   | 📝 |  |  |  |  |  |
-| 150 à 153 | Exlfrog                         | 📝 |  |  |  |  |  |
-| 154 à 159 | Carpathians 1879                | 📝 |  |  |  |  |  |
-| 160 à 165 | L'antre                         | 📝 |  |  |  |  |  |
+| 87        | 3D Teuf Teuf                    | ❕ |  |  |  |  |  |
+| 88        | Perspective                     | ❕ |  |  |  |  |  |
+| 89 à 90   | Sir Lancelot                    | ❕ |  |  |  |  |  |
+| 91 à 93   | Zombie                          | ❕ |  |  |  |  |  |
+| 94 à 97   | Citronnade                      | ❕ |  |  |  |  |  |
+| 94 à 97   | EXEL Missil                     | ❕ |  |  |  |  |  |
+| 94        | Exelmusic                       | ❕ |  |  |  |  |  |
+| 94        | Patrouille Lunaire              | ❕ |  |  |  |  |  |
+| 98 à 99   | Nocturnes                       | ❕ |  |  |  |  |  |
+| 100       | Strife                          | ❕ |  |  |  |  |  |
+| 101 à 102 | Star Wars                       | ❕ |  |  |  |  |  |
+| 103 à 104 | Stress                          | ❕ |  |  |  |  |  |
+| 105       | Rallye                          | ❕ |  |  |  |  |  |
+| 107 à 108 | Démon d'Exelvision              | ❕ |  |  |  |  |  |
+| 109 à 111 | Exelchateau                     | ❕ |  |  |  |  |  |
+| 112 à 115 | De l'or ou la mort              | ❕ |  |  |  |  |  |
+| 116 à 120 | Chevaux                         | ❕ |  |  |  |  |  |
+| 121 à 123 | Haltéro                         | ❕ |  |  |  |  |  |
+| 124 à 125 | Exelcar                         | ❕ |  |  |  |  |  |
+| 126 à 127 | Territoire                      | ❕ |  |  |  |  |  |
+| 128       | Exeldomino                      | ❕ |  |  |  |  |  |
+| 129 à 131 | Pinball                         | ❕ |  |  |  |  |  |
+| 132 à 133 | Memicon                         | ❕ |  |  |  |  |  |
+| 134 à 138 | Tarot                           | ❕ |  |  |  |  |  |
+| 139 à 141 | Recherche du Diamant Vert, A la | ❕ |  |  |  |  |  |
+| 142 à 145 | Manoir                          | ❕ |  |  |  |  |  |
+| 146       | Enigme                          | ❕ |  |  |  |  |  |
+| 146       | Monkey Kong                     | ❕ |  |  |  |  |  |
+| 146       | Tir au pigeon                   | ❕ |  |  |  |  |  |
+| 150 à 153 | Exlfrog                         | ❕ |  |  |  |  |  |
+| 154 à 159 | Carpathians 1879                | ❕ |  |  |  |  |  |
+| 160 à 165 | L'antre                         | ❕ |  |  |  |  |  |
 | 166 à 168 | Jump (\*)                       | ❌ |  |  |  |  |  |
 
 (\*) incomplet, car arrêt de publication de la revue.
@@ -194,16 +199,16 @@ J'en ai peut-être manqué.
 
 | No  | Source                  | Bas | K7 | Wav | FD | CRAM | BKP |
 |-----|-------------------------|-----|----|-----|----|------|-----|
-| 029 | Table de Multiplication | 📝 |  |  |  |  |  |
+| 029 | Table de Multiplication | ❕ |  |  |  |  |  |
 | 033 | Frikimmo                | ❕ |  |  |  |  |  |
 | 035 | Loto Sportif            | 📝 |  |  |  |  |  |
 | 035 | Pendu des Animaux, Le   | ❕ |  |  |  |  |  |
-| 036 | Carnet d'Adresses       | 📝 |  |  |  |  |  |
+| 036 | Carnet d'Adresses       | ❕ |  |  |  |  |  |
 | 037 | Corbeau et Renard, Le   | ❕ |  |  |  |  |  |
 | 037 | Char en Folie, Le       | 📝 |  |  |  |  |  |
 | HS  | Clavier Bavard          | ❕ |  |  |  |  |  |
 | HS  | Crayon Magique          | ❕ |  |  |  |  |  |
-| HS  | Formule 1               | 📝 |  |  |  |  |  |
+| HS  | Formule 1               | ❕ |  |  |  |  |  |
 | HS  | Musicorgue              | ❕ |  |  |  |  |  |
 | HS  | Threat Star             | 📝 |  |  |  |  |  |
 
@@ -214,39 +219,39 @@ ___
 ### PSI : 102 Programmes
 
 Livre daté de Janvier 1985.\
-Contient 101 programme est une aide au basic considérée comme 102ème.
+Contient 101 programme et une aide au basic considérée comme 102ème.
 
 
 
 | No  | Source                  | Bas | K7 | Wav | FD | CRAM | BKP |
 |-----|-------------------------|-----|----|-----|----|------|-----|
-| 001 | Nombre Mysterieux, Le   | 📝 |  |  |  |  |  |
-| 002 | Cube                    | 📝 |  |  |  |  |  |
-| 003 | Chaud, Froid            | 📝 |  |  |  |  |  |
-| 004 | Allumettes, Les         | 📝 |  |  |  |  |  |
-| 005 | Allumettes a Plusieurs  | 📝 |  |  |  |  |  |
-| 006 | Calendrier Perpetuel    | 📝 |  |  |  |  |  |
-| 007 | Bataille Naval          | 📝 |  |  |  |  |  |
-| 008 | Golf                    | 📝 |  |  |  |  |  |
-| 009 | Solfège                 | 📝 |  |  |  |  |  |
-| 010 | Jeu du 21, Le           | 📝 |  |  |  |  |  |
-| 011 | Pair - Impair           | 📝 |  |  |  |  |  |
-| 012 | Devine un Chiffre       | 📝 |  |  |  |  |  |
-| 013 | Jeu de Witthof          | 📝 |  |  |  |  |  |
-| 014 | Rebonds                 | 📝 |  |  |  |  |  |
-| 015 | Jackpot                 | 📝 |  |  |  |  |  |
-| 016 | Couloirs                | 📝 |  |  |  |  |  |
-| 017 | Echiquier               | 📝 |  |  |  |  |  |
-| 018 | Jeu de la Feve          | 📝 |  |  |  |  |  |
-| 019 | Jeu de l'Oie Aleatoire  | 📝 |  |  |  |  |  |
-| 020 | De Truque               | 📝 |  |  |  |  |  |
-| 021 | Visions                 | 📝 |  |  |  |  |  |
-| 022 | 421                     | 📝 |  |  |  |  |  |
+| 001 | Nombre Mysterieux, Le   | ❕ |  |  |  |  |  |
+| 002 | Cube                    | ❕ |  |  |  |  |  |
+| 003 | Chaud, Froid            | ❕ |  |  |  |  |  |
+| 004 | Allumettes, Les         | ❕ |  |  |  |  |  |
+| 005 | Allumettes a Plusieurs  | ❕ |  |  |  |  |  |
+| 006 | Calendrier Perpetuel    | ❕ |  |  |  |  |  |
+| 007 | Bataille Naval          | ❕ |  |  |  |  |  |
+| 008 | Golf                    | ❕ |  |  |  |  |  |
+| 009 | Solfège                 | ❕ |  |  |  |  |  |
+| 010 | Jeu du 21, Le           | ❕ |  |  |  |  |  |
+| 011 | Pair - Impair           | ❕ |  |  |  |  |  |
+| 012 | Devine un Chiffre       | ❕ |  |  |  |  |  |
+| 013 | Jeu de Witthof          | ❕ |  |  |  |  |  |
+| 014 | Rebonds                 | ❕ |  |  |  |  |  |
+| 015 | Jackpot                 | ❕ |  |  |  |  |  |
+| 016 | Couloirs                | ❕ |  |  |  |  |  |
+| 017 | Echiquier               | ❕ |  |  |  |  |  |
+| 018 | Jeu de la Feve          | ❕ |  |  |  |  |  |
+| 019 | Jeu de l'Oie Aleatoire  | ❕ |  |  |  |  |  |
+| 020 | De Truque               | ❕ |  |  |  |  |  |
+| 021 | Visions                 | ❕ |  |  |  |  |  |
+| 022 | 421                     | ❕ |  |  |  |  |  |
 | 023 | Electricien fou, L      | 📝 |  |  |  |  |  |
-| 024 | Course au 20, La        | 📝 |  |  |  |  |  |
-| 025 | Musique                 | 📝 |  |  |  |  |  |
-| 026 | Poker                   | 📝 |  |  |  |  |  |
-| 027 | Jeu de Saute-Mouton     | 📝 |  |  |  |  |  |
+| 024 | Course au 20, La        | ❕ |  |  |  |  |  |
+| 025 | Musique                 | ❕ |  |  |  |  |  |
+| 026 | Poker                   | ❕ |  |  |  |  |  |
+| 027 | Jeu de Saute-Mouton     | ❕ |  |  |  |  |  |
 | 028 | Lettres                 | 📝 |  |  |  |  |  |
 | 029 | Machinamot              | 📝 |  |  |  |  |  |
 | 030 | Espion                  | 📝 |  |  |  |  |  |
@@ -317,7 +322,7 @@ Contient 101 programme est une aide au basic considérée comme 102ème.
 | 095 | Obstacles               | 📝 |  |  |  |  |  |
 | 096 | Captures dans l'Espace  | 📝 |  |  |  |  |  |
 | 097 | Anomalie                | 📝 |  |  |  |  |  |
-| 098 | Plusieur en Un          | 📝 |  |  |  |  |  |
+| 098 | Plusieurs en Un         | 📝 |  |  |  |  |  |
 | 099 | Parcours du Cavalier    | 📝 |  |  |  |  |  |
 | 100 | Mur de Brique           | 📝 |  |  |  |  |  |
 | 101 | Othello                 | 📝 |  |  |  |  |  |
@@ -332,46 +337,61 @@ Pour le 25 ce sont des compléments à la programmation en Basic.
 
 
 
-| No | Source                              | Bas | K7 | Wav | FD | CRAM | BKP |
-|----|-------------------------------------|-----|----|-----|----|------|-----|
-| 01 | Calculette                          | 📝 |  |  |  |  |  |
-| 02 | Dates                               | ❕ |  |  |  |  |  |
-| 03 | Dump                                | 📝 |  |  |  |  |  |
-| 04 | Fonctions Complementaires           | ❕ |  |  |  |  |  |
-| 05 | Histogramme                         | ❕ |  |  |  |  |  |
-| 06 | Initialisation Imprimante           | 📝 |  |  |  |  |  |
-| 07 | Message Defilant                    | ❕ |  |  |  |  |  |
-| 08 | Operation sur Valeurs Hexadecimales | 📝 |  |  |  |  |  |
-| 09 | Plan                                | 📝 |  |  |  |  |  |
-| 10 | Pronostics Tierce                   | 📝 |  |  |  |  |  |
-| 11 | Tris                                | 📝 |  |  |  |  |  |
-| 12 | Barman                              | ❕ |  |  |  |  |  |
-| 13 | Bombardier                          | ❕ |  |  |  |  |  |
-| 14 | Citation                            | 📝 |  |  |  |  |  |
-| 15 | Coeur Secret                        | 📝 |  |  |  |  |  |
-| 16 | Jeu des Stations de Metro           | 📝 |  |  |  |  |  |
-| 17 | Rouge et le Noir, Le                | 📝 |  |  |  |  |  |
-| 18 | Loto                                | 📝 |  |  |  |  |  |
-| 19 | Petanque                            | 📝 |  |  |  |  |  |
-| 20 | Sahara                              | 📝 |  |  |  |  |  |
-| 21 | Suite Logique                       | 📝 |  |  |  |  |  |
-| 22 | Tapis Vert                          | 📝 |  |  |  |  |  |
-| 23 | Taquin Rotatif                      | 📝 |  |  |  |  |  |
-| 24 | Theme Astral                        | 📝 |  |  |  |  |  |
-| 25 | (\*)                                | 📝 |  |  |  |  |  |
+| No | Source                              | T | Bas | K7 | Wav | FD | CRAM | BKP |
+|----|-------------------------------------|---|-----|----|-----|----|------|-----|
+| 01 | Calculette                          | A | 📝 |  |  |  |  |  |
+| 02 | Dates                               | A | ❕ |  |  |  |  |  |
+| 03 | Dump                                | A | 📝 |  |  |  |  |  |
+| 04 | Fonctions Complementaires           | A | ❕ |  |  |  |  |  |
+| 05 | Histogramme                         | A | ❕ |  |  |  |  |  |
+| 06 | Initialisation Imprimante           | A | 📝 |  |  |  |  |  |
+| 07 | Message Defilant                    | A | ❕ |  |  |  |  |  |
+| 08 | Operation sur Valeurs Hexadecimales | A | 📝 |  |  |  |  |  |
+| 09 | Plan                                |   | 📝 |  |  |  |  |  |
+| 10 | Pronostics Tierce                   |   | 📝 |  |  |  |  |  |
+| 11 | Tris                                | A | 📝 |  |  |  |  |  |
+| 12 | Barman                              | G | ❕ |  |  |  |  |  |
+| 13 | Bombardier                          | G | ❕ |  |  |  |  |  |
+| 14 | Citation                            | E | 📝 |  |  |  |  |  |
+| 15 | Coeur Secret                        |   | 📝 |  |  |  |  |  |
+| 16 | Jeu des Stations de Metro           | G | ❕ |  |  |  |  |  |
+| 17 | Rouge et le Noir, Le                |   | 📝 |  |  |  |  |  |
+| 18 | Loto                                |   | 📝 |  |  |  |  |  |
+| 19 | Petanque                            | G | ❕ |  |  |  |  |  |
+| 20 | Sahara                              |   | 📝 |  |  |  |  |  |
+| 21 | Suite Logique                       |   | 📝 |  |  |  |  |  |
+| 22 | Tapis Vert                          |   | 📝 |  |  |  |  |  |
+| 23 | Taquin Rotatif                      |   | 📝 |  |  |  |  |  |
+| 24 | Theme Astral                        | A | ❕ |  |  |  |  |  |
+| 25 | (\*)                                |   | 📝 |  |  |  |  |  |
 
 (\*) Complément basic. Plusieurs listing.
+
+A : Applications\
+C : Compilations\
+E : Educational\
+D : Demos\
+G : Games
+
 
 ___
 ### Autres
 
+
+#### RPUFOS
+
+GAM JAM 2022.
+
+
 #### Minitel
 
 Il y avait beaucoup de logiciels via le Minitel.\
-On ne désespère pas de tomber sur des pépites.
+On ne désespère pas de tomber sur des K7 pépites ou autres pour les avoir.
 
-#### Anonymes
+#### ToSort
 
-:-)
+Le bazar...\
+:-)\
+Fourre tout de listing inconnus et à trier.
 
 ___
