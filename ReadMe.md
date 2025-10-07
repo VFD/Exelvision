@@ -86,7 +86,7 @@ https://www.ti99.com/exelvision/website/
 
 https://www.archive.org/
 
-Annecdote : Edition PUSSY n'a jamais existé, c'est un pseudo de programmeur. Recherches suplémentaires en cours.\
+Annecdote : Edition PUSSY n'a jamais existé, c'est un pseudo de programmeur (Walter FILLON).\
 cf. : http://miniordi.free.fr/exl100
 
 
@@ -490,6 +490,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
