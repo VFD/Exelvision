@@ -31,3 +31,9 @@ Que l'on aime ou pas les IA, c'est un outil comme un autre.
 Cela n'empêche pas un humain d'aprendre aussi...
 
 ___
+## Bugs report
+
+### Horloge Horaire
+Bug dans l'émulateur DCExel.
+
+___
