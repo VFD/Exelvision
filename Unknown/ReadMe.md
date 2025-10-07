@@ -1,4 +1,4 @@
-# Les inconnues
+# Les inconnus
 
 ## Introduction
 
