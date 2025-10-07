@@ -182,6 +182,16 @@ ___
 à faire.
 
 ___
+### ABC Micro
+
+
+| No | Source                              | T | Bas | K7 | Wav | FD | CRAM | BKP |
+|----|-------------------------------------|---|-----|----|-----|----|------|-----|
+| 87 | Exocet                              | G | 📝 |  |  |  |  |  |
+
+
+
+___
 ### Hebdogiciel
 
 Revue française très connu par chez nous, au ton acerbe.\
@@ -277,7 +287,7 @@ ___
 
 | No | Source                              | T | Bas | K7 | Wav | FD | CRAM | BKP |
 |----|-------------------------------------|---|-----|----|-----|----|------|-----|
-| 15 | Kim musical                         | G | ❕ |  |  |  |  |  |
+| 15 | Kim Musical                         | G | ❕ |  |  |  |  |  |
 
 Le listing sera aussi publié dans « EXL100 à l'école » plus tard dans l'année.
 
@@ -477,6 +487,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
