@@ -379,13 +379,23 @@ G : Games
 TO DO: Validez tous les sources.
 
 ___
-### Autres
+### EXL100 à l'école
 
+En cours.
 
-#### RPUFOS
+___
+### Votre Ordinateur
+
+En cours.
+
+___
+### RPUFOS
 
 GAM JAM 2022.
 
+
+___
+### Autres
 
 #### Minitel
 
@@ -397,5 +407,6 @@ On ne désespère pas de tomber sur des K7 pépites ou autres pour les avoir.
 Le bazar...\
 :-)\
 Fourre tout de listing inconnus et à trier.
+
 
 ___
