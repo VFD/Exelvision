@@ -2,6 +2,11 @@
 
 Tilt no35, 1986-10.
 
+## Introduction
+
+Le loto sportif est entré par la grande porte dans la catégorie des jeux de paris, devançant même le tiercé et autres Tac o Tac.
+Voici donc un programme qui aidera les fans du ballon sous toutes ses formes à pronostiquer les matches à venir et, nous l'espérons vivement, à remporter le gros lot!
+
 ## Notice
 
 A l'aide des flèches montante et descendante, positionnez l'inversion vidéo sur le sport choisi et frapper (espace).
@@ -22,3 +27,4 @@ A n'importe quel moment des saisies, vous pouvez demander l'affichage du bulleti
 Cette commande avant édition vous demandera si vous souhaitez intervenir sur le rapport (+chance=-gains) ou (-chance=+gains).
 
 Enfin, vous pouvez annuler toutes les saisies en sélectionnant « ANNULATION ».
+
