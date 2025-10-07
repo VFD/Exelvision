@@ -228,6 +228,22 @@ J'en ai peut-être manqué.
 HS : Hors Série, Mars 1987, 240 listings.
 
 ___
+### Votre Ordinateur
+
+1 seul trouvé dans le N° 15 juillet-août 1985.
+
+| No | Source                              | T | Bas | K7 | Wav | FD | CRAM | BKP |
+|----|-------------------------------------|---|-----|----|-----|----|------|-----|
+| 15 | Kim musical                         | G | ❕ |  |  |  |  |  |
+
+Le listing sera aussi publié dans « EXL100 à l'école » plus tard dans l'année.
+
+___
+### L'Ordinateur individuel
+
+En cours.
+
+___
 ### PSI : 102 Programmes
 
 Livre daté de Janvier 1985.\
@@ -395,10 +411,6 @@ ___
 
 En cours.
 
-___
-### Votre Ordinateur
-
-En cours.
 
 ___
 ### RPUFOS
@@ -422,5 +434,6 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
