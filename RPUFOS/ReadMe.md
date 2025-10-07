@@ -1,7 +1,7 @@
 # RPUFOS
 
 ## Introduction
-Listings produit pour la GAME JAM RUFOS concernant l'EXL.
+Listings produits pour la GAME JAM RPUFOS concernant l'EXL.
 
 ___
 ## Les sources des publications pour Exelvision
