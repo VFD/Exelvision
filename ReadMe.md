@@ -38,6 +38,16 @@ ___
 
 Si vous avez les codes sources, merci de me le faire savoir afin que je les ajoute.
 
+### Sources Web
+
+https://abandonware-magazines.org/
+
+http://dcexel.free.fr/
+
+https://www.ti99.com/exelvision/website/
+
+https://www.archive.org/
+
 
 ### Status
 
@@ -410,3 +420,4 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
