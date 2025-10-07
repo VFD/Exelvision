@@ -7,7 +7,7 @@ Les sources Exelvison.
 
 Que ce soit des fichiers en basic ou assembleur et aussi les codes vocaux (ref. VOX).
 
-Exelvision faisait aussi des publicité dans des revue avec en particulier des codes vocaux pour faire parler la machine.
+Exelvision faisait aussi des publicités dans des revues avec en particulier des codes vocaux pour faire parler la machine.
 
 
 
@@ -26,5 +26,6 @@ Il faut donc voir aussi les codes sources et faire l'analyse pour reconstituer l
 
 Autre travail : refaire des scans de très haute qualité, type archivage comme pourrait le faire la BnF.
 
+Je recherche ces revues pour faire les scans HDEF.
 
 ___
