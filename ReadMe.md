@@ -33,6 +33,30 @@ IA (LLM) et Système Expert.\
 Mise au point d'un agent dédié Exelvision.\
 Préparation pour une database.
 
+```mermaid
+block
+columns 1
+
+  block:SEQ
+    columns 3
+    U["User input"]
+    AIA["AI Agent"]
+    O["Output"]
+  end
+
+space
+
+block:DATA
+  LLM[["LLM"]]
+  D["Documents"]
+  Rules
+  M[("Memory")]
+end
+
+AIA --> DATA
+DATA --> AIA
+```
+
 ___
 ## Ressources
 
@@ -143,7 +167,7 @@ ___
 
 Revue française très connu par chez nous, au ton acerbe.\
 50 références à date.\
-Je crois qu'il y a tout.
+Je crois qu'il y a tout dans la liste ci-dessous.
 
 | No        | Source                          | Bas | K7 | Wav | FD | CRAM | BKP |
 |-----------|---------------------------------|-----|----|-----|----|------|-----|
@@ -434,6 +458,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
