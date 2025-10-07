@@ -29,9 +29,14 @@ Voir aussi mon projet RPUFOS.
 
 ### 2
 
+#### Explications
 IA (LLM) et Système Expert.\
 Mise au point d'un agent dédié Exelvision.\
 Préparation pour une database.
+- Documents
+- Règles (Rules)
+
+#### Schéma d'un agent IA
 
 ```mermaid
 block
@@ -458,6 +463,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
