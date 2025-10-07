@@ -73,13 +73,15 @@ The current state of each program's porting process is indicated by the icons sh
 L'Exlmémoire dispose d'une pile, mais le changement de pile fait perdre toutes les données. D'où la nécessité d'une sauvegarde (BKP).
 
 Les cassettes audio n'étant plus fabriquées, le fichier Wav sert de remplacement.\
-Il est tout à fait possible de copie le WAV sur une cassette si vous en possédez.
+Il est tout à fait possible de copier le WAV sur une cassette si vous en possédez.\
+Cependant utiliser un player MP3 doit faire l'affaire.
 
 ___
 ### David H. Ahl
 
 Voir le projet RPUFOS.\
-L'idée est d'adapter en force brute tous ses programmes.
+L'idée est d'adapter en force brute tous ses programmes.\
+C'est long et fastidieux...
 
 ___
 ### Exelement Votre
@@ -420,4 +422,5 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
