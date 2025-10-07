@@ -1,4 +1,4 @@
-# Basic et Basic+ pour Exelvision
+# Exelbasic et Exelbasic+ pour Exelvision
 
 ___
 ## introduction
@@ -19,6 +19,18 @@ Le JSON semble plus pertinent.
 Reste la méthode.
 - 1 fichier par mot clé
 - 1 fichier qui contient tout.
+
+## Mots clés
+
+### Exelbasic
+
+
+
+
+### Exelbasic+
+
+Les ajout :
+
 
 
 ___
