@@ -34,7 +34,11 @@ IA (LLM) et Système Expert.\
 Mise au point d'un agent dédié Exelvision.\
 Préparation pour une database.
 - Documents
+  - Listings Basic
+  - Listings assembleur
 - Règles (Rules)
+  - json (?)
+  - autre (?)
 
 #### Schéma d'un agent IA
 
@@ -463,6 +467,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
