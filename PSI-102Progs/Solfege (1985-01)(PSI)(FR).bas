@@ -1,0 +1,22 @@
+10 REM Solfege
+20 INPUT "Donnez un entier : " ;F
+30 RANDOMIZE F
+40 S=0:P=0
+50 CLS
+60 FOR I=1 TO 5
+70 LOCATE (2*I+1,1)
+80 FOR J=1 TO 39:PRINT "-";:NEXT J
+90 NEXT I
+100 X=INTRND(12)
+110 LOCATE (X,18):PRINT "I"
+120 LOCATE (X+1,18):PRINT "I"
+130 LOCATE (X+2,17):PRINT "O"
+140 LOCATE (21,1):PRINT "Score";S;"sur";P;"essai(s)."
+150 INPUT "Cle de Sol.Quelle est la note? ";:R$
+160 IF R$="O" THEN END
+170 Y=(1 AND R$="FA")+(2 AND R$="MI")+(3 AND R$="RE")+(4 AND R$="DO")
+180 Y=Y+(5 AND R$="SI")+(6 AND R$="LA")
+190 P=P+1
+200 IF R$="SOL" THEN R$="SO"
+210 IF Y=X OR Y=X-7 THEN S=S+1
+220 GOTO 50

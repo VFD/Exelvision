@@ -1,0 +1,28 @@
+10 REM Jackpot
+20 INPUT "Donnez un entier : ";F
+30 RANDOMIZE F
+40 INPUT "Pot de debut : ";P
+50 CLS
+80 IF R$="A"THEN 2000
+90 LOCATE (12,1):INPUT "Votre mise : ";M
+110 GOSUB 1000
+120 A=X
+130 GOSUB 1000
+140 B=X
+150 GOSUB 1000
+160 C=X
+170 LOCATE (7,7):PRINT A;"     ";B;"     ";C
+180 IF A=B AND A=C THEN 300
+190 N=-M
+200 LOCATE (12,1):PRINT "Mise :";M;"  Resultat : ";N
+210 PRINT "Tapez C pour continuer, A pour arreter.":INPUT R$
+220 P=P+N
+230 GOTO 50
+300 N=M*50
+310 IF A=7 THEN N=M*S00
+320 GOTO 200
+1000 X=INTRND(9)
+1010 RETURN
+2000 CLS
+2010 PRINT "Vous avez ";P
+2020 PRINT "A bientot."

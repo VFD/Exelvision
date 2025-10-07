@@ -1,0 +1,39 @@
+10 REM Pair-Impair
+20 INPUT "Donnez un entier : " ;F
+30 RANDOMIZE F
+40 T=0:R=0
+50 GOSUB 1000
+60 A=X
+70 GOSUB 1000
+80 R=R+1
+90 S=A+X
+100 CLS
+110 INPUT "Total pair(0) ou impair(1) : ";N
+120 PRINT
+130 P=S/2-INT(S/2)
+140 IF N=P OR N-.5=P THEN 170
+150 PRINT "Faux !"
+160 GOTO 190
+170 PRINT "Exact"
+180 T=T+1
+190 PRINT
+200 INPUT "Total presume : ";N
+210 IF N=S THEN 250
+220 PRINT "perdu."
+230 FOR I=1 TO 900:NEXT I
+240 GOTO 400
+250 PRINT
+260 T=T+2
+270 INPUT "Bravo. Donnez un de : ";N
+280 IF N<>A AND N<>S-A THEN 220
+290 T=T+3
+300 PRINT
+310 PRINT "Bravo":GOTO 230
+400 CLS
+410 PRINT "Vous avez un total de";T;"sur";R;"jeu(x)."
+420 PRINT
+430 INPUT "On continue (O/N) : ";R$
+440 IF R$="N" THEN END
+450 GOTO 50
+1000 X=INTRND(6)
+1010 RETURN

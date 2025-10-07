@@ -1,0 +1,46 @@
+
+100 ! EXELDRUMS
+110 !
+120 DIM T(18)! table des instruments
+130 DATA 0,32,64,4,36,8, 168, 12,44,76, 108, 16,48,80, 112, 176,20,84
+140 DATA grosse caisse 0
+150 DATA tom 1 0
+160 DATA tom 2 0
+170 DATA charleston fermé 1
+180 DATA charleston ouvert 1
+190 DATA cymbale 2
+200 DATA maracas 2
+210 DATA caisse claire 3
+220 DATA roulement 3
+230 DATA brosse 3
+240 DATA rim-shot 3
+250 DATA maracas 4
+260 DATA tambourin 4
+270 DATA tom 1 4
+280 DATA tom2 4
+290 DATA claves 4
+300 DATA cloche 5
+310 DATA clap-hand 5
+320 RESTORE 130
+330 FOR 1=1 TO 18
+340 READ A:T(I) = A:NEXT
+350 !
+360 ! PROGRAMME TEST
+370 CLS:LOCATE (8,3)
+380 CALL COLOR("ObL")
+390 PRINT "eexxeellddrruummss eenn BBAASSIICC"
+400 LOCATE (12,5)
+410 CALL COLOR("OBC")
+420 PRINT "instrument canal"
+430 PAUSE 1
+440 RESTORE 140
+450 CALL COLOR("ORC")
+460 FOR 1 = 1 TO 18
+470 READ A$:LOCATE (14,5)
+480 PRINT A$
+490 CALL POKE(305,T(I))
+500 CALL POKE(306,T(I))
+510 PAUSE 1
+520 NEXT
+530 CLS
+540 END

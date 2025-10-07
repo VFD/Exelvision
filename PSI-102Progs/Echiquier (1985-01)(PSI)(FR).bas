@@ -1,0 +1,13 @@
+10 REM Echiquier
+20 CLS "CBB": CALL COLOR ("0CB")
+30 A$=CHR$(160)&CHR$(160)
+40 PRINT "      A   B   C   D   E   F   G   H":PRINT
+50 FOR I=1 TO 8
+60 FOR J=1 TO 2
+70 IF J=2 THEN B$=CHR$(I+48)&"   " ELSE B$="    "
+80 FOR K=1 TO 8
+90 IF (I+K)/2<>INT((I+K)/2)THEN B$=B$&A$&A$ ELSE B$=B$&"    " 
+100 NEXT K
+110 PRINT B$
+120 NEXT J
+130 NEXT I

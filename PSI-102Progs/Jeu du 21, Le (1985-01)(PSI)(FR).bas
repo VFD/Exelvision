@@ -1,0 +1,39 @@
+10 REM Jeu du 21
+20 G=0
+30 INPUT "Donnez un entier : " ;F
+40 RANDOMIZE F
+50 CLS
+60 T=0
+70 INPUT "Votre mise";M
+80 PRINT "Faire 1 pour tirer, 0 pour finir. ";
+90 IF R=0 THEN 150
+100 GOSUB 1000
+110 T=T+X
+120 PRINT "Votre total est de";T
+130 GOTO 80
+140 CLS
+150 PRINT:PRINT "La banque joue"
+160 S=0
+170 GOSUB 1000
+180 S=S+X
+190 PRINT "Total de la banque";S
+200 FOR I=1 TO 500:NEXT I
+210 IF S>T OR S>17 THEN 230
+220 GOTO 170
+230 FOR I=1 TO 1000:NEXT I:CLS
+240 PRINT "Vous avez";T
+250 PRINT
+260 PRINT "La banque a";S
+270 PRINT
+280 IF S>21 OR (S<T AND T<=21)THEN 300
+290 M=-M
+300 PRINT "Gain :";M
+310 PRINT
+320 G=G+M
+330 PRINT "Votre total actuel :";G
+340 PRINT
+350 INPUT "On continue (O/N) : ";R$
+360 IF R$="N" THEN END
+370 GOTO 50
+1000 X=INT(RND*6+1)
+1010 RETURN

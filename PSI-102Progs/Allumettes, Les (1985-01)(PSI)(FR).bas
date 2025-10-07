@@ -1,0 +1,26 @@
+10 REM Les allumettes
+20 CLS
+30 INPUT "Nombre total : ";N
+40 INPUT "Prise maximum : ";I
+50 INPUT "Qui commence (Vous:0, Moi:1) " ;D
+60 IF D=1 THEN 110
+70 INPUT "Vous retirez ";P
+80 IF P<>INT(P)OR P<1 OR P>I THEN 70
+90 D=1
+100 GOTO 1010
+110 S=I+D
+120 T=(N-S)/(I+D)
+130 IF T=INT(T)THEN 200
+140 S=S-D
+150 GOTO 120
+200 P=ABS(S-D)
+210 IF P=0 THEN P=D
+220 D=0
+1000 PRINT "Je retire";P
+1010 N=N-P
+1020 PRINT "Il reste";N
+1030 IF N=0 THEN 2000
+1040 GOTO 60
+2000 CLS
+2010 IF D=1 THEN PRINT "Bravo !"
+2020 IF D<>1 THEN PRINT "J'ai gagne."
