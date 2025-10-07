@@ -7,7 +7,7 @@ Le but et de définir la syntaxe par des règles.\
 De façon à les faire ingurgiter par les IA.
 
 Un langage de programmation ayant des règles bien précise pour programmer.\
-Sinon « SYNTAX EROR »
+Sinon « SYNTAX ERROR »
 
 ___
 ## Etude
