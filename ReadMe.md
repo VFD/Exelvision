@@ -13,7 +13,9 @@ Concerne les ordinateurs:
 - EXELTEL
 
 Première annonce vers mai 1984.\
-Mis sur le marché en septembre 1984, donc recherche à partir de cette date dans les revues de l'époque.
+Mis sur le marché en septembre 1984, donc recherche à partir de cette date dans les revues de l'époque.\
+Fin de production ?\
+Liquidation de la société Exelvision ?.
 
 ## Objectifs
 
@@ -475,6 +477,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
