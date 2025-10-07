@@ -12,6 +12,8 @@ Concerne les ordinateurs:
 - EXL100
 - EXELTEL
 
+Mis sur le marché en septembre 1984, donc recherche à partir de cette date dans les revues de l'époque.
+
 ## Objectifs
 
 ### 1
@@ -472,6 +474,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
