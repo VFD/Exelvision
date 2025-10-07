@@ -19,6 +19,8 @@ https://abandonware-magazines.org/affiche_mag.php?mag=28
 ___
 ## Les sources des publications pour Exelvision
 
+Apparement tous les programmes ont été écrit par Jean CHAGNY.
+
 Section concernant la revue Tilt.\
 Plusieurs listings publiés.\
 Possible oubli, si vous avez des références, me le faire savoir.
