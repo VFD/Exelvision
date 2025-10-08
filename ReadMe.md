@@ -86,9 +86,6 @@ https://www.ti99.com/exelvision/website/
 
 https://www.archive.org/
 
-Annecdote : Edition PUSSY n'a jamais existé, c'est un pseudo de programmeur (Walter FILLON).\
-cf. : http://miniordi.free.fr/exl100
-
 
 ### Status
 
@@ -191,7 +188,6 @@ ___
 | No | Source                              | T | Bas | K7 | Wav | FD | CRAM | BKP |
 |----|-------------------------------------|---|-----|----|-----|----|------|-----|
 | 87 | Exocet                              | G | 📝 |  |  |  |  |  |
-
 
 
 ___
@@ -477,6 +473,12 @@ GAM JAM 2022.
 ___
 ### Autres
 
+### Edition PUSSY
+
+Annecdote : Edition PUSSY n'a jamais existé, c'est un pseudo de programmeur (Walter FILLON).\
+cf. : http://miniordi.free.fr/exl100
+
+
 #### Minitel
 
 Il y avait beaucoup de logiciels via le Minitel.\
@@ -490,6 +492,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
