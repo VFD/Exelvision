@@ -473,7 +473,7 @@ GAM JAM 2022.
 ___
 ### Autres
 
-### Edition PUSSY
+#### Edition PUSSY
 
 Annecdote : Edition PUSSY n'a jamais existé, c'est un pseudo de programmeur (Walter FILLON).\
 cf. : http://miniordi.free.fr/exl100
@@ -492,6 +492,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
