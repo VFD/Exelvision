@@ -23,7 +23,7 @@ http://dcexel.free.fr/
 ___
 ## Revues
 
-
+___
 ### Exelement Votre
 
 20 numéros dont 1 double (ou 2 ?).\
@@ -31,27 +31,40 @@ Dédiée au ordinateurs de la marque, nombreux listings, cf. ReadMe.md.
 
 Scan médiocres pour la majorité.
 
+___
 ### Hebdogiciel
 
 Nombreux listings, cf. ReadMe.md.
 
 
-
+___
 ### L'Ordinateur Individuel
 
 Test de l'EXL100 dans le no xx.
 
+___
+### Education Informatique
 
+No29, novembre 1985 :\
+page 22, présentation de l'EXL100.\
+page 36, 37, encart pub vantant 200 logiciel...
 
+No36, janvier 1987 :\
+Page 10 à 12, Ma Classe avec Exeltexte. ça à le mérite d'être aussi un bon tuto.\
+Page 28, référence à des logiciels.
 
+No38, Mai/Août 1987 :\
+Page 20 et 21, Fiche pratique Exelmodem.
+
+___
 ### Tilt
 
 Plusieurs No avec des Listings, cf. ReadMe.md.\
 No 29, 33, 35, 36, 37 et HS 03.
 
+Trouver ceux ayant les publications Club Exelvision (fichiers VOX par exemple).
 
-
-
+___
 ### Votre Ordinateur
 
 15 numéros.\
@@ -69,7 +82,8 @@ Du livre « **EXL100 à l'école** ».
 ___
 ## Livres
 
-
+- 102 Programmes, PSI.
+- EXL100 à l'école
 
 
 ___
