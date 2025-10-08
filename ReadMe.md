@@ -194,7 +194,7 @@ ___
 à faire.
 
 ___
-### ABC Micro
+### ABC Informatique
 
 Un seul listing trouvé à date.
 
@@ -202,6 +202,7 @@ Un seul listing trouvé à date.
 |----|-------------------------------------|---|-----|----|-----|----|------|-----|
 | 87 | Exocet                              | G | ❕ |  |  |  |  |  |
 
+NDR : Erreur de nom de répertoire à corriger.
 
 ___
 ### Hebdogiciel
@@ -289,8 +290,11 @@ J'en ai peut-être manqué.
 | HS  | Musicorgue              | ❕ |  |  |  |  |  |
 | HS  | Threat Star             | 📝 |  |  |  |  |  |
 
-
 HS : Hors Série, Mars 1987, 240 listings.
+
+NDR : Exelvision y publiait des encarts « Club Exelvision ».\
+Recherche en cours pour les ajouter.
+
 
 ___
 ### Votre Ordinateur
@@ -524,6 +528,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
