@@ -6,6 +6,8 @@ ___
 Prise de notes pour des réféencements concernant Exelvision.\
 Toujours en « travail en cours ».\
 
+C'est le souc mais faut bien tenter de référencer les choses.\
+Et on peut éventuellement découvrir des pépites.
 
 ___
 ## Sites Internet
