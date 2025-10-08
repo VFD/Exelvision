@@ -196,11 +196,16 @@ ___
 ___
 ### ABC Informatique
 
-Un seul listing trouvé à date.
+Il s'agit d'une encyclopédie.\
+3 listings trouvé à date.
 
 | No | Source                              | T | Bas | K7 | Wav | FD | CRAM | BKP |
 |----|-------------------------------------|---|-----|----|-----|----|------|-----|
 | 87 | Exocet                              | G | ❕ |  |  |  |  |  |
+| 89 | Numerix                             | G | 📝 |  |  |  |  |  |
+| 90 | Atterissage                         | G | 📝 |  |  |  |  |  |
+
+Les listings sont signés SYBEX.
 
 NDR : Erreur de nom de répertoire à corriger.
 
@@ -528,6 +533,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
