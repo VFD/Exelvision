@@ -200,7 +200,7 @@ Un seul listing trouvé à date.
 
 | No | Source                              | T | Bas | K7 | Wav | FD | CRAM | BKP |
 |----|-------------------------------------|---|-----|----|-----|----|------|-----|
-| 87 | Exocet                              | G | 📝 |  |  |  |  |  |
+| 87 | Exocet                              | G | ❕ |  |  |  |  |  |
 
 
 ___
@@ -524,6 +524,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
