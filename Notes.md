@@ -59,6 +59,12 @@ No38, Mai/Août 1987 :\
 Page 20 et 21, Fiche pratique Exelmodem.
 
 ___
+### LED Micro
+
+No14, Novembre 1984 :\
+Page 57, présentation de l'EXL100.
+
+___
 ### Tilt
 
 Plusieurs No avec des Listings, cf. ReadMe.md.\
