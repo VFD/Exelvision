@@ -102,11 +102,23 @@ The current state of each program's porting process is indicated by the icons sh
 
 | ref  | Commentaire                             |
 |------|-----------------------------------------|
+| T    | Type                                    |
 | Bas  | Source format Basic                     |
 | K7   | fichier cassette emulation              |
 | Wav  | Fichier WAV pour magnétophone           |
 | CRAM | Exelmémoire 16k (EXL100); 64K (Exeltel) |
 | BKP  | Sauvegarde K7 Exelmémoire               |
+
+Pour la colonne T (Type) :
+
+| T  | Commentaire                             |
+|------|-----------------------------------------|
+| A | Applications                               |
+| C | Compilations                               |
+| E | Educational                                |
+| D | Demos                                      |
+| G | Games                                      |
+
 
 L'Exlmémoire dispose d'une pile, mais le changement de pile fait perdre toutes les données. D'où la nécessité d'une sauvegarde (BKP).
 
@@ -117,7 +129,7 @@ Cependant utiliser un player MP3 doit faire l'affaire.
 ___
 ### David H. Ahl
 
-Voir le projet RPUFOS.\
+Voir le projet [RPUFOS](https://github.com/VFD/RPUFOS).\
 L'idée est d'adapter en force brute tous ses programmes.\
 C'est long et fastidieux...
 
@@ -450,13 +462,7 @@ Il y a aussi 3 programmes de tris.
 
 (\*) Complément basic. Plusieurs listing. Mis en MarkDown.
 
-A : Applications\
-C : Compilations\
-E : Educational\
-D : Demos\
-G : Games
-
-TO DO: Validez tous les sources.
+TO DO: Valider tous les sources.
 
 ___
 ### EXL100 à l'école
@@ -517,6 +523,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
