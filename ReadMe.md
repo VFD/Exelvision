@@ -478,6 +478,31 @@ ___
 Annecdote : Edition PUSSY n'a jamais existé, c'est un pseudo de programmeur (Walter FILLON).\
 cf. : http://miniordi.free.fr/exl100
 
+| Source                              | T | Bas | K7 | Wav | FD | CRAM | BKP |
+|-------------------------------------|---|-----|----|-----|----|------|-----|
+| Air-Ball                            | G | ✅ | ✅ | ✅ |  |  |  |
+| Direct (Utilitaire)                 | A | ✅ | ✅ | ✅ |  |  |  |
+| Donkey Kong (Remake)                | G | ✅ | ✅ | ✅ |  |  |  |
+| Dynamite-Ball                       | G | ✅ | ✅ | ✅ |  |  |  |
+| Dynamite-Ball V2                    | G | ✅ | ✅ | ✅ |  |  |  |
+| Echecs-Dames                        | G | ✅ | ✅ | ✅ |  |  |  |
+| Hamburger (Remake)                  | G | ✅ | ✅ | ✅ |  |  |  |
+| Keys-Ball III                       | G | ✅ | ✅ | ✅ |  |  |  |
+| Keys-Ball PRO                       | G | ✅ | ✅ | ✅ |  |  |  |
+| Labyrinthe in the Pyramide          | G | ✅ | ✅ | ✅ |  |  |  |
+| Le petit pendu junior               | G | ✅ | ✅ | ✅ |  |  |  |
+| Lecture (Le Monstre du Lac Noir)    | G | ✅ | ✅ | ✅ |  |  |  |
+| Loto                                | A | ✅ | ✅ | ✅ |  |  |  |
+| Maze-Ball                           | G | ✅ | ✅ | ✅ |  |  |  |
+| Pacific                             | G | ✅ | ✅ | ✅ |  |  |  |
+| Parsec (remake)                     | G | ✅ | ✅ | ✅ |  |  |  |
+| Space Runner                        | G | ✅ | ✅ | ✅ |  |  |  |
+| Super Line 4                        | G | ✅ | ✅ | ✅ |  |  |  |
+| Tire Croise                         | G | ✅ | ✅ | ✅ |  |  |  |
+| Track-Ball                          | G | ✅ | ✅ | ✅ |  |  |  |
+| Vampire                             | G | ✅ | ✅ | ✅ |  |  |  |
+
+
 
 #### Minitel
 
@@ -492,6 +517,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
