@@ -73,7 +73,8 @@ No 29, 33, 35, 36, 37 et HS 03.
 
 
 No 15 p26, Test EXL100\
-No 17 p152, EXL100 pour Noël 1984 ?
+No 17 p152, EXL100 pour Noël 1984 ?\
+No 21 Interview, Création d'Exelvision.\
 No 26 p128 , Micro Star, EXL100.\
 No 35 p113, article « EXL100 une voix sans issue » (3 pages) + une liste de logiciels..\
 No 39 p88, Test Exeltel.
