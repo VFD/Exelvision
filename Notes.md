@@ -72,6 +72,10 @@ No 29, 33, 35, 36, 37 et HS 03.
 
 Trouver ceux ayant les publications Club Exelvision (fichiers VOX par exemple).
 
+No 15 p26, Test EXL100\
+No 35 p113, article « EXL100 une voix sans issue » (3 pages) + une liste de logiciels..\
+No 39 p88, Test Exeltel.
+
 ___
 ### Votre Ordinateur
 
