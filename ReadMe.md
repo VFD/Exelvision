@@ -279,6 +279,9 @@ Revue française sur les jeux vidéos.\
 Pendant un temps on y trouvait des listing.\
 J'en ai peut-être manqué.
 
+Test EXL100 no15 p26 .\
+Test Exeltel no39 p88.
+
 12 références.
 
 | No  | Source                  | Bas | K7 | Wav | FD | CRAM | BKP |
@@ -534,6 +537,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
