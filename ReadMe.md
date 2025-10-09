@@ -202,8 +202,8 @@ Il s'agit d'une encyclopédie.\
 | No | Source                              | T | Bas | K7 | Wav | FD | CRAM | BKP |
 |----|-------------------------------------|---|-----|----|-----|----|------|-----|
 | 87 | Exocet                              | G | ❕ |  |  |  |  |  |
-| 89 | Numerix                             | G | 📝 |  |  |  |  |  |
-| 90 | Atterissage                         | G | 📝 |  |  |  |  |  |
+| 89 | Numerix                             | G | ❕ |  |  |  |  |  |
+| 90 | Atterissage                         | G | ❕ |  |  |  |  |  |
 
 Les listings sont signés SYBEX.
 
@@ -534,6 +534,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
