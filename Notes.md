@@ -9,6 +9,7 @@ Toujours en « travail en cours ».\
 C'est le souc mais faut bien tenter de référencer les choses.\
 Et on peut éventuellement découvrir des pépites.
 
+Trouver les revues ayant les publications Club Exelvision (fichiers VOX par exemple).
 ___
 ## Sites Internet
 
@@ -70,7 +71,6 @@ ___
 Plusieurs No avec des Listings, cf. ReadMe.md.\
 No 29, 33, 35, 36, 37 et HS 03.
 
-Trouver ceux ayant les publications Club Exelvision (fichiers VOX par exemple).
 
 No 15 p26, Test EXL100\
 No 17 p152, EXL100 pour Noël 1984 ?
