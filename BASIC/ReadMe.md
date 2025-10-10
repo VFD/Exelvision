@@ -155,13 +155,13 @@ CALL SPEECH(...)
 
 Modifications apportés :
 
-CALL       → étendu pour plus de périphériques et fonctions
-COLOR*     → plus de modes graphiques
-HRON/HROFF → meilleure gestion haute résolution
-KEY$       → meilleure détection de touche
-LIST       → ajout de LIST "ligne"
-PRINT USING → formatage plus riche
-SAVE/LOAD  → gestion étendue des supports (disquette, K7, Exemémoire)
+CALL       → étendu pour plus de périphériques et fonctions\
+COLOR*     → plus de modes graphiques\
+HRON/HROFF → meilleure gestion haute résolution\
+KEY$       → meilleure détection de touche\
+LIST       → ajout de LIST "ligne"\
+PRINT USING → formatage plus riche\
+SAVE/LOAD  → gestion étendue des supports (disquette, K7, Exemémoire)\
 SPEECH*    → plus de contrôle sur la synthèse vocale
 
 
