@@ -133,6 +133,10 @@ ___
 | 76 | 1985 | 12 | | 60 | Publicité | Ami informatique | ✅ |
 | 76 | 1985 | 12 | | 112 | Dossier | EXL100 p115 | ✅ |
 
+Dans cette revue on trouve un index de référence des précedents numéros et ce qui a été traité.\
+Extraction en cours, pour faciliter le travail.\
+Peut être utile à d'autres projets.
+
 ___
 ### Science & Vie Micro (SVM)
 
@@ -213,6 +217,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
