@@ -75,7 +75,7 @@ Vous posez une question à l'agent qui répond uniquement dans le contexte d'Exe
 Car le système se basera uniquement sur les règles et documents qu'il possède.\
 Comme il est aussi branché sur un LLM, il doit pouvoir corriger et/ou créer du code pour les ordinateurs.
 
-J'utilise le terme Système Expert, car ceux-ci sont constituer de règle et d'une base de connaissance (les documents).
+J'utilise le terme Système Expert, car ceux-ci sont constitués de règle et d'une base de connaissance (les documents).
 
 
 ___
@@ -565,6 +565,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
