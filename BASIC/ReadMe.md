@@ -27,6 +27,8 @@ Reste la méthode.
 Vérifier si il n'y a pas d'oubli.
 
 ```basic
+!
+
 ABS
 ACCEPT
 ACS
@@ -150,6 +152,8 @@ XOR
 ```basic
 CALL SPEECH(...)
 ```
+
+« ! » est l'éuivalent de « REM ».
 
 ### Exelbasic+
 
