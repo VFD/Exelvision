@@ -8,16 +8,8 @@ Trier par revue, puis par no de revue.
 ___
 ## Les références
 
-Les références excluent « Exelement Votre » qui est dédiée Exelvision.
- 
-___
-### 
-
-| No | Année | Mois | Jour | Page(s) | Article | Commentaire |
-|----|-------|------|------|---------|---------|-------------|
-|  | | | | | | |
-
-
+Les références excluent « Exelement Votre » qui est dédiée Exelvision.\
+Exclu aussi les listings, repris par ailleurs.
 
 ___
 ### Education Informatique
@@ -66,7 +58,7 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire |
 |----|-------|------|------|---------|---------|-------------|
-| 14 |  1984 |   11 |      |      57 | Présentation EXL100 | |
+| 14 |  1984 |   11 |      |      57 | Présentation EXL100 | Quelque lignes sans prétention |
 
 
 ___
@@ -205,5 +197,6 @@ ___
 | 11 | | | | 50 | | |
 | 11 | | | | 89 | | |
 | 12 | | | | 15 | | |
+
 
 
