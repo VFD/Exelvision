@@ -99,7 +99,7 @@ ___
 | 07 | 1984 | 05 | | 94-96 | Les coudées France | | ✅ |
 
 Dans un seul fichier.\
-Le premier présente L'MO5 et le TO7 avec une référence EXL100 en introduction.
+Le premier présente Le MO5 et le TO7 avec une référence EXL100 en introduction.
 
 ___
 ### Micro Systèmes
@@ -207,6 +207,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
