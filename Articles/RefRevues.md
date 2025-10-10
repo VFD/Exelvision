@@ -14,14 +14,14 @@ Exclu aussi les listings, repris par ailleurs.
 
 | S | état |
 |---|------|
-|  | à faire |
+| 📝 | à faire |
 | ✅ | Extrait, OCR, archivé |
 
 ___
 ### Education Informatique
 
-| No | Année |  Mois | Jour | Page(s) | Article | Commentaire |
-|----|-------|-------|------|---------|---------|-------------|
+| No | Année |  Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|-------|------|---------|---------|-------------|---|
 | 29 |  1985 |    11 |      |      22 |                          |             |
 | 29 |  1985 |    11 |      |  36, 37 |                          |             |
 | 36 |  1987 |    01 |      |   10-12 | Ma classe avec Exeltexte |             |
@@ -32,8 +32,8 @@ ___
 ___
 ### Jeux & Stratégie
 
-| No | Année | Mois | Jour | Page(s) | Article | Commentaire |
-|----|-------|------|------|---------|---------|-------------|
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
 | 30 | | | | | | |
 | 43 | | | | | | |
 
@@ -41,8 +41,8 @@ ___
 ___
 ### Le Haut Parleur
 
-|  No  | Année | Mois | Jour | Page(s) | Article | Commentaire |
-|------|-------|------|------|---------|---------|-------------|
+|  No  | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|------|-------|------|------|---------|---------|-------------|---|
 | 1708 |       |      |      |         |         |             |
 |      |  1985 |   11 |
 
@@ -50,8 +50,8 @@ ___
 ___
 ### Hebdogiciel
 
-| No  | Année | Mois | Jour | Page(s) | Article | Commentaire |
-|-----|-------|------|------|---------|---------|-------------|
+| No  | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|-----|-------|------|------|---------|---------|-------------|---|
 | 023 | | | | | | |
 | 075 | | | | | | |
 | 110 | | | | | | |
@@ -62,16 +62,16 @@ ___
 ___
 ### LED Micro
 
-| No | Année | Mois | Jour | Page(s) | Article | Commentaire |
-|----|-------|------|------|---------|---------|-------------|
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
 | 14 |  1984 |   11 |      |      57 | Présentation EXL100 | Quelque lignes sans prétention |
 
 
 ___
 ### List
 
-| No | Année | Mois | Jour | Page(s) | Article | Commentaire |
-|----|-------|------|------|---------|---------|-------------|
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
 | 07 | 1985 | 11 | | | Le Basic de l'EXL100 | |
 | 09 | | | | | | |
 | 11 | 1985 | | | | CGCT | EXL80-PC, EXL 40 |
@@ -80,8 +80,8 @@ ___
 ___
 ### Micro 7
 
-| No | Année | Mois | Jour | Page(s) | Article | Commentaire |
-|----|-------|------|------|---------|---------|-------------|
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
 | 16 | | | | | | |
 | 24 | | | | | | |
 | 27 | | | | | | |
@@ -93,24 +93,24 @@ ___
 ___
 ### Micro et Robot
 
-| No | Année | Mois | Jour | Page(s) | Article | Commentaire |
-|----|-------|------|------|---------|---------|-------------|
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
 | 07 |
 
 
 ___
 ### Micro Systèmes
 
-| No | Année | Mois | Jour | Page(s) | Article | Commentaire |
-|----|-------|------|------|---------|---------|-------------|
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
 | 42 | | | | | | |
 | 49 |
 
 ___
 ### Micro VO
 
-| No | Année | Mois | Jour | Page(s) | Article | Commentaire |
-|----|-------|------|------|---------|---------|-------------|
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
 | 04 | | | | | | |
 | 12 | | | | | | |
 
@@ -119,16 +119,16 @@ ___
 ___
 ### L'Ordinateur Individuel
 
-| No | Année | Mois | Jour | Page(s) | Article | Commentaire |
-|----|-------|------|------|---------|---------|-------------|
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
 | 76 | | | | | | |
 
 
 ___
 ### Science & Vie Micro (SVM)
 
-| No | Année | Mois | Jour | Page(s) | Article | Commentaire |
-|----|-------|------|------|---------|---------|-------------|
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
 | 09 | | | | | | |
 | 11 | | | | | | |
 | 12 | | | | | | |
@@ -152,16 +152,16 @@ ___
 ___
 ### Soft & Micro
 
-| No | Année | Mois | Jour | Page(s) | Article | Commentaire |
-|----|-------|------|------|---------|---------|-------------|
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
 | 13 | | | | | | |
 
 
 ___
 ### Sono
 
-| No | Année | Mois | Jour | Page(s) | Article | Commentaire |
-|----|-------|------|------|---------|---------|-------------|
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
 | 86 | | | | | | |
 
 
@@ -169,8 +169,8 @@ ___
 ___
 ### Tilt
 
-| No | Année | Mois | Jour | Page(s) | Article | Commentaire |
-|----|-------|------|------|---------|---------|-------------|
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
 | 12 |       |      |      |         |         |             |
 | 15 |       |      |      |      26 | Test EXL100 |             |
 | 17 |  1984 |      |      |     152 | EXL100 (Noël) |             |
@@ -192,8 +192,8 @@ ___
 ___
 ### Votre Ordinateur
 
-| No | Année | Mois | Jour | Page(s) | Article | Commentaire |
-|----|-------|------|------|---------|---------|-------------|
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
 | 05 | | | | 87 | | |
 | 06 | | | | | | |
 | 07 | | | | 20 | | |
@@ -203,6 +203,7 @@ ___
 | 11 | | | | 50 | | |
 | 11 | | | | 89 | | |
 | 12 | | | | 15 | | |
+
 
 
 
