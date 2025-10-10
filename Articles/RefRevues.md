@@ -5,6 +5,11 @@
 Réference les publications concernant Exelvision.\
 Trier par revue, puis par no de revue.
 
+Ressource :\
+https://www.abandonware-magazines.org/
+
+Certain scans sont pouris, il faut faire avec pour le moment.
+
 ___
 ## Les références
 
@@ -207,6 +212,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
