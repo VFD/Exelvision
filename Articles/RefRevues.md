@@ -64,7 +64,7 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 14 |  1984 |   11 |      |      57 | Présentation EXL100 | Quelque lignes sans prétention |
+| 14 |  1984 |   11 |      |      57 | Présentation EXL100 | Quelque lignes sans prétention | ✅ |
 
 
 ___
@@ -72,9 +72,9 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 07 | 1985 | 11 | | | Le Basic de l'EXL100 | |
+| 07 | 1985 | 11 | | | Le Basic de l'EXL100 | | ✅ |
 | 09 | | | | | | |
-| 11 | 1985 | | | | CGCT | EXL80-PC, EXL 40 |
+| 11 | 1985 | | | | CGCT | EXL80-PC, EXL 40 | ✅ |
 | 12 | 1985 | 09-10 | | | Pub | |
 
 ___
@@ -203,6 +203,7 @@ ___
 | 11 | | | | 50 | | |
 | 11 | | | | 89 | | |
 | 12 | | | | 15 | | |
+
 
 
 
