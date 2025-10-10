@@ -10,6 +10,13 @@ C'est le souc mais faut bien tenter de référencer les choses.\
 Et on peut éventuellement découvrir des pépites.
 
 Trouver les revues ayant les publications Club Exelvision (fichiers VOX par exemple).
+
+Pas de fichier au format DJVU, ce format n'est pas exploitable pour de la recherche.\
+Il faut les convertir en PDF.\
+Possible aussi via ule format RTF, qui lui aussi est exploitable.
+
+En gros, possible de refaire les documents en RTF et conversion PDF.
+
 ___
 ## Sites Internet
 
