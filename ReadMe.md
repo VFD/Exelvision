@@ -71,6 +71,14 @@ AIA --> DATA
 DATA --> AIA
 ```
 
+Principe :\
+Vous posez une question à l'agent qui répond uniquement dans le contexte d'Exelvision.\
+Car le système se basera uniquement sur les règles et documents qu'il possède.\
+Comme il est aussi branché sur un LLM, il doit pouvoir corriger et/ou créer du code pour les ordinateurs.
+
+J'utilise le terme Système Expert, car ceux-ci sont constituer de règle et d'une base de connaissance (les documents).
+
+
 ___
 ## Ressources
 
@@ -558,6 +566,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
