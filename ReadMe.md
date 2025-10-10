@@ -328,7 +328,6 @@ Livre daté de Janvier 1985.\
 Contient 101 programme et une aide au basic considérée comme 102ème.
 
 
-
 | No  | Source                  | Bas | K7 | Wav | FD | CRAM | BKP |
 |-----|-------------------------|-----|----|-----|----|------|-----|
 | 001 | Nombre Mysterieux, Le   | ❕ |  |  |  |  |  |
@@ -481,8 +480,31 @@ TO DO: Valider tous les sources.
 ___
 ### EXL100 à l'école
 
-En cours.
+21 programmes, ceux-ci pouvant être modifiable pour être mieux adaptés au contexte scolaire.
 
+| No | Source                              | T | Bas | K7 | Wav | FD | CRAM | BKP |
+|----|-------------------------------------|---|-----|----|-----|----|------|-----|
+| 01 |                                     | 📝 | ❕ |  |  |  |  |  |
+| 02 |                                     | 📝 | ❕ |  |  |  |  |  |
+| 03 |                                     | 📝 | ❕ |  |  |  |  |  |
+| 04 |                                     | 📝 | ❕ |  |  |  |  |  |
+| 05 |                                     | 📝 | ❕ |  |  |  |  |  |
+| 06 |                                     | 📝 | ❕ |  |  |  |  |  |
+| 07 |                                     | 📝 | ❕ |  |  |  |  |  |
+| 08 |                                     | 📝 | ❕ |  |  |  |  |  |
+| 09 |                                     | 📝 | ❕ |  |  |  |  |  |
+| 10 |                                     | 📝 | ❕ |  |  |  |  |  |
+| 11 |                                     | 📝 | ❕ |  |  |  |  |  |
+| 12 |                                     | 📝 | ❕ |  |  |  |  |  |
+| 13 |                                     | 📝 | ❕ |  |  |  |  |  |
+| 14 |                                     | 📝 | ❕ |  |  |  |  |  |
+| 15 |                                     | 📝 | ❕ |  |  |  |  |  |
+| 16 |                                     | 📝 | ❕ |  |  |  |  |  |
+| 17 |                                     | 📝 | ❕ |  |  |  |  |  |
+| 18 |                                     | 📝 | ❕ |  |  |  |  |  |
+| 19 |                                     | 📝 | ❕ |  |  |  |  |  |
+| 20 |                                     | 📝 | ❕ |  |  |  |  |  |
+| 21 |                                     | 📝 | ❕ |  |  |  |  |  |
 
 ___
 ### RPUFOS
@@ -523,7 +545,6 @@ cf. : http://miniordi.free.fr/exl100
 | Vampire                             | G | ✅ | ✅ | ✅ |  |  |  |
 
 
-
 #### Minitel
 
 Il y avait beaucoup de logiciels via le Minitel.\
@@ -537,6 +558,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
