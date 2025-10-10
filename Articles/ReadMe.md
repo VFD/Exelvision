@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Récupérer les article de presses concernant Exevision.\
+Récupérer les articles de presses concernant Exelvision.\
 Extraction et OCR pour les rendre lisible.
 
 Reprise complète dans des fichiers ?\
