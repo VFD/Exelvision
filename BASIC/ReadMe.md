@@ -144,6 +144,11 @@ XOR
 
 ```
 
+<sup>*</sup> implique l'utilisation de « CALL » pour l'appel.
+
+```basic
+CALL SPEECH(...)
+```
 
 ### Exelbasic+
 
