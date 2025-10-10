@@ -19,9 +19,8 @@ Liquidation de la société Exelvision ?.
 
 ## Objectifs
 
-### 1
+### 1 - Augmenter le parc logiciel.
 
-Augmenter le parc logiciel.\
 Nommage TOSEC, pour inclusion dans les DAT TOSEC.
 
 https://www.tosecdev.org/tosec-naming-convention
@@ -32,7 +31,7 @@ Title version (demo) (date)(publisher)(system)(video)(country)(language)(copyrig
 
 Voir aussi mon projet RPUFOS.
 
-### 2
+### 2 - Créer un Agent Exelvision
 
 #### Explications
 IA (LLM) et Système Expert.\
@@ -566,6 +565,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
