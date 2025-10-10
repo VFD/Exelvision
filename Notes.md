@@ -95,10 +95,28 @@ No 15 : Kim musical, jeu pour EXL100, page 20.\
 Du livre « **EXL100 à l'école** ».
 
 ___
+### List
+
+Référence dans 3 numéros.
+
+No 07, mars 1985\
+Article : Le BASIC de l'EXL100.\
+Curieusement pas de tests de performance.
+
+No 11, Juillet-Août 1985.\
+Article.\
+CGCT, imprimante EXL80-PC.\
+Compatible EXL100.\
+Mini imprimante thermique EXL 40
+
+No 12, Septembre-Octobre 1985.\
+Publicité.
+
+___
 ## Livres
 
 - 102 Programmes, PSI.
-- EXL100 à l'école
+- EXL100 à l'école, PSI.
 
 
 ___
