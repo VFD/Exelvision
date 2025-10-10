@@ -11,6 +11,12 @@ ___
 Les références excluent « Exelement Votre » qui est dédiée Exelvision.\
 Exclu aussi les listings, repris par ailleurs.
 
+
+| S | état |
+|---|------|
+|  | à faire |
+| ✅ | Extrait, OCR, archivé |
+
 ___
 ### Education Informatique
 
@@ -197,6 +203,7 @@ ___
 | 11 | | | | 50 | | |
 | 11 | | | | 89 | | |
 | 12 | | | | 15 | | |
+
 
 
 
