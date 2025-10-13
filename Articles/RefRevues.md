@@ -33,7 +33,7 @@ ___
 |----|-------|------|------|---------|---------|-------------|---|
 | 24 | 1984 | 6 | | 470-471 | EXL100 d'Exelvision | Titre sur la couverture | 📝 |
 | 84 | 1985 | 9 | | | Forme du futur | Exelvision cité | 📝 |
-| HS 1 | 1985 | | | vol 8-4 | Jeux | Ref. page des 3 jeux publiés (1732, 1769, 1788)
+| HS 1 | 1985 | | | vol 8-4 | Jeux | Ref. page des 3 jeux publiés (1732, 1769, 1788) | 📝 |
 
 
 ___
@@ -71,7 +71,7 @@ ___
 | 29 |  1985 |    11 |      | 11-12 | Informatique pour (presque) tous | (IPT) Exelvision cité | 📝 |
 | 29 |  1985 |    11 |      |      22 | EXL100 | Fiche Technique 15 | 📝 |
 | 29 |  1985 |    11 |      |   23-24 | Puzzle | Activité | 📝 |
-| 29 |  1985 |    11 |      |  36, 37 | Publicité |  | 📝 |
+| 29 |  1985 |    11 |      |  36, 37 | Publicité | Exelvision se vente IPT | 📝 |
 | 36 |  1987 |    01 |      |   10-12 | Ma classe avec Exeltexte | Tutoriel | 📝 |
 | 36 |  1987 |    01 |      |      28 | Référence logiciels      |  | 📝 |
 | 38 |  1987 | 05-08 |      |  20, 21 | Fiche pratique Exelmodem | Tutoriel | 📝 |
@@ -262,6 +262,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
