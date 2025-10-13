@@ -317,7 +317,7 @@ Jean-François MONNET
 
 
 No 129 page 12\
-Jean-François MONNET
+Christophe SASSOLAS
 
 ```basic
 100 CALL POKE(50688,165,8,6,10):CALL POKE(49156,198,0):CALL KEY1(A,B):A=A-30
@@ -611,6 +611,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
