@@ -43,6 +43,7 @@ ___
 |----|-------|------|------|---------|---------|-------------|---|
 | 5 | 1988 | 2 | | 21 | Ils ont les moyens de vous faire parler ! | Exelvision cité | 📝 |
 
+NDR : Exelvision travail dans son coin, ils ne veulent pasp partager...
 
 ___
 ### Dream
@@ -69,10 +70,11 @@ ___
 | 29 |  1985 |    11 |      |      22 | EXL100 | Fiche Technique 15 | 📝 |
 | 29 |  1985 |    11 |      |   23-24 | Puzzle | Activité | 📝 |
 | 29 |  1985 |    11 |      |  36, 37 | Publicité |  | 📝 |
-| 36 |  1987 |    01 |      |   10-12 | Ma classe avec Exeltexte |  | 📝 |
+| 36 |  1987 |    01 |      |   10-12 | Ma classe avec Exeltexte | Tutoriel | 📝 |
 | 36 |  1987 |    01 |      |      28 | Référence logiciels      |  | 📝 |
-| 38 |  1987 | 05-08 |      |  20, 21 | Fiche pratique Exelmodem |  | 📝 |
+| 38 |  1987 | 05-08 |      |  20, 21 | Fiche pratique Exelmodem | Tutoriel | 📝 |
 
+NDR : On comprend que l'IPT (Informatique Pour Tous) est une cata...
 
 ___
 ### Le Haut Parleur
@@ -258,6 +260,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
