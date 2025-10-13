@@ -294,6 +294,14 @@ Laurent MASSETTI
 2 PRINT "ERREUR FATALE ":PAUSE 2:CALL PEEK(14644,A,B):CALL EXEC(56688)
 ```
 
+No 86 page 10 (2 lignes)\
+David SEGONDS
+
+```basic
+1 CALL POKE(50688,165,8,6,10):CALL POKE(491556,198,0):CALL POKE(258,2,132)
+2 !C'EST DEJA FINI
+```
+
 ___
 ### Tilt
 
@@ -580,6 +588,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
