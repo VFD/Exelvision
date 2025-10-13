@@ -78,6 +78,19 @@ ___
 
 NDR : On comprend que l'IPT (Informatique Pour Tous) est une cata...
 
+
+___
+### Electronique Pratique
+
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
+| 71 |  |  | |  |  |  | 📝 |
+| 76 |  |  | |  |  |  | 📝 |
+| 115 |  |  | |  |  |  | 📝 |
+| 118 |  |  | |  |  |  | 📝 |
+| 119 |  |  | |  |  |  | 📝 |
+
+
 ___
 ### Le Haut Parleur
 
@@ -93,6 +106,10 @@ ___
 | No  | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |-----|-------|------|------|---------|---------|-------------|---|
 | 023 | | | | | | | 📝 |
+| 050 | | | | 15 | Publicité | | 📝 |
+| 053 | | | | | Rock'n Joyst | Exeldrum | 📝 |
+| 055 | | | | | Publicité | Exelclub | 📝 |
+| 023 | | | | | Publicité | Exelclub | 📝 |
 | 075 | | | | | | | 📝 |
 | 110 | | | | | | | 📝 |
 | 142 | | | | | | | 📝 |
@@ -262,6 +279,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
