@@ -274,7 +274,7 @@ Je crois qu'il y a tout dans la liste ci-dessous.
 | 134 à 138 | Tarot                           | ❕ |  |  |  |  |  |
 | 139 à 141 | Recherche du Diamant Vert, A la | ❕ |  |  |  |  |  |
 | 142 à 145 | Manoir                          | ❕ |  |  |  |  |  |
-| 146       | Enigme                          | ❕ |  |  |  |  |  |
+| 146       | Egnime (Le Cluedo)              | ❕ |  |  |  |  |  |
 | 146       | Monkey Kong                     | ❕ |  |  |  |  |  |
 | 146       | Tir au pigeon                   | ❕ |  |  |  |  |  |
 | 150 à 153 | Exlfrog                         | ❕ |  |  |  |  |  |
@@ -611,6 +611,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
