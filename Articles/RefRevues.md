@@ -41,7 +41,7 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 5 | 1988 | 2 | | 21 |Ils ont les moyens de vous faire parler ! | Exelvision cité | 📝 |
+| 5 | 1988 | 2 | | 21 | Ils ont les moyens de vous faire parler ! | Exelvision cité | 📝 |
 
 
 ___
@@ -51,6 +51,14 @@ ___
 |----|-------|------|------|---------|---------|-------------|---|
 | 26 | 1996 | 2 | | 24 | Vive l'informatique libre ! | Exelvision cité | 📝 |
 
+
+
+___
+### Ecole et micro
+
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
+| 1 | 1986 | 6 | | 17-22 | Logo des origines à nos jours | Exelvision cité | 📝 |
 
 ___
 ### Education Informatique
@@ -248,6 +256,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
