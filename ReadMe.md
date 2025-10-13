@@ -236,6 +236,7 @@ Je crois qu'il y a tout dans la liste ci-dessous.
 | 67 à 69   | Exelmanoir                      | ❕ |  |  |  |  |  |
 | 70        | Croc en pomme                   | 📝 |  |  |  |  |  |
 | 71        | TMS7020                         | ❕ |  |  |  |  |  |
+| 71, 72... | Vocabulaire latin               | 📝 |  |  |  |  |  |
 | 72        | Jackpot                         | ❕ |  |  |  |  |  |
 | 73        | Générateur de caractère         | ❕ |  |  |  |  |  |
 | 74        | Réunion                         | ❕ |  |  |  |  |  |
@@ -569,6 +570,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
