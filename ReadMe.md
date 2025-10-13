@@ -261,7 +261,7 @@ Je crois qu'il y a tout dans la liste ci-dessous.
 | 101 à 102 | Star Wars                       | ❕ |  |  |  |  |  |
 | 103 à 104 | Stress                          | ❕ |  |  |  |  |  |
 | 105       | Rallye                          | ❕ |  |  |  |  |  |
-| 107 à 108 | Démon d'Exelvision              | ❕ |  |  |  |  |  |
+| 107 à 108 | Démon d'Exelvision, Le          | ❕ |  |  |  |  |  |
 | 109 à 111 | Exelchateau                     | ❕ |  |  |  |  |  |
 | 112 à 115 | De l'or ou la mort              | ❕ |  |  |  |  |  |
 | 116 à 120 | Chevaux                         | ❕ |  |  |  |  |  |
@@ -603,6 +603,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
