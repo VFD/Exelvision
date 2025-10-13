@@ -124,8 +124,11 @@ ___
 | 104 | | | | 11 | -- | Exelvision Arabe | 📝 |
 | 105 | | | | 1, 23 | Le vrai prix des ordinateurs | | 📝 |
 | 106 | | | | 9 | Par ici la bonne soupe | | 📝 |
-| 110 | | | | | | | 📝 |
+| 110 | | | | 8 | Exelvision danse du ventre | | 📝 |
+| 112 | | | | 8 | Exelvision y crouton | Verion Espagnole | 📝 |
+| 113 | | | | 27 | Les bienfaits du fonctionnariat | | 📝 |
 | 142 | | | | | | | 📝 |
+| 154 | | | | 10 | Salauds | Vega x4 | 📝 |
 | 160 | | | | 1, 11, 12  | Exelvision l'ordinateur maudit | | 📝 |
 | 161 | | | | 1, 13 | Le vrai prix des ordinateurs | | 📝 |
 | 163 | | | | 13 | Bon cocktail | Prix Tilt Canal+ | 📝 |
@@ -295,6 +298,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
