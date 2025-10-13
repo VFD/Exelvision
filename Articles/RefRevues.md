@@ -127,6 +127,7 @@ ___
 | 110 | | | | 8 | Exelvision danse du ventre | | 📝 |
 | 112 | | | | 8 | Exelvision y crouton | Verion Espagnole | 📝 |
 | 113 | | | | 27 | Les bienfaits du fonctionnariat | | 📝 |
+| 120 | | | | 11 | Exelvision, Réussite ? | | 📝 |
 | 142 | | | | | | | 📝 |
 | 154 | 1986 | 9 | 26 | 10 | Salauds | Vega x4 | 📝 |
 | 160 | | | | 1, 11, 12  | Exelvision l'ordinateur maudit | | 📝 |
@@ -298,6 +299,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
