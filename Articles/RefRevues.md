@@ -121,6 +121,9 @@ ___
 | 082 | 1985 | 5 | 10 | 10 | EXEL Journal | | 📝 |
 | 084 | | | | 10 | COCORICRITURE | EXL 80 | 📝 |
 | 94-97 | 1985 | 8 | 2 | 1, 31 | Désolé l'informatique c'est de la merde ! | | 📝 |
+| 104 | | | | 11 | -- | Exelvision Arabe | 📝 |
+| 105 | | | | 1, 23 | Le vrai prix des ordinateurs | | 📝 |
+| 106 | | | | 9 | Par ici la bonne soupe | | 📝 |
 | 110 | | | | | | | 📝 |
 | 142 | | | | | | | 📝 |
 | 160 | | | | 1, 11, 12  | Exelvision l'ordinateur maudit | | 📝 |
@@ -292,6 +295,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
