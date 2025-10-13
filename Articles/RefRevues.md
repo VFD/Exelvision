@@ -36,6 +36,15 @@ ___
 
 
 ___
+### Dream
+
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
+| 26 | 1996 | 2 | | 24 | Vive l'informatique libre ! | Exelvision cité | 📝 |
+
+
+
+___
 ### Education Informatique
 
 | No | Année |  Mois | Jour | Page(s) | Article | Commentaire | S |
@@ -231,6 +240,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
