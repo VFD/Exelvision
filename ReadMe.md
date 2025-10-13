@@ -17,6 +17,10 @@ Mis sur le marché en septembre 1984, donc recherche à partir de cette date dan
 Fin de production ?\
 Liquidation de la société Exelvision ?.
 
+
+Ce travail est 100% bénévole, n'hésitez pas à me filer un tips, ça me payera le café.
+
+
 ## Objectifs
 
 ### 1 - Augmenter le parc logiciel.
@@ -565,6 +569,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
