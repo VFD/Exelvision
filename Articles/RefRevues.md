@@ -128,7 +128,7 @@ ___
 | 112 | | | | 8 | Exelvision y crouton | Verion Espagnole | 📝 |
 | 113 | | | | 27 | Les bienfaits du fonctionnariat | | 📝 |
 | 142 | | | | | | | 📝 |
-| 154 | | | | 10 | Salauds | Vega x4 | 📝 |
+| 154 | 1986 | 9 | 26 | 10 | Salauds | Vega x4 | 📝 |
 | 160 | | | | 1, 11, 12  | Exelvision l'ordinateur maudit | | 📝 |
 | 161 | | | | 1, 13 | Le vrai prix des ordinateurs | | 📝 |
 | 163 | | | | 13 | Bon cocktail | Prix Tilt Canal+ | 📝 |
@@ -298,6 +298,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
