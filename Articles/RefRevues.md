@@ -46,6 +46,15 @@ ___
 NDR : Exelvision travail dans son coin, ils ne veulent pas partager...
 
 ___
+### L'Atarien
+
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
+| 10 |  |  | | 46 | S.V.M. : A qui perd gagne. | Exelvision cité | 📝 |
+
+
+
+___
 ### Dream
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
@@ -96,7 +105,14 @@ ___
 
 |  No  | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |------|-------|------|------|---------|---------|-------------|---|
-| 1708 |       |      |      |         |         |             | 📝 |
+| 1708 |       |      |      | 3       |         |             | 📝 |
+| 1709 | | | | 10 | | | |
+| 1711 | | | | 6 | | | |
+| 1718 | | | | 13 | | | |
+| 1720 | | | | 86 | | | |
+| 1722 | | | | 63-64 | | | |
+| 1723 | | | |  | | | |
+| 1753 | | | |  | | | |
 |      |  1985 |   11 |      |         |         |             | 📝 |
 
 
@@ -128,6 +144,9 @@ ___
 | 112 | | | | 8 | Exelvision y crouton | Verion Espagnole | 📝 |
 | 113 | | | | 27 | Les bienfaits du fonctionnariat | | 📝 |
 | 120 | | | | 11 | Exelvision, Réussite ? | | 📝 |
+| 132 | | | | 11 | Musique sur EXL100 | Remi | 📝 |
+| 134 | | | | 15 | Mini mire très spéciale | | 📝 |
+| 140 | | | | 25 | Tableau tarifs | | 📝 |
 | 142 | | | | | | | 📝 |
 | 154 | 1986 | 9 | 26 | 10 | Salauds | Vega x4 | 📝 |
 | 160 | | | | 1, 11, 12  | Exelvision l'ordinateur maudit | | 📝 |
@@ -141,9 +160,18 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 30 | | | | | | | 📝 |
-| 43 | | | | | | | 📝 |
-
+| 27 | | | | 38 | Ludotique / News | | 📝 |
+| 30 | | | | 42 | Fiche EXL 100 | à côté du VG5000 | 📝 |
+| 30 | | | | 51 | | | 📝 |
+| 32 | | | | | Pub jeux Tyrann (Norsoft) | Jamais sorti ? | 📝 |
+| 36 | | | | 62 | Carnet d'adresse | Adresse Exelvision | 📝 |
+| 37 | | | | 54 | Carnet d'adresse | Adresse Exelvision | 📝 |
+| 40 | | | |  | Carnet d'adresse | Adresse Exelvision | 📝 |
+| 42 | | | | 62 | Carnet d'adresse | Adresse Exelvision | 📝 |
+| 43 | 1987 | 2 | 3 | 44 | Publicité SVM | Exeltel | 📝 |
+| 43 | | | | 61 | Micro Climat | Exeltel | 📝 |
+| 43 | | | | 62 | Carnet d'adresse | Adresse Exelvision | 📝 |
+| HS 3 | | | | 21-23 | 3615 |  | 📝 |
 
 
 ___
@@ -151,16 +179,18 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
+| 13 |       |      |      |         | SICOB   |             |   |
 | 14 |  1984 |   11 |      |      57 | Présentation EXL100 | Quelque lignes sans prétention | ✅ |
-
+| 17 |
 
 ___
 ### List
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
+| 02 |       |      |      | 14      |         |             |   |
 | 07 | 1985 | 11 | | | Le Basic de l'EXL100 | | ✅ |
-| 09 | | | | | | | 📝 |
+| 09 | | | | 7-9 | | | 📝 |
 | 11 | 1985 | | | | CGCT | EXL80-PC, EXL 40 | ✅ |
 | 12 | 1985 | 09-10 | | | Pub | | 📝 |
 
@@ -211,13 +241,24 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
+| 60 | 1984  | 6 | | 195 | EXL100 fiche | |
+| 62 |
+| 63 |
+| 68 | 1985 | 3 | | 112 | Dossier Tableau | | |
+| 69 | 1985 | 4 | | 122 | Banc d'essai EXL100 | | |
 | 70 | 1985 | 5 | | 93 | L'EXL100 s'équipe | Modem, clavier, Exlmémoire, Exeldisk | ✅ |
 | 76 | 1985 | 12 | | 60 | Publicité | Ami informatique | ✅ |
 | 76 | 1985 | 12 | | 112 | Dossier | EXL100 p115 | ✅ |
+| 77 |
+| 80 |
+| 81 |      |    | |     | Publicité | Exelmodem, Exeltel | |
+| 87 | 1986 | 12 | | | Repères Technologie | | |
 
 Dans cette revue on trouve un index de référence des précedents numéros et ce qui a été traité.\
 Extraction en cours, pour faciliter le travail.\
 Peut être utile à d'autres projets.
+
+No 99 index
 
 ___
 ### Science & Vie Micro (SVM)
@@ -299,6 +340,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
