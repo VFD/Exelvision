@@ -10,6 +10,8 @@ https://www.abandonware-magazines.org/
 
 Certain scans sont pouris, il faut faire avec pour le moment.
 
+NDR : En lisant tout ça on peut arriver à comprendre pourquoi la société c'est « plantée ».
+
 ___
 ## Les références
 
@@ -39,7 +41,7 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 5 | 1988 | 2 | | 21 |Ils ont les moyen de vous faire parler ! | Exelvision cité | 📝 |
+| 5 | 1988 | 2 | | 21 |Ils ont les moyens de vous faire parler ! | Exelvision cité | 📝 |
 
 
 ___
@@ -246,6 +248,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
