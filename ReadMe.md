@@ -302,6 +302,21 @@ David SEGONDS
 2 !C'EST DEJA FINI
 ```
 
+No 106 page 11\
+Jean-François MONNET
+
+```basic
+1 CALL EXEC(65375)
+2 ! TOULOULOU
+```
+
+```basic
+1 CALL EXEC(65402)
+2 ! OOOOHHHHH!!!!!
+```
+
+
+
 ___
 ### Tilt
 
@@ -588,6 +603,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
