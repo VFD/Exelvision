@@ -43,7 +43,7 @@ ___
 |----|-------|------|------|---------|---------|-------------|---|
 | 5 | 1988 | 2 | | 21 | Ils ont les moyens de vous faire parler ! | Exelvision cité | 📝 |
 
-NDR : Exelvision travail dans son coin, ils ne veulent pasp partager...
+NDR : Exelvision travail dans son coin, ils ne veulent pas partager...
 
 ___
 ### Dream
@@ -60,6 +60,8 @@ ___
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
 | 1 | 1986 | 6 | | 17-22 | Logo des origines à nos jours | Exelvision cité | 📝 |
+
+NDR : Le LOGO d'Exelvision ne cause pas, erreur ?
 
 ___
 ### Education Informatique
@@ -260,6 +262,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
