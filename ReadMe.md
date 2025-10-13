@@ -284,6 +284,16 @@ Je crois qu'il y a tout dans la liste ci-dessous.
 
 (\*) incomplet, car arrêt de publication de la revue.
 
+#### petit listing
+
+No 73 page 12 (2 lignes)\
+Laurent MASSETTI
+
+```basic
+1 CLS:INPUT "PASSWORD";A$:IF A$=CHR$(63) THEN PRINT "ACCEPTE":END
+2 PRINT "ERREUR FATALE ":PAUSE 2:CALL PEEK(14644,A,B):CALL EXEC(56688)
+```
+
 ___
 ### Tilt
 
@@ -570,6 +580,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
