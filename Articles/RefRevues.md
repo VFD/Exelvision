@@ -105,15 +105,23 @@ ___
 
 | No  | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |-----|-------|------|------|---------|---------|-------------|---|
-| 023 | | | | | | | 📝 |
+| 023 | | | | | Publicité | Exelclub | 📝 |
 | 050 | | | | 15 | Publicité | | 📝 |
 | 053 | | | | | Rock'n Joyst | Exeldrum | 📝 |
 | 055 | | | | | Publicité | Exelclub | 📝 |
-| 023 | | | | | Publicité | Exelclub | 📝 |
+| 059 | | | | 9 | Coups de Pub | | 📝 |
+| 059 | | | | 10 | Bruits de couloir | | 📝 |
+| 060 | | | | 15 | Publicité | Exelclub | 📝 |
+| 061 | | | | 1, 11, 12 | 20 ordinateurs sur le grill ! | | 📝 |
+| 062 | | | | 8 | Moshe Exel Dayan | Au sujet de l'infrarouge... | 📝 |
+| 063 | | | | | Deux logiciel pour Exelvision | Exel Fichiers, Exel Poker | 📝 |
 | 075 | | | | | | | 📝 |
 | 110 | | | | | | | 📝 |
 | 142 | | | | | | | 📝 |
-| 160 | | | | | | | 📝 |
+| 160 | | | | 1, 11, 12  | Exelvision l'ordinateur maudit | | 📝 |
+| 161 | | | | 1, 13 | Le vrai prix des ordinateurs | | 📝 |
+| 163 | | | | 13 | Bon cocktail | Prix Tilt Canal+ | 📝 |
+| 167 | | | | 11 | Triste Noël | | 📝 |
 
 
 ___
@@ -279,6 +287,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
