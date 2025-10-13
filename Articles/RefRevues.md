@@ -34,6 +34,13 @@ ___
 | HS 1 | 1985 | | | vol 8-4 | Jeux | Ref. page des 3 jeux publiés (1732, 1769, 1788)
 
 
+___
+### Arcade
+
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
+| 5 | 1988 | 2 | | 21 |Ils ont les moyen de vous faire parler ! | Exelvision cité | 📝 |
+
 
 ___
 ### Dream
@@ -41,7 +48,6 @@ ___
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
 | 26 | 1996 | 2 | | 24 | Vive l'informatique libre ! | Exelvision cité | 📝 |
-
 
 
 ___
@@ -240,6 +246,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
