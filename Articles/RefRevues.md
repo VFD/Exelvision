@@ -65,8 +65,10 @@ ___
 
 | No | Année |  Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|-------|------|---------|---------|-------------|---|
-| 29 |  1985 |    11 |      |      22 |                          |  | 📝 |
-| 29 |  1985 |    11 |      |  36, 37 |                          |  | 📝 |
+| 29 |  1985 |    11 |      | 11-12 | Informatique pour (presque) tous | (IPT) Exelvision cité | 📝 |
+| 29 |  1985 |    11 |      |      22 | EXL100 | Fiche Technique 15 | 📝 |
+| 29 |  1985 |    11 |      |   23-24 | Puzzle | Activité | 📝 |
+| 29 |  1985 |    11 |      |  36, 37 | Publicité |  | 📝 |
 | 36 |  1987 |    01 |      |   10-12 | Ma classe avec Exeltexte |  | 📝 |
 | 36 |  1987 |    01 |      |      28 | Référence logiciels      |  | 📝 |
 | 38 |  1987 | 05-08 |      |  20, 21 | Fiche pratique Exelmodem |  | 📝 |
@@ -256,6 +258,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
