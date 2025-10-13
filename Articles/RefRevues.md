@@ -194,16 +194,32 @@ ___
 | 11 | 1985 | | | | CGCT | EXL80-PC, EXL 40 | ✅ |
 | 12 | 1985 | 09-10 | | | Pub | | 📝 |
 
+
+
+___
+### Megahertz
+
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
+| 48 |  |  | | 50 |  |  | 📝 |
+
+
 ___
 ### Micro 7
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 16 | | | | | | | 📝 |
+| 16 | 1984 | 5 | | 95 | Indiscrétions | | 📝 |
+| 17 | 1984 | 6 | | 40 | Spécial Nord | Fabrication EXL100 pour juin | 📝 |
+| 20 | 1984 | 10 | 1 | 33 | Publicité | Où trouver l'EXL100 | 📝 |
+| 20 | 1984 | 10 | 1 | 56 | Peur d'acheter ? | Fiche EXL100 | 📝 |
 | 24 | | | | | | | 📝 |
 | 27 | | | | | | | 📝 |
+| 28 | | | | | Au Tableau | | 📝 |
+| 28 | | | | | Bloc notes | | 📝 |
+| 28 | | | | 99 | Neurone | Présentation du jeu | 📝 |
 | 29 | | | | | | | 📝 |
-| HS | | | | | | | 📝 |
+| HS | 1984 | | | 24 | Puces | Noël 1984 | 📝 |
 
 
 
@@ -212,11 +228,36 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 07 | 1984 | 05 | | 6 | L'esprit de famille | | ✅ |
-| 07 | 1984 | 05 | | 94-96 | Les coudées France | | ✅ |
+| 06 | | | | 4 | Notes | | |
+| 07 | 1984 | 05 | | 6 | L'esprit de famille | Exelvision cité | ✅ |
+| 07 | 1984 | 05 | | 94-98 | Les coudées France | | ✅ |
+| 10 |      |    | |   -55 | Autoportrait | 2ème prix, EXL100 | |
+| 11 | 1984 | 10 | | 8 | Publicité | | |
+| 11 | 1984 | 10 | | 22 | SICOB | | |
+| 11 | 1984 | 11 | | 8 | Publicité | | |
+| 13 | 1984 | 12 | | 25 | Publicité | | |
+| 15 | 1985 | 2 | | 46 | J'enttends des voix | | |
 
 Dans un seul fichier.\
 Le premier présente Le MO5 et le TO7 avec une référence EXL100 en introduction.
+
+
+___
+### Micro News
+
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
+| 20 | | | | | Exeltel.. Que | | 📝 |
+
+
+
+___
+### Micro Ordinateurs
+
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
+| 21 | 1984 | 4 | | | Micro actualités | EXL100, EXL188 en photo ! | 📝 |
+| 32 | 1985 | 4 | | 40 | Banc d'essai | EXL100 | 📝 |
 
 ___
 ### Micro Systèmes
@@ -235,6 +276,17 @@ ___
 | 12 | | | | | | | 📝 |
 
 
+
+___
+### Microtom
+
+| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|----|-------|------|------|---------|---------|-------------|---|
+| 2 |  |  | |  |  |  | 📝 |
+| 3 |  |  | |  |  |  | 📝 |
+| 5 | 1986 | 3-4 | |  | Résultats pour 1985 | Exelvision | 📝 |
+| 5 | 1986 | 3-4 | | 36 | Pub Cobra Soft |  | 📝 |
+| 5 | 1986 | 3-4 | | 58 | Où trouver qui ? | Exelvision, tour Montparnasse | 📝 |
 
 ___
 ### L'Ordinateur Individuel
@@ -341,6 +393,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
