@@ -115,7 +115,11 @@ ___
 | 061 | | | | 1, 11, 12 | 20 ordinateurs sur le grill ! | | 📝 |
 | 062 | | | | 8 | Moshe Exel Dayan | Au sujet de l'infrarouge... | 📝 |
 | 063 | | | | | Deux logiciel pour Exelvision | Exel Fichiers, Exel Poker | 📝 |
-| 075 | | | | | | | 📝 |
+| 075 | 1985 | 3 | 22 | 1, 16 | Reve-je ? Dors-Je ? Ou ai-je des Exelvisions ? | | 📝 |
+| 077 | 1985 | 4 | 2 | 1, 16 | Le vrai prix des ordinateurs | | 📝 |
+| 079 | 1985 | 4 | 19 | 9 | Xénophopie informatique | | 📝 |
+| 082 | 1985 | 5 | 10 | 10 | EXEL Journal | | 📝 |
+| 084 | | | | 10 | COCORICRITURE | EXL 80 | 📝 |
 | 110 | | | | | | | 📝 |
 | 142 | | | | | | | 📝 |
 | 160 | | | | 1, 11, 12  | Exelvision l'ordinateur maudit | | 📝 |
@@ -287,6 +291,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
