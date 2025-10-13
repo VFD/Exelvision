@@ -247,6 +247,7 @@ ___
 | 68 | 1985 | 3 | | 112 | Dossier Tableau | | |
 | 69 | 1985 | 4 | | 122 | Banc d'essai EXL100 | | |
 | 70 | 1985 | 5 | | 93 | L'EXL100 s'équipe | Modem, clavier, Exlmémoire, Exeldisk | ✅ |
+| 70 | 1985 | 5 | | 98 | Imprimante EXL 80 | | |
 | 76 | 1985 | 12 | | 60 | Publicité | Ami informatique | ✅ |
 | 76 | 1985 | 12 | | 112 | Dossier | EXL100 p115 | ✅ |
 | 77 |
@@ -340,6 +341,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
