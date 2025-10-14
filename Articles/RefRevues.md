@@ -185,9 +185,9 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 13 |       |      |      |         | SICOB   |             |   |
-| 14 |  1984 |   11 |      |      57 | Présentation EXL100 | Quelque lignes sans prétention | ✅ |
-| 17 |
+| 13 | 1984  |      |      |         | SICOB   |             |   |
+| 14 | 1984  | 11   |      | 57      | Présentation EXL100 | Quelque lignes sans prétention | ✅ |
+| 17 | 1985  | 2    |      |
 
 ___
 ### List
@@ -456,6 +456,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
