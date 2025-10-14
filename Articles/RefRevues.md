@@ -287,26 +287,31 @@ ___
 ___
 ### Micro VO
 
+Né de la fusion de feu Micro 7 avec feu Votre ordinateur.\
+N'est pas aller au-delà du no 13 apparement.
+
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 01 | 1985 | 10 | | | Publicité P.S.I. | Livres | 📝 |
+| 01 | 1985  | 10   |      |         | Publicité P.S.I. | Livres | 📝 |
 | 04 | | | | | | | 📝 |
-| 08 | 1986 | 6 | | 19 | Nouveaux prix Exelvision | | 📝 |
-| 09 | 1986 | 7-8 | | 81 | Meutre à grande vitesse | jeux Cobra Soft (150 Fr.) | 📝 |
-| 12 | 1986 | 11 | | 8 | Infos | Exeltel | 📝 |
+| 08 | 1986  | 6    |      | 19      | Nouveaux prix Exelvision | | 📝 |
+| 09 | 1986  | 7-8  |      | 81      | Meutre à grande vitesse | Pub jeux Cobra Soft (150 Fr.) | 📝 |
+| 12 | 1986  | 11   |      | 8       | Infos | Exeltel | 📝 |
 
-
+Il y aurait une rèf. dans le no 4, mais pas trouvé le no 4.
 
 ___
 ### Microtom
 
+Seulement 10 numéros.
+
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 2 |  |  | |  |  |  | 📝 |
-| 3 |  |  | |  |  |  | 📝 |
-| 5 | 1986 | 3-4 | |  | Résultats pour 1985 | Exelvision | 📝 |
-| 5 | 1986 | 3-4 | | 36 | Pub Cobra Soft |  | 📝 |
-| 5 | 1986 | 3-4 | | 58 | Où trouver qui ? | Exelvision, tour Montparnasse | 📝 |
+| 2 | 1985   | 9    |      |         |  |  | 📝 |
+| 3 | 1985   | 11   |      |         |  |  | 📝 |
+| 5 | 1986   | 3-4  |      |         | Résultats pour 1985 | Exelvision | 📝 |
+| 5 | 1986   | 3-4  |      | 36      | Pub Cobra Soft |  | 📝 |
+| 5 | 1986   | 3-4  |      | 58      | Où trouver qui ? | Exelvision, tour Montparnasse | 📝 |
 
 ___
 ### L'Ordinateur Individuel
@@ -458,6 +463,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
