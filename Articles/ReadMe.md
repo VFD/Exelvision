@@ -12,3 +12,7 @@ Reprise complète dans des fichiers ?\
 
 Voir fichier [Références des Revues](RefRevues.md).\
 Il y a beaucoup de travail de recherche à faire.
+
+Codes sources repris ici aussi en attendant.
+
+___
