@@ -52,7 +52,7 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 10 |  |  | | 46 | S.V.M. : A qui perd gagne. | Exelvision cité | 📝 |
+| 10 | 1986 | 2 | | 46 | S.V.M. : A qui perd gagne. | Exelvision cité | 📝 |
 
 
 
@@ -109,14 +109,14 @@ ___
 |------|-------|------|------|---------|---------|-------------|---|
 | 1708 | 1984  | 9    |      | 3       | Sommaire |             | 📝 |
 | 1708 | 1984  | 9    |      | 121     | EXL100 |             | 📝 |
-| 1709 | | | | 10 | | | |
-| 1711 | | | | 6 | | | |
-| 1718 | | | | 13 | | | |
-| 1720 | | | | 86 | | | |
-| 1722 | 1985 | 11 | | 125-129 | Extentions EXL100 | Exelmodem et Exeldrum | 📝 |
-| 1722 | 1985 | 11 | | 150-154 | ABC de la micro informatique |  | 📝 |
-| 1723 | 1985 | 12 | | 162-165 | ABC de la micro informatique | | 📝 |
-| 1753 | | | |  | | | |
+| 1709 | 1984  | 10   | | 10 | | | |
+| 1711 | 1984  | 12   | | 6 | | | |
+| 1718 | 1985  | 7    | | 13 | | | |
+| 1720 | 1985  | 9    | | 86 | | | |
+| 1722 | 1985  | 11   | | 125-129 | Extentions EXL100 | Exelmodem et Exeldrum | 📝 |
+| 1722 | 1985  | 11   | | 150-154 | ABC de la micro informatique |  | 📝 |
+| 1723 | 1985  | 12   | | 162-165 | ABC de la micro informatique | | 📝 |
+| 1753 | | | |  | |  | |
 
 Scans incomplets et en vrac, galère.\
 Manque des numéros, ceux sur ABC informatique 1724... Dommage car il y a du code et des explications.
@@ -167,16 +167,16 @@ ___
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
 | 27 | 1984  | 6-7  |      | 38      | Ludotique / News | | 📝 |
-| 30 | 1984  | 12   |      | 42 | Fiche EXL 100 | à côté du VG5000 | 📝 |
-| 30 | 1984  | 12   |      | 51 | | | 📝 |
-| 32 | 1985  | 4-5  |      | | Pub jeux Tyrann (Norsoft) | Jamais sorti ? | 📝 |
-| 36 | 1985  | 12   |      | 62 | Carnet d'adresse | Adresse Exelvision | 📝 |
-| 37 | 1986  | 2-3  |      | 54 | Carnet d'adresse | Adresse Exelvision | 📝 |
-| 40 | 1986  | 8-9  |      |  | Carnet d'adresse | Adresse Exelvision | 📝 |
-| 42 | 1986  | 12   |      | 62 | Carnet d'adresse | Adresse Exelvision | 📝 |
-| 43 | 1987  | 2    | 3    | 44 | Publicité SVM | Exeltel | 📝 |
-| 43 | 1987  | 2    |      | 61 | Micro Climat | Exeltel | 📝 |
-| 43 | 1987  | 2    |      | 62 | Carnet d'adresse | Adresse Exelvision | 📝 |
+| 30 | 1984  | 12   |      | 42      | Fiche EXL 100 | à côté du VG5000 | 📝 |
+| 30 | 1984  | 12   |      | 51      | | | 📝 |
+| 32 | 1985  | 4-5  |      |         | Pub jeux Tyrann (Norsoft) | Jamais sorti ? | 📝 |
+| 36 | 1985  | 12   |      | 62      | Carnet d'adresse | Adresse Exelvision | 📝 |
+| 37 | 1986  | 2-3  |      | 54      | Carnet d'adresse | Adresse Exelvision | 📝 |
+| 40 | 1986  | 8-9  |      |         | Carnet d'adresse | Adresse Exelvision | 📝 |
+| 42 | 1986  | 12   |      | 62      | Carnet d'adresse | Adresse Exelvision | 📝 |
+| 43 | 1987  | 2    | 3    | 44      | Publicité SVM | Exeltel | 📝 |
+| 43 | 1987  | 2    |      | 61      | Micro Climat | Exeltel | 📝 |
+| 43 | 1987  | 2    |      | 62      | Carnet d'adresse | Adresse Exelvision | 📝 |
 | HS 3 | | | | 21-23 | 3615 |  | 📝 |
 
 
@@ -194,11 +194,11 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 02 |       |      |      | 14      |         |             |   |
-| 07 | 1985 | 11 | | | Le Basic de l'EXL100 | | ✅ |
-| 09 | | | | 7-9 | | | 📝 |
-| 11 | 1985 | | | | CGCT | EXL80-PC, EXL 40 | ✅ |
-| 12 | 1985 | 09-10 | | | Pub | | 📝 |
+| 02 | 1984  |  9   |      | 14      |         |             |   |
+| 07 | 1985  | 3    |      |         | Le Basic de l'EXL100 | | ✅ |
+| 09 | 1985  | 5    |      | 7-9     | | | 📝 |
+| 11 | 1985  | 7-8  |      |         | CGCT | EXL80-PC, EXL 40 | ✅ |
+| 12 | 1985  | 9-10 |      |         | Publicité | | 📝 |
 
 
 
@@ -236,18 +236,18 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 06 | | | | 4 | Notes | | |
-| 07 | 1984 | 05 | | 6 | L'esprit de famille | Exelvision cité | ✅ |
-| 07 | 1984 | 05 | | 94-98 | Les coudées France | | ✅ |
-| 10 |      |    | |   -55 | Autoportrait | 2ème prix, EXL100 | |
-| 11 | 1984 | 10 | | 8 | Publicité | | |
-| 11 | 1984 | 10 | | 22 | SICOB | | |
-| 11 | 1984 | 11 | | 8 | Publicité | | |
-| 13 | 1984 | 12 | | 25 | Publicité | | |
-| 15 | 1985 | 2 | | 46 | J'enttends des voix | | |
+|  6 | 1984  |      |      | 4       | Notes | | |
+|  7 | 1984  | 5    |      | 6       | L'esprit de famille | Exelvision cité | ✅ |
+|  7 | 1984  | 5    |      | 94-98   | Les coudées France | | ✅ |
+| 10 | 1984  |      |      |   -55   | Autoportrait | 2ème prix, EXL100 | |
+| 11 | 1984  | 10   |      | 8       | Publicité | | |
+| 11 | 1984  | 10   |      | 22      | SICOB | | |
+| 11 | 1984  | 11   |      | 8       | Publicité | | |
+| 13 | 1984  | 12   |      | 25      | Publicité | | |
+| 15 | 1985  | 2    |      | 46      | J'enttends des voix | | |
 
 Dans un seul fichier.\
-Le premier présente Le MO5 et le TO7 avec une référence EXL100 en introduction.
+Le 7 présente Le MO5 et le TO7 avec une référence EXL100 en introduction.
 
 
 ___
@@ -255,32 +255,34 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 20 | | | | | Exeltel.. Que | | 📝 |
+| 20 | 1989  | 4    |      | 65      | Exeltel.. Que | | 📝 |
 
 
 
 ___
 ### Micro Ordinateurs
 
-| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
-|----|-------|------|------|---------|---------|-------------|---|
-| 21 | 1984 | 4 | | | Micro actualités | EXL100, EXL188 en photo ! | 📝 |
-| 32 | 1985 | 4 | | 40 | Banc d'essai | EXL100 | 📝 |
+| No | Année | Mois | Jour | Page(s)  | Article | Commentaire | S |
+|----|-------|------|------|----------|---------|-------------|---|
+| 21 | 1984  | 4    |      | 17       | Micro actualités | EXL100, EXL188 en photo ! | 📝 |
+| 32 | 1985  | 4    |      | 3, 40-42 | Banc d'essai | EXL100 | 📝 |
+
+Que peut bien être le EXL188 sur la photo du 21 ? Qui par ailleurs est vraiement pourie.
 
 ___
 ### Micro Systèmes
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 42 | 1984 | 5 | | | Microdigest | Annonce EXL100 | 📝 |
-| 42 | | | | 4 | | | 📝 |
-| 44 | | | | 7 | | | 📝 |
-| 45 | | | | 33 | | | 📝 |
-| 45 | | | | 54 | | | 📝 |
-| 47 | | | | 129 | | | 📝 |
-| 49 | 1985 | 1 | | 47 | Minitel et Stéréo | | 📝 |
-| 63 | 1986 | 4 | | 196 | Côte de l'occasion | EXL100 (2.000Fr)| 📝 |
-| 66 | | | | 8 | | | 📝 |
+| 42 | 1984  | 5    |      |         | Microdigest | Annonce EXL100 | 📝 |
+| 42 | 1984  | 5    |      | 4       | | | 📝 |
+| 44 | 1984  | 7    |      | 7       | | | 📝 |
+| 45 | 1984  | 9    |      | 33      | | | 📝 |
+| 45 | 1984  | 9    |      | 54      | | | 📝 |
+| 47 | 1984  | 11   |      | 129     | | | 📝 |
+| 49 | 1985  | 1    |      | 47      | Minitel et Stéréo | | 📝 |
+| 63 | 1986  | 4    |      | 196     | Côte de l'occasion | EXL100 (2.000Fr)| 📝 |
+| 66 | 1986  | 7    |      | 8       | | | 📝 |
 
 ___
 ### Micro VO
@@ -456,6 +458,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
