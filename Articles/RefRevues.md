@@ -363,26 +363,38 @@ ___
 
 
 ___
-### POMS
+### POM'S
+
+Oui c'est dédié Apple.\
+50 numéros, (arrêt suite à un cambriolage).
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 17 |  | | | 72 |  | | 📝 |
+| 17 | 1985  | 3-4  |      | 72      | Courrier des lecteurs  | Exelvision cité | 📝 |
 
+Une lettre type « coup de gueule de François COULON » sur les aléas de produire, faire éditer un logiciel quand on est un lambda...
 
 ___
 ### Radio Plan
 
-| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
-|----|-------|------|------|---------|---------|-------------|---|
-| 446 |  | | | 32 |  | | 📝 |
+| No  | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|-----|-------|------|------|---------|---------|-------------|---|
+| 446 | 1985  | 1    |      | 32      | Infos   | Article Exelvision | 📝 |
+
+446 : On nous parle de 
+- SICOB : Exelmodem
+- VIDCOM : EXELRYTHME (ah! Exeldrums en fait).
+- EXELCLUB
+- Le label EXELSOFT
+- 3 millions de pages de pub et 50 spots TV.
+
 
 ___
 ### Science et Vie
 
-| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
-|----|-------|------|------|---------|---------|-------------|---|
-| 832 | 1987 | 1 | | 159 | Pub SVM  | | 📝 |
+| No  | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|-----|-------|------|------|---------|---------|-------------|---|
+| 832 | 1987  | 1    |      | 159 | Pub SVM  | | 📝 |
 
 
 ___
@@ -471,6 +483,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
