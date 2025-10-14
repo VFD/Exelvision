@@ -535,29 +535,29 @@ ___
 
 21 programmes, ceux-ci pouvant être modifiable pour être mieux adaptés au contexte scolaire.
 
-| No | Source                              | T | Bas | K7 | Wav | FD | CRAM | BKP |
-|----|-------------------------------------|---|-----|----|-----|----|------|-----|
-| 01 |                                     | 📝 | ❕ |  |  |  |  |  |
-| 02 |                                     | 📝 | ❕ |  |  |  |  |  |
-| 03 |                                     | 📝 | ❕ |  |  |  |  |  |
-| 04 |                                     | 📝 | ❕ |  |  |  |  |  |
-| 05 |                                     | 📝 | ❕ |  |  |  |  |  |
-| 06 |                                     | 📝 | ❕ |  |  |  |  |  |
-| 07 |                                     | 📝 | ❕ |  |  |  |  |  |
-| 08 |                                     | 📝 | ❕ |  |  |  |  |  |
-| 09 |                                     | 📝 | ❕ |  |  |  |  |  |
-| 10 |                                     | 📝 | ❕ |  |  |  |  |  |
-| 11 |                                     | 📝 | ❕ |  |  |  |  |  |
-| 12 |                                     | 📝 | ❕ |  |  |  |  |  |
-| 13 |                                     | 📝 | ❕ |  |  |  |  |  |
-| 14 |                                     | 📝 | ❕ |  |  |  |  |  |
-| 15 |                                     | 📝 | ❕ |  |  |  |  |  |
-| 16 |                                     | 📝 | ❕ |  |  |  |  |  |
-| 17 |                                     | 📝 | ❕ |  |  |  |  |  |
-| 18 |                                     | 📝 | ❕ |  |  |  |  |  |
-| 19 |                                     | 📝 | ❕ |  |  |  |  |  |
-| 20 |                                     | 📝 | ❕ |  |  |  |  |  |
-| 21 |                                     | 📝 | ❕ |  |  |  |  |  |
+| No | Source                  | T | Bas | K7 | Wav | FD | CRAM | BKP |
+|----|-------------------------|---|-----|----|-----|----|------|-----|
+| 01 | Kim Musical             | E | ❕ |  |  |  |  |  |
+| 02 | Autodictée              | E | ❕ |  |  |  |  |  |
+| 03 | Soutien                 | E | ❕ |  |  |  |  |  |
+| 04 | Safari                  | E | ❕ |  |  |  |  |  |
+| 05 | Lecture Rapide          | E | ❕ |  |  |  |  |  |
+| 06 | Lecture Débutant        | E | ❕ |  |  |  |  |  |
+| 07 | Pluriel des noms        | E | ❕ |  |  |  |  |  |
+| 08 | Conjugaison             | E | ❕ |  |  |  |  |  |
+| 09 | Addition                | E | ❕ |  |  |  |  |  |
+| 10 | Soustraction            | E | ❕ |  |  |  |  |  |
+| 11 | Multiplication          | E | ❕ |  |  |  |  |  |
+| 12 | Division                | E | ❕ |  |  |  |  |  |
+| 13 | Ravitaillement en Vol   | E | ❕ |  |  |  |  |  |
+| 14 | Train Capricieux, Le    | E | ❕ |  |  |  |  |  |
+| 15 | Ville de France         | E | ❕ |  |  |  |  |  |
+| 16 | Consruction de Phrases  | E | ❕ |  |  |  |  |  |
+| 17 | J'Ecris tout seul       | E | ❕ |  |  |  |  |  |
+| 18 | Reconstitution de texte | E | ❕ |  |  |  |  |  |
+| 19 | Coktail Magique         | E | ❕ |  |  |  |  |  |
+| 20 | Masse et Volume         | E | ❕ |  |  |  |  |  |
+| 21 | Kim Nombre              | E | ❕ |  |  |  |  |  |
 
 ___
 ### RPUFOS
@@ -611,6 +611,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
