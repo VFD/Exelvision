@@ -313,30 +313,38 @@ Seulement 10 numéros.
 | 5 | 1986   | 3-4  |      | 36      | Pub Cobra Soft |  | 📝 |
 | 5 | 1986   | 3-4  |      | 58      | Où trouver qui ? | Exelvision, tour Montparnasse | 📝 |
 
+Résultats de l'année fiscale 1985 pour Exelvision.\
+Et une nouvelle adresse.
+
 ___
 ### L'Ordinateur Individuel
 
+Il y a deux séries, ancienne (1-118) et nouvelle formule (1-258).\
+Ci-dessous les numéros de l'ancienne formule.
+
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 60 | 1984  | 6 | | 195 | EXL100 fiche | |
-| 62 |
-| 63 |
-| 68 | 1985 | 3 | | 112 | Dossier Tableau | | |
-| 69 | 1985 | 4 | | 122 | Banc d'essai EXL100 | | |
-| 70 | 1985 | 5 | | 93 | L'EXL100 s'équipe | Modem, clavier, Exlmémoire, Exeldisk | ✅ |
-| 70 | 1985 | 5 | | 98 | Imprimante EXL 80 | | |
-| 76 | 1985 | 12 | | 60 | Publicité | Ami informatique | ✅ |
-| 76 | 1985 | 12 | | 112 | Dossier | EXL100 p115 | ✅ |
-| 77 |
-| 80 |
-| 81 |      |    | |     | Publicité | Exelmodem, Exeltel | |
-| 87 | 1986 | 12 | | | Repères Technologie | | |
+| 60 | 1984  | 6    |      | 195 | EXL100 fiche | |
+| 62 | 1984  | 9    |      |
+| 63 | 1984  | 10   |      |
+| 68 | 1985  | 3    |      | 112 | Dossier Tableau | | |
+| 69 | 1985  | 4    |      | 122 | Banc d'essai EXL100 | | |
+| 70 | 1985  | 5    |      | 93 | L'EXL100 s'équipe | Modem, clavier, Exlmémoire, Exeldisk | ✅ |
+| 70 | 1985  | 5    |      | 98 | Imprimante EXL 80 | | |
+| 76 | 1985  | 12   |      | 60 | Publicité | Ami informatique | ✅ |
+| 76 | 1985  | 12   |      | 112 | Dossier | EXL100 p115 | ✅ |
+| 77 | 1986  | 1    |      |
+| 80 | 1986  | 4    |      |
+| 81 | 1986  | 5    |      |     | Publicité | Exelmodem, Exeltel | |
+| 87 | 1986  | 12   |      | | Repères Technologie | | |
 
 Dans cette revue on trouve un index de référence des précedents numéros et ce qui a été traité.\
 Extraction en cours, pour faciliter le travail.\
 Peut être utile à d'autres projets.
 
 No 99 index
+
+Apparement absorbé par 01 qui lui m^me disparaît en 2025.
 
 ___
 ### PC Team
@@ -463,6 +471,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
