@@ -10,6 +10,8 @@ C'est le souc mais faut bien tenter de référencer les choses.\
 Et on peut éventuellement découvrir des pépites.
 
 Trouver les revues ayant les publications Club Exelvision (fichiers VOX par exemple).
+- Hebdogiciel
+- ?
 
 Pas de fichier au format DJVU, ce format n'est pas exploitable pour de la recherche.\
 Il faut les convertir en PDF.\
