@@ -8,7 +8,9 @@ Trier par revue, puis par no de revue.
 Ressource :\
 https://www.abandonware-magazines.org/
 
-Certain scans sont pouris, il faut faire avec pour le moment.
+Certain scans sont pouris, il faut faire avec pour le moment.\
+Il faudrait référencer aussi toutes les pub et les articles qui citent Exelvision.\
+Il s'agit d'avoir une base de références,puis voir ce qu'on en fera.
 
 NDR : En lisant tout ça on peut arriver à comprendre pourquoi la société c'est « plantée ».
 
@@ -452,6 +454,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
