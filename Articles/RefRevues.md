@@ -205,10 +205,12 @@ ___
 ___
 ### Megahertz
 
-| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
-|----|-------|------|------|---------|---------|-------------|---|
-| 48 |  |  | | 50 |  |  | 📝 |
+| No | Année | Mois | Jour | Page(s) | Article  | Commentaire | S |
+|----|-------|------|------|---------|----------|-------------|---|
+| 48 | 1987  | 2    |      | 50      | Contacts |             | 📝 |
 
+Personne qui cherche à échanger sur l'EXL 100.\
+Il manque des numéros pour explorer plus avant.
 
 ___
 ### Micro 7
@@ -454,6 +456,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
