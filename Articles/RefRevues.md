@@ -185,7 +185,7 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 13 | 1984  |      |      |         | SICOB   |             |   |
+| 13 | 1984  | 10   |      |         | SICOB   |             |   |
 | 14 | 1984  | 11   |      | 57      | Présentation EXL100 | Quelque lignes sans prétention | ✅ |
 | 17 | 1985  | 2    |      |
 
@@ -200,7 +200,7 @@ ___
 | 11 | 1985  | 7-8  |      |         | CGCT | EXL80-PC, EXL 40 | ✅ |
 | 12 | 1985  | 9-10 |      |         | Publicité | | 📝 |
 
-
+No 7 : Les mots clés du Exelbasic (Radian).
 
 ___
 ### Megahertz
@@ -209,7 +209,7 @@ ___
 |----|-------|------|------|---------|----------|-------------|---|
 | 48 | 1987  | 2    |      | 50      | Contacts |             | 📝 |
 
-Personne qui cherche à échanger sur l'EXL 100.\
+Personne qui cherche à échanger sur l'EXL 100. La solitude de l'acheteur...\
 Il manque des numéros pour explorer plus avant.
 
 ___
@@ -242,7 +242,7 @@ ___
 | 10 | 1984  |      |      |   -55   | Autoportrait | 2ème prix, EXL100 | |
 | 11 | 1984  | 10   |      | 8       | Publicité | | |
 | 11 | 1984  | 10   |      | 22      | SICOB | | |
-| 11 | 1984  | 11   |      | 8       | Publicité | | |
+| 11 | 1984  | 10   |      | 8       | Publicité | | |
 | 13 | 1984  | 12   |      | 25      | Publicité | | |
 | 15 | 1985  | 2    |      | 46      | J'enttends des voix | | |
 
@@ -267,7 +267,7 @@ ___
 | 21 | 1984  | 4    |      | 17       | Micro actualités | EXL100, EXL188 en photo ! | 📝 |
 | 32 | 1985  | 4    |      | 3, 40-42 | Banc d'essai | EXL100 | 📝 |
 
-Que peut bien être le EXL188 sur la photo du 21 ? Qui par ailleurs est vraiement pourie.
+Que peut bien être le EXL188 sur la photo du 21 ? Qui par ailleurs est vraiement pourrie.
 
 ___
 ### Micro Systèmes
@@ -324,19 +324,19 @@ Ci-dessous les numéros de l'ancienne formule.
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 60 | 1984  | 6    |      | 195 | EXL100 fiche | |
+| 60 | 1984  | 6    |      | 195     | EXL100 fiche | |
 | 62 | 1984  | 9    |      |
 | 63 | 1984  | 10   |      |
-| 68 | 1985  | 3    |      | 112 | Dossier Tableau | | |
-| 69 | 1985  | 4    |      | 122 | Banc d'essai EXL100 | | |
-| 70 | 1985  | 5    |      | 93 | L'EXL100 s'équipe | Modem, clavier, Exlmémoire, Exeldisk | ✅ |
-| 70 | 1985  | 5    |      | 98 | Imprimante EXL 80 | | |
-| 76 | 1985  | 12   |      | 60 | Publicité | Ami informatique | ✅ |
-| 76 | 1985  | 12   |      | 112 | Dossier | EXL100 p115 | ✅ |
+| 68 | 1985  | 3    |      | 112     | Dossier Tableau | | |
+| 69 | 1985  | 4    |      | 122     | Banc d'essai EXL100 | | |
+| 70 | 1985  | 5    |      | 93      | L'EXL100 s'équipe | Modem, clavier, Exlmémoire, Exeldisk | ✅ |
+| 70 | 1985  | 5    |      | 98      | Imprimante EXL 80 | | |
+| 76 | 1985  | 12   |      | 60      | Publicité | Ami informatique | ✅ |
+| 76 | 1985  | 12   |      | 112     | Dossier | EXL100 p115 | ✅ |
 | 77 | 1986  | 1    |      |
 | 80 | 1986  | 4    |      |
-| 81 | 1986  | 5    |      |     | Publicité | Exelmodem, Exeltel | |
-| 87 | 1986  | 12   |      | | Repères Technologie | | |
+| 81 | 1986  | 5    |      |         | Publicité | Exelmodem, Exeltel | |
+| 87 | 1986  | 12   |      |         | Repères Technologie | | |
 
 Dans cette revue on trouve un index de référence des précedents numéros et ce qui a été traité.\
 Extraction en cours, pour faciliter le travail.\
@@ -344,15 +344,16 @@ Peut être utile à d'autres projets.
 
 No 99 index
 
-Apparement absorbé par 01 qui lui m^me disparaît en 2025.
+Apparement absorbé par 01 qui lui même disparaît en 2025.
 
 ___
 ### PC Team
 
-| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
-|----|-------|------|------|---------|---------|-------------|---|
-| HS 4 | 1998 | | | 29-30 | Fiche EXL100 | | 📝 |
-| HS 22 | 2003 | 9 | | 26 | Musée Machine de légende | EXL 100 | 📝 |
+| No    | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|-------|-------|------|------|---------|---------|-------------|---|
+| HS 4  | 1998  | 7-8  |      | 29-30   | Les grandes dates... | Fiche EXL100 | 📝 |
+| HS 22 | 2003  | 9    |      | 26      | Musée Machine de légende | Fiche EXL100 | 📝 |
+
 
 ___
 ### PC Update
@@ -483,6 +484,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
