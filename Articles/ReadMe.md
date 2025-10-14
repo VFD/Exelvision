@@ -10,4 +10,5 @@ Reprise complète dans des fichiers ?\
 
 ## Liste
 
-Voir fichier (RefRevues.md)
+Voir fichier [Références des Revues](RefRevues.md).\
+Il y a beaucoup de travail de recherche à faire.
