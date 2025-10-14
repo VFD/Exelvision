@@ -130,8 +130,9 @@ ___
 
 | No  | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |-----|-------|------|------|---------|---------|-------------|---|
-| 023 | | | | | Publicité | Exelclub | 📝 |
-| 050 | | | | 15 | Publicité | | 📝 |
+| 023 | 1984  | 3    | 16   | 1-13 | The French computer : L'EXL100 |  | 📝 |
+| 050 | 1984  | 9    | 28   | 14 | Publicité | | 📝 |
+| 050 | 1984  | 9    | 28   | 15 | Publicité | Où trouver Exelvision | 📝 |
 | 053 | | | | | Rock'n Joyst | Exeldrum | 📝 |
 | 055 | | | | | Publicité | Exelclub | 📝 |
 | 059 | | | | 9 | Coups de Pub | | 📝 |
@@ -503,3 +504,4 @@ Si vous avez des sources, faites le moi savoir.
 Merci
 
 ___
+
