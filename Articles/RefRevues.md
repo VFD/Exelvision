@@ -12,6 +12,8 @@ Certain scans sont pouris, il faut faire avec pour le moment.\
 Il faudrait référencer aussi toutes les pub et les articles qui citent Exelvision.\
 Il s'agit d'avoir une base de références,puis voir ce qu'on en fera.
 
+Début des recherches sur Avril 1984.
+
 NDR : En lisant tout ça on peut arriver à comprendre pourquoi la société c'est « plantée ».
 
 ___
@@ -54,7 +56,7 @@ ___
 |----|-------|------|------|---------|---------|-------------|---|
 | 10 | 1986 | 2 | | 46 | S.V.M. : A qui perd gagne. | Exelvision cité | 📝 |
 
-
+L'Atarien dénonce les bétises de SVM. Rétroactivement c'est plutôt très juste.
 
 ___
 ### Dream
@@ -72,14 +74,15 @@ ___
 |----|-------|------|------|---------|---------|-------------|---|
 | 1 | 1986 | 6 | | 17-22 | Logo des origines à nos jours | Exelvision cité | 📝 |
 
-NDR : Le LOGO d'Exelvision ne cause pas, erreur ?
+NDR : Le LOGO d'Exelvision ne cause pas, erreur ?\
+Et oui, bien dommage qu'il ne parle pas.
 
 ___
 ### Education Informatique
 
 | No | Année |  Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|-------|------|---------|---------|-------------|---|
-| 29 |  1985 |    11 |      | 11-12 | Informatique pour (presque) tous | (IPT) Exelvision cité | 📝 |
+| 29 |  1985 |    11 |      | 11-12   | Informatique pour (presque) tous | (IPT) Exelvision cité | 📝 |
 | 29 |  1985 |    11 |      |      22 | EXL100 | Fiche Technique 15 | 📝 |
 | 29 |  1985 |    11 |      |   23-24 | Puzzle | Activité | 📝 |
 | 29 |  1985 |    11 |      |  36, 37 | Publicité | Exelvision se vente IPT | 📝 |
@@ -87,7 +90,8 @@ ___
 | 36 |  1987 |    01 |      |      28 | Référence logiciels      |  | 📝 |
 | 38 |  1987 | 05-08 |      |  20, 21 | Fiche pratique Exelmodem | Tutoriel | 📝 |
 
-NDR : On comprend que l'IPT (Informatique Pour Tous) est une cata...
+NDR : On comprend que l'IPT (Informatique Pour Tous) est une cata...\
+Cependant 2 fiches pratique pour l'EXL100.
 
 
 ___
@@ -185,16 +189,16 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 13 | 1984  | 10   |      |         | SICOB   |             |   |
+| 13 | 1984  | 10   |      | 62      | Au 35e SICOB | Exelvision, quelques lignes |   |
 | 14 | 1984  | 11   |      | 57      | Présentation EXL100 | Quelque lignes sans prétention | ✅ |
-| 17 | 1985  | 2    |      |
+| 17 | 1985  | 2    |      | ?
 
 ___
 ### List
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 02 | 1984  |  9   |      | 14      |         |             |   |
+| 02 | 1984  | 9    |      | 14      |         |             |   |
 | 07 | 1985  | 3    |      |         | Le Basic de l'EXL100 | | ✅ |
 | 09 | 1985  | 5    |      | 7-9     | | | 📝 |
 | 11 | 1985  | 7-8  |      |         | CGCT | EXL80-PC, EXL 40 | ✅ |
@@ -236,10 +240,10 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-|  6 | 1984  |      |      | 4       | Notes | | |
+|  6 | 1984  | 4    |      | 4       | Notes : Festival International Son et Image | EXL100 visible | |
 |  7 | 1984  | 5    |      | 6       | L'esprit de famille | Exelvision cité | ✅ |
 |  7 | 1984  | 5    |      | 94-98   | Les coudées France | | ✅ |
-| 10 | 1984  |      |      |   -55   | Autoportrait | 2ème prix, EXL100 | |
+| 10 | 1984  | 9    |      | 54-55   | Autoportrait | 2ème prix, EXL100 | |
 | 11 | 1984  | 10   |      | 8       | Publicité | | |
 | 11 | 1984  | 10   |      | 22      | SICOB | | |
 | 11 | 1984  | 10   |      | 8       | Publicité | | |
@@ -360,7 +364,9 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 13 |  | | | 117 |  | | 📝 |
+| 13 | 2004  | 9-10 |      | 117     | Dossier histoire | Couverture d'Hebdogiciel | 📝 |
+
+Pas un mot sur l'EXL100, juste sur la couverture du feu Hebdogiciel.
 
 
 ___
@@ -403,29 +409,30 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 05 | | | | 6 | Exelvision : du téléphone à l'ordinateur famillial | | 📝 |
-| 09 | | | | 120 | Essai complet : EXL 100 | | 📝 |
-| 11 | | | | | | | 📝 |
-| 12 | | | | 28 | L'Exelvision s'équipe | | 📝 |
-| 12 | | | | 42 |  | | 📝 |
-| 14 | | | | 133 | | | 📝 |
-| 15 | | | | | | | 📝 |
-| 16 | | | | | | | 📝 |
-| 17 | | | | 68-69 | Publicité | | 📝 |
-| 18 | | | | | | | 📝 |
-| 19 | | | | | | | 📝 |
-| 20 | | | | 182 | | Retard | 📝 |
-| 21 | | | | | | | 📝 |
-| 22 | | | | | | | 📝 |
-| 23 | 1985 | 12 | | | Exelmodem | | 📝 |
-| 25 | | | | 15 | Exelvision discute avec Léanord | | 📝 |
-| 26 | | | | | | | 📝 |
-| 28 | | | | | | | 📝 |
-| 29 | | | | | | | 📝 |
-| 31 | | | | 16 | Exelvision coupe le cordon | | 📝 |
-| 33 | | | | | | | 📝 |
-| 35 | | | | | | | 📝 |
-| 40 | | | | | | | 📝 |
+| 05 | 1984  | 4    |      | 6       | Exelvision : du téléphone à l'ordinateur famillial | | 📝 |
+| 09 | 1984  | 9    |      | 120     | Essai complet : EXL 100 | | 📝 |
+| 11 | 1984  | 11   |      | 62-63   | Publicité | EXL100 | 📝 |
+| 12 | 1984  | 12   |      | 28      | L'Exelvision s'équipe | Exelmodem et Exeldrum | 📝 |
+| 12 | 1984  | 12   |      | 32-33   | Publicité | | 📝 |
+| 12 | 1984  | 12   |      | 42      | Exelvision EXL100 le dandy | Article | 📝 |
+| 14 | 1985  | 2    |      | 133     | Alors ça vient ? | Annocés : EXL 80 et Exelmodem | 📝 |
+| 15 | 1985  | 3    |      | 141     | Alors ça vient ? | Annocés : Exelmodem; Arrivés : EXL 80 | 📝 |
+| 16 | 1985  | 4    |      | | | | 📝 |
+| 17 | 1985  | 5    |      | 68-69 | Publicité | | 📝 |
+| 18 | 1985  | 6    |      | | | | 📝 |
+| 19 | 1985  | 7-8  |      | | | | 📝 |
+| 20 | 1985  | 9    |      | 182 | Alors ça vient ? | Retard | 📝 |
+| 21 | 1985  | 10   |      | | | | 📝 |
+| 22 | 1985  | 11   |      | | | | 📝 |
+| 23 | 1985  | 12   |      |   | Exelmodem | | 📝 |
+| 25 | 1986  | 2    |      | 15 | Exelvision discute avec Léanord | | 📝 |
+| 26 | 1986  | 3    |      | | | | 📝 |
+| 28 | 1986  | 5    |      | | | | 📝 |
+| 29 | 1986  | 6    |      | | | | 📝 |
+| 31 | 1986  | 9    |      | 16 | Exelvision coupe le cordon | | 📝 |
+| 33 | 1986  | 11   |      | | | | 📝 |
+| 35 | 1987  | 1    |      | | | | 📝 |
+| 40 | 1987  | 6    |      | | | | 📝 |
 
 SVM 25 - index
 
@@ -445,30 +452,32 @@ ___
 |----|-------|------|------|---------|---------|-------------|---|
 | 86 | | | | | | | 📝 |
 
-
+La revue se vend toujours donc non disponible.\
+Si vous avez je suis preneur.
 
 ___
 ### Tilt
 
-| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
-|----|-------|------|------|---------|---------|-------------|---|
-| 12 |       |      |      |         |         |             | 📝 |
-| 15 |       |      |      |      26 | Test EXL100 |             | 📝 |
-| 17 |  1984 |      |      |     152 | EXL100 (Noël) |             | 📝 |
-| 21 |       |      |      |         |         | Interview | 📝 |
-| 25 |       |      |      |         |         |             | 📝 |
-| 26 |       |      |      |     128 | Micro Star : EXL100 |             | 📝 |
-| 28 |       |      |      |         |         |             | 📝 |
-| 30 |       |      |      |         |         |             | 📝 |
-| 31 |       |      |      |         |         |             | 📝 |
-| 33 |       |      |      |         |         |             | 📝 |
-| 34 |       |      |      |         |         |             | 📝 |
-| 35 |       |      |      | 113-115 | EXL100 une voix sans issue |             | 📝 |
-| 37 |       |      |      |         |         |             | 📝 |
-| 39 |       |      |      |      88 | Test Exeltel |             | 📝 |
-| 51 |       |      |      |         |         |             | 📝 |
+| No | Année | Mois  | Jour |   Page(s)   | Article | Commentaire | S |
+|----|-------|-------|------|-------------|---------|-------------|---|
+| 12 | 1984  | 5     |      | 6           | Tilt journal | Exclusif : EXL100 | 📝 |
+| 15 | 1984  | 9     |      | 26          | Test EXL100 |             | 📝 |
+| 17 | 1984  | 11-12 |      | 152         | EXL100 (Noël) |             | 📝 |
+| 21 | 1985  | 5     |      | 18-19-22-66 | Exelvision... d'avenir | Interview | 📝 |
+| 25 | 1985  | 10    |      | 18          | Teletel à votre service | EXL100 cité | 📝 |
+| 26 | 1985  | 11    |      | 128         | Micro Star : EXL100 |             | 📝 |
+| 28 | 1986  | 1-2   |      |             |         |             | 📝 |
+| 30 | 1986  | 4     |      |             |         |             | 📝 |
+| 31 | 1986  | 5     |      |             |         |             | 📝 |
+| 33 | 1986  | 7-8   |      |             |         |             | 📝 |
+| 34 | 1986  | 9     |      |             |         |             | 📝 |
+| 35 | 1986  | 10    |      | 113-115     | EXL100 une voix sans issue |             | 📝 |
+| 37 | 1986  | 12    |      |             |         |             | 📝 |
+| 39 | 1987  | 2     |      | 88          | Test Exeltel |             | 📝 |
+| 51 | 1988  | 2     |      | 20          | Exelvision retourne au garage | Exeltel TTO | 📝 |
 
-
+No 51 : Exelvision à tourné casaque vers le marché pro. Puis la chute.\
+Grace à Tilt on a de la matière. 1985-1988.
 
 ___
 ### Votre Ordinateur
@@ -484,6 +493,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
