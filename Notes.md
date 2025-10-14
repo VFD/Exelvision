@@ -46,6 +46,7 @@ Scan médiocres pour la majorité.
 ___
 ### Hebdogiciel
 
+http://www.hebdogiciel.free.fr/exel100.htm
 Nombreux listings, cf. ReadMe.md.
 
 No 23\
