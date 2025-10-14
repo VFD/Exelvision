@@ -166,17 +166,17 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 27 | | | | 38 | Ludotique / News | | 📝 |
-| 30 | | | | 42 | Fiche EXL 100 | à côté du VG5000 | 📝 |
-| 30 | | | | 51 | | | 📝 |
-| 32 | | | | | Pub jeux Tyrann (Norsoft) | Jamais sorti ? | 📝 |
-| 36 | | | | 62 | Carnet d'adresse | Adresse Exelvision | 📝 |
-| 37 | | | | 54 | Carnet d'adresse | Adresse Exelvision | 📝 |
-| 40 | | | |  | Carnet d'adresse | Adresse Exelvision | 📝 |
-| 42 | | | | 62 | Carnet d'adresse | Adresse Exelvision | 📝 |
-| 43 | 1987 | 2 | 3 | 44 | Publicité SVM | Exeltel | 📝 |
-| 43 | | | | 61 | Micro Climat | Exeltel | 📝 |
-| 43 | | | | 62 | Carnet d'adresse | Adresse Exelvision | 📝 |
+| 27 | 1984  | 6-7  |      | 38      | Ludotique / News | | 📝 |
+| 30 | 1984  | 12   |      | 42 | Fiche EXL 100 | à côté du VG5000 | 📝 |
+| 30 | 1984  | 12   |      | 51 | | | 📝 |
+| 32 | 1985  | 4-5  |      | | Pub jeux Tyrann (Norsoft) | Jamais sorti ? | 📝 |
+| 36 | 1985  | 12   |      | 62 | Carnet d'adresse | Adresse Exelvision | 📝 |
+| 37 | 1986  | 2-3  |      | 54 | Carnet d'adresse | Adresse Exelvision | 📝 |
+| 40 | 1986  | 8-9  |      |  | Carnet d'adresse | Adresse Exelvision | 📝 |
+| 42 | 1986  | 12   |      | 62 | Carnet d'adresse | Adresse Exelvision | 📝 |
+| 43 | 1987  | 2    | 3    | 44 | Publicité SVM | Exeltel | 📝 |
+| 43 | 1987  | 2    |      | 61 | Micro Climat | Exeltel | 📝 |
+| 43 | 1987  | 2    |      | 62 | Carnet d'adresse | Adresse Exelvision | 📝 |
 | HS 3 | | | | 21-23 | 3615 |  | 📝 |
 
 
@@ -456,6 +456,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
