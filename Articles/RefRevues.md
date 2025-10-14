@@ -91,30 +91,33 @@ NDR : On comprend que l'IPT (Informatique Pour Tous) est une cata...
 ___
 ### Electronique Pratique
 
-| No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
-|----|-------|------|------|---------|---------|-------------|---|
-| 71 |  |  | |  |  |  | 📝 |
-| 76 |  |  | |  |  |  | 📝 |
-| 115 |  |  | |  |  |  | 📝 |
-| 118 |  |  | |  |  |  | 📝 |
-| 119 |  |  | |  |  |  | 📝 |
+| No  | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
+|-----|-------|------|------|---------|---------|-------------|---|
+| 071 | 1984  | 5    |      | 52      | Présentation EXL100 |  | 📝 |
+| 076 | 1984  | 11   |      |         | Index des numéros   |  | 📝 |
 
+115, 118, 119 ?
+
+NDR : Les scans sont incomplet pour cette revue.
 
 ___
 ### Le Haut Parleur
 
 |  No  | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |------|-------|------|------|---------|---------|-------------|---|
-| 1708 |       |      |      | 3       |         |             | 📝 |
+| 1708 | 1984  | 9    |      | 3       | Sommaire |             | 📝 |
+| 1708 | 1984  | 9    |      | 121     | EXL100 |             | 📝 |
 | 1709 | | | | 10 | | | |
 | 1711 | | | | 6 | | | |
 | 1718 | | | | 13 | | | |
 | 1720 | | | | 86 | | | |
-| 1722 | | | | 63-64 | | | |
-| 1723 | | | |  | | | |
+| 1722 | 1985 | 11 | | 125-129 | Extentions EXL100 | Exelmodem et Exeldrum | 📝 |
+| 1722 | 1985 | 11 | | 150-154 | ABC de la micro informatique |  | 📝 |
+| 1723 | 1985 | 12 | | 162-165 | ABC de la micro informatique | | 📝 |
 | 1753 | | | |  | | | |
-|      |  1985 |   11 |      |         |         |             | 📝 |
 
+Scans incomplets et en vrac, galère.\
+Manque des numéros, ceux sur ABC informatique 1724... Dommage car il y a du code et des explications.
 
 ___
 ### Hebdogiciel
@@ -154,6 +157,7 @@ ___
 | 163 | | | | 13 | Bon cocktail | Prix Tilt Canal+ | 📝 |
 | 167 | | | | 11 | Triste Noël | | 📝 |
 
+Besoin de scan de qualité, en particulier pour le Exelclub (code VOX).
 
 ___
 ### Jeux & Stratégie
@@ -448,6 +452,7 @@ ___
 | 11 | | | | 50 | | | 📝 |
 | 11 | | | | 89 | | | 📝 |
 | 12 | | | | 15 | | | 📝 |
+
 
 
 
