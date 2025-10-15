@@ -54,7 +54,7 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 10 | 1986 | 2 | | 46 | S.V.M. : A qui perd gagne. | Exelvision cité | 📝 |
+| 10 | 1986 | 2 | | 46 | S.V.M. : A qui perd gagne. | Exelvision cité | ✅ |
 
 L'Atarien dénonce les bétises de SVM. Rétroactivement c'est plutôt très juste.
 
@@ -260,7 +260,7 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 20 | 1989  | 4    |      | 65      | Exeltel.. Que | | 📝 |
+| 20 | 1989  | 4    |      | 65      | Exeltel.. Que | | ✅ |
 
 
 
@@ -504,6 +504,7 @@ Si vous avez des sources, faites le moi savoir.
 Merci
 
 ___
+
 
 
 
