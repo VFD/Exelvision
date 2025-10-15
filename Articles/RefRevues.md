@@ -212,7 +212,7 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article  | Commentaire | S |
 |----|-------|------|------|---------|----------|-------------|---|
-| 48 | 1987  | 2    |      | 50      | Contacts |             | 📝 |
+| 48 | 1987  | 2    |      | 50      | Contacts |             | ✅ |
 
 Personne qui cherche à échanger sur l'EXL 100. La solitude de l'acheteur...\
 Il manque des numéros pour explorer plus avant.
@@ -356,8 +356,8 @@ ___
 
 | No    | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |-------|-------|------|------|---------|---------|-------------|---|
-| HS 4  | 1998  | 7-8  |      | 29-30   | Les grandes dates... | Fiche EXL100 | 📝 |
-| HS 22 | 2003  | 9    |      | 26      | Musée Machine de légende | Fiche EXL100 | 📝 |
+| HS 4  | 1998  | 7-8  |      | 29-30   | Les grandes dates... | Fiche EXL100 | ✅ |
+| HS 22 | 2003  | 9    |      | 26      | Musée Machine de légende | Fiche EXL100 | ✅ |
 
 
 ___
@@ -504,6 +504,7 @@ Si vous avez des sources, faites le moi savoir.
 Merci
 
 ___
+
 
 
 
