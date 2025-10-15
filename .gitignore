@@ -22,7 +22,7 @@ Icon?
 *.hif
 
 # Ignore all PDF files
-*.pdf
+# *.pdf
 
 # Other
 *.doc
