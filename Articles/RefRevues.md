@@ -269,10 +269,11 @@ ___
 
 | No | Année | Mois | Jour | Page(s)  | Article | Commentaire | S |
 |----|-------|------|------|----------|---------|-------------|---|
-| 21 | 1984  | 4    |      | 17       | Micro actualités | EXL100, EXL188 en photo ! | 📝 |
-| 32 | 1985  | 4    |      | 3, 40-42 | Banc d'essai | EXL100 | 📝 |
+| 21 | 1984  | 4    |      | 17       | Micro actualités | EXL100, EXL188 en photo ! | ✅ |
+| 32 | 1985  | 4    |      | 3, 40-42 | Banc d'essai | EXL100 | ✅ |
 
-Que peut bien être le EXL188 sur la photo du 21 ? Qui par ailleurs est vraiement pourrie.
+Que peut bien être le EXL188 sur la photo du 21 ? Qui par ailleurs est vraiement pourrie.\
+Quand même 1 année entre les 2 numéros, de quoi largement acheter autre chose en 1985.
 
 ___
 ### Micro Systèmes
@@ -504,6 +505,7 @@ Si vous avez des sources, faites le moi savoir.
 Merci
 
 ___
+
 
 
 
