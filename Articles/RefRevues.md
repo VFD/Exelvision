@@ -99,8 +99,8 @@ ___
 
 | No  | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |-----|-------|------|------|---------|---------|-------------|---|
-| 071 | 1984  | 5    |      | 52      | Présentation EXL100 |  | 📝 |
-| 076 | 1984  | 11   |      |         | Index des numéros   |  | 📝 |
+| 071 | 1984  | 5    |      | 52      | Présentation EXL100 |  | ✅ |
+| 076 | 1984  | 11   |      |         | Index des numéros   |  | ✅ |
 
 115, 118, 119 ?
 
@@ -117,9 +117,9 @@ ___
 | 1711 | 1984  | 12   | | 6 | | | |
 | 1718 | 1985  | 7    | | 13 | | | |
 | 1720 | 1985  | 9    | | 86 | | | |
-| 1722 | 1985  | 11   | | 125-129 | Extentions EXL100 | Exelmodem et Exeldrum | 📝 |
-| 1722 | 1985  | 11   | | 150-154 | ABC de la micro informatique |  | 📝 |
-| 1723 | 1985  | 12   | | 162-165 | ABC de la micro informatique | | 📝 |
+| 1722 | 1985  | 11   | | 125-129 | Extentions EXL100 | Exelmodem et Exeldrum | ✅ |
+| 1722 | 1985  | 11   | | 150-154 | ABC de la micro informatique |  | ✅ |
+| 1723 | 1985  | 12   | | 162-165 | ABC de la micro informatique | | ✅ |
 | 1753 | | | |  | |  | |
 
 Scans incomplets et en vrac, galère.\
@@ -378,7 +378,7 @@ Oui c'est dédié Apple.\
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-| 17 | 1985  | 3-4  |      | 72      | Courrier des lecteurs  | Exelvision cité | 📝 |
+| 17 | 1985  | 3-4  |      | 72      | Courrier des lecteurs  | Exelvision cité | ✅ |
 
 Une lettre type « coup de gueule de François COULON » sur les aléas de produire, faire éditer un logiciel quand on est un lambda...
 
@@ -504,4 +504,5 @@ Si vous avez des sources, faites le moi savoir.
 Merci
 
 ___
+
 
