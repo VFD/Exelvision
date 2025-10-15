@@ -387,7 +387,7 @@ ___
 
 | No  | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |-----|-------|------|------|---------|---------|-------------|---|
-| 446 | 1985  | 1    |      | 32      | Infos   | Article Exelvision | 📝 |
+| 446 | 1985  | 1    |      | 32      | Infos   | Article Exelvision | ✅ |
 
 446 : On nous parle de 
 - SICOB : Exelmodem
@@ -504,5 +504,6 @@ Si vous avez des sources, faites le moi savoir.
 Merci
 
 ___
+
 
 
