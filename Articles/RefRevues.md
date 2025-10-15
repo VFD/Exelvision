@@ -75,7 +75,7 @@ ___
 | 1 | 1986 | 6 | | 17-22 | Logo des origines à nos jours | Exelvision cité | 📝 |
 
 NDR : Le LOGO d'Exelvision ne cause pas, erreur ?\
-Et oui, bien dommage qu'il ne parle pas.
+Il faut vérifier car la commande PARLER existe cf. le panel clavier LOGO.
 
 ___
 ### Education Informatique
@@ -504,6 +504,7 @@ Si vous avez des sources, faites le moi savoir.
 Merci
 
 ___
+
 
 
 
