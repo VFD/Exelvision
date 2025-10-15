@@ -241,7 +241,7 @@ ___
 
 | No | Année | Mois | Jour | Page(s) | Article | Commentaire | S |
 |----|-------|------|------|---------|---------|-------------|---|
-|  6 | 1984  | 4    |      | 4       | Notes : Festival International Son et Image | EXL100 visible | |
+|  6 | 1984  | 4    |      | 4       | Notes : Festival International Son et Image | EXL100 visible | ✅ |
 |  7 | 1984  | 5    |      | 6       | L'esprit de famille | Exelvision cité | ✅ |
 |  7 | 1984  | 5    |      | 94-98   | Les coudées France | | ✅ |
 | 10 | 1984  | 9    |      | 54-55   | Autoportrait | 2ème prix, EXL100 | |
@@ -504,6 +504,7 @@ Si vous avez des sources, faites le moi savoir.
 Merci
 
 ___
+
 
 
 
