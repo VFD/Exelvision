@@ -6,9 +6,9 @@ ___
 Référencement de projets Hardware pour Exelvision.\
 Peut inclure aussi la refabrication/restauration des boitiers plastiques type VHS.\
 Le boitiers VHS utilisé par Exelvision semble être très ancien et introuvable.\
-Les insère, K7 et ROM ne s'adapte pas sur les boitier VHS plus moderne. Le dimensions sont différentes.\
+Les insères, K7 et ROM ne s'adapte pas sur les boitiers VHS plus moderne. Le dimensions sont différentes.\
 Il y a donc un travail à faire de scan, de retouche, de redimension des jaquettes.\
-Meme chose pour l'insère.
+Même chose pour l'insère.
 
 ___
 # Cartouche ROM
