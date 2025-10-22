@@ -354,10 +354,6 @@ Test Exeltel no39 p88.
 
 HS : Hors Série, Mars 1987, 240 listings.
 
-NDR : Exelvision y publiait des encarts « Club Exelvision ».\
-Recherche en cours pour les ajouter.
-
-
 ___
 ### Votre Ordinateur
 
@@ -611,6 +607,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
