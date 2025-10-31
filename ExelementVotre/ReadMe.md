@@ -15,7 +15,7 @@ Malheureusement certain scan sont de très mauvaise qualité.
 Je cherche donc les revues originales.
 
 J'ai 13 à 20.\
-Me manque 1 à 1é et le dernier numéro (celui avec le programme star trek (David H; Ahl)
+Me manque 1 à 12 et le dernier numéro (celui avec le programme star trek (David H; Ahl)
 
 ___
 ## Les numéros
@@ -41,4 +41,5 @@ ___
 Bug dans l'émulateur DCExel.
 
 ___
+
 
