@@ -11,16 +11,22 @@ https://abandonware-magazines.org/
 Scans de la revue : \
 https://abandonware-magazines.org/affiche_mag.php?mag=52&page=1
 
-Malheureusement certain scan sont de très mauvaise qualité.
+Malheureusement certain scan sont de très mauvaise qualité.\
 Je cherche donc les revues originales.
 
 J'ai 13 à 20.\
 Me manque 1 à 12 et le dernier numéro (celui avec le programme star trek (David H; Ahl)
 
+### Correctif
+
+Le No 19 est disponible car absent des DataBases.\
+J'ai refait le scan est il est dispo ici en attendant d'être uploader sur (Abandonware Magazines)[https://abandonware-magazines.org/]
+
+
 ___
 ## Les numéros
 
-19 numéros actuellement référencés.\
+20 numéros actuellement référencés.\
 Probable numéro double sur 07-08 ou 08-09.\
 Ce n'est pas explicite, ou alors revue manquante.\
 Le dernier numéro porte la mention Dernier Numéro. 
