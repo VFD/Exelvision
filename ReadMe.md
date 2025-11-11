@@ -189,14 +189,15 @@ Analyse en cours. Mais déjà pas mal de choses.
 | 15    | Histogramme                        | 📝 |  |  |  |  |  |
 | 16    | Fichier d'Adresses                 | 📝 |  |  |  |  |  |
 | 17-18 | Tarot                              | ❕ |  |  |  |  |  |
-| 19    | Star Trek                          | ❕ |  |  |  |  |  |
+| 19    | Civil War                          | 📝 |  |  |  |  |  |
 | 20    | Jeu de la Vie, Le                  | 📝 |  |  |  |  |  |
 | 20    | Test et QI                         | 📝 |  |  |  |  |  |
 | 20    | Vie a Deux                         | 📝 |  |  |  |  |  |
-
+| Last  | Star Trek                          | ❕ |  |  |  |  |  |
 
 (?) Ce numéro existe-t-il ?
 
+**Civil War** : est l'adaptation sur EXL100 du jeu publié par David H. Ahl.\
 **Star Trek** : est l'adaptation sur EXL100 du jeu publié par David H. Ahl.
 
 ___
