@@ -1,4 +1,4 @@
-# Assets pour le HardWare
+# Assets pour le Hardware
 
 ___
 ## Introduction
