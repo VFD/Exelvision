@@ -20,7 +20,7 @@ Me manque 1 à 12 et le dernier numéro (celui avec le programme star trek (Davi
 ### Correctif
 
 Le No 19 est disponible car absent des DataBases.\
-J'ai refait le scan est il est dispo ici en attendant d'être uploader sur (Abandonware Magazines)[https://abandonware-magazines.org/]
+J'ai refait le scan est il est dispo ici en attendant d'être uploader sur [Abandonware Magazines](https://abandonware-magazines.org/).
 
 
 ___
