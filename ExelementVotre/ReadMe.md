@@ -27,9 +27,7 @@ J'ai refait le scan et il est dispo ici en attendant d'être uploader sur [Aband
 ___
 ## Les numéros
 
-20 numéros actuellement référencés.\
-Probable numéro double sur 07-08 ou 08-09.\
-Ce n'est pas explicite, ou alors revue manquante.\
+19 numéros actuellement référencés.\
 Le dernier numéro porte la mention Dernier Numéro. 
 
 Pour chaque revue j'ai fait un MarkDown.\
@@ -51,5 +49,6 @@ Bug dans l'émulateur DCExel.\
 DCExel n'est pas un vrai émulateur au sens strict. Donc des trucs ne passe pas.
 
 ___
+
 
 
