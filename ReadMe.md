@@ -147,7 +147,7 @@ C'est long et fastidieux...
 ___
 ### Exelement Votre
 
-Publié par Exelvision. 20 numéros.\
+Publié par Exelvision. 19 numéros (2 doubles).\
 Analyse en cours. Mais déjà pas mal de choses.
 
 
@@ -170,8 +170,7 @@ Analyse en cours. Mais déjà pas mal de choses.
 | 05    | Recopie Ecran                      | 📝 |  |  |  |  |  |
 | 05    | ASM vers Data Basic                | 📝 |  |  |  |  |  |
 | 06    | Mille-Pates                        | ❕ |  |  |  |  |  |
-| 07    | Ile maudite, L                     | 📝 |  |  |  |  |  |
-| 08(?) |                                    |    |  |  |  |  |  |
+| 07-08 | Ile maudite, L                     | 📝 |  |  |  |  |  |
 | 09    | Ile maudite, L \[FD\]              | 📝 | ✘ | ✘ |  |  |  |
 | 09    | Mini Budget                        | 📝 |  |  |  |  |  |
 | 09    | Auto Question                      | ❕ |  |  |  |  |  |
@@ -194,8 +193,6 @@ Analyse en cours. Mais déjà pas mal de choses.
 | 20    | Test et QI                         | 📝 |  |  |  |  |  |
 | 20    | Vie a Deux                         | 📝 |  |  |  |  |  |
 | Last  | Star Trek                          | ❕ |  |  |  |  |  |
-
-(?) Ce numéro existe-t-il ?
 
 **Civil War** : est l'adaptation sur EXL100 du jeu publié par David H. Ahl.\
 **Star Trek** : est l'adaptation sur EXL100 du jeu publié par David H. Ahl.
@@ -608,6 +605,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
