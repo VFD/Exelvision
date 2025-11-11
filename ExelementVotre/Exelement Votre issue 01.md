@@ -6,7 +6,7 @@ ___
 Magazine officiel des vieilles machines françaises Exelvision (EXL100, Exeltel).
 
 Ressources : \
-https://abandonware-magazines.org/
+[Abandonware Magazines](https://abandonware-magazines.org/)
 
 Scans de la revue : \
 https://abandonware-magazines.org/affiche_mag.php?mag=52&page=1
