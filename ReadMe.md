@@ -1,6 +1,6 @@
 # Exelvision Project
 
-<img src="RPUFOS/Assets/RPUFOS_Logo.png" alt="Logo RPUFOS" width="150">
+<img src="RPUFOS/Assets/RPUFOS_Logo.png" alt="Logo RPUFOS" width="150" style="margin: auto;">
 
 ## Introduction
 
@@ -606,6 +606,7 @@ Fourre tout de listing inconnus et à trier.
 
 
 ___
+
 
 
 
