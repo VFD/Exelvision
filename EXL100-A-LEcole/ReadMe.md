@@ -26,8 +26,8 @@ Les Listings sont à saisir (extraction OCR du livre).
 
 | Titre | Commentaire | S |
 |-------|-------------|---|
-| Kim musical |  | 📝 |
-| Autodictée |  | 📝 |
+| Kim musical |  | ❕ |
+| Autodictée |  | ❕ |
 | Soutien |  | 📝 |
 | Safari |  | 📝 |
 | Lecture rapide |  | 📝 |
