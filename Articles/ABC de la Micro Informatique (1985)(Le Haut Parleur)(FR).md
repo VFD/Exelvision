@@ -17,37 +17,71 @@ Figure 6\
 Tracé d'un carré.
 
 ```basic
-
+100 REM TRACE D'UN CARRE
+110 REM COULEUR DEFINIE PAR C$
+120 CALL LINE (C$,X0,Y0,X0+C,Y0)
+130 CALL LINE (C$,X0,Y0,X0,Y0+C)
+140 CALL LINE (C$,X0,Y0+C,X0+C,Y0+C)
+150 CALL LINE (C$,X0+C,Y0,X0+C,Y0+C)
+160 END
 ```
 
 Figure 7\
 Tracé d'un rectangle.
 
 ```basic
-
+100 REM TRACE D'UN RECTANGLE
+110 REM COULEUR DEFINIE PAR C$
+120 CALL LINE (C$,X0,Y0,X1,Y0)
+130 CALL LINE (C$,X0,Y0,X0,Y1)
+140 CALL LINE (C$,X1,Y0,X1,Y1)
+150 CALL LINE (C$,X0,Y1,X1,Y1)
+160 END
 ```
 
 Figure 8\
 Coloriage d'un rectangle.
 
 ```basic
-
+100 REM TRACE D'UNE BOITE
+110 REM COULEUR DEFINIE PAR C$
+120 FOR I=0 TO Y1-Y0
+130 CALL LINE (C$,X0,Y0+I,X1,Y0+I)
+140 NEXT I
+150 END
 ```
 
-Figure 10
+Figure 10\
 Polygone.
 
 ```basic
-
+100 REM TRACE D'UN POLYGONE
+110 REM COULEUR DEFINIE PAR C$
+120 REM RAYON R
+130 REM CENTRE EN X0,Y0
+140 REM NOMBRE DE COTES N
+150 DEG
+160 I=0
+170 A0=X0+R*COS(I)
+180 B0=X0+R*SIN(I)
+190 A1=X0+R*COS(I+360/N)
+200 B1=X0+R*SIN(I+360/N)
+210 CALL LINE (C$,A0,B0,A1,B1)
+220 I=I+360/N
+230 IF I<360 THEN GOTO 170
+240 END
 ```
 
-Il aurait été plus interressant de les avoir en SUB routine.
+Ce programme est mal optimisé.
 
-Ce que l'on fait de suite :
+___
+
+Il aurait été plus interressant de les avoir en SUB routine.\
+Tout en essayant de factoriser les codes.
 
 
 ```basic
-
+TO DO
 ```
 
 ___
@@ -94,7 +128,7 @@ Exemple de tracé de courbe du troisième degré avec axes centrés et gradués.
 220 NEXT
 ```
 
-Figure 4
+Figure 4\
 Le programe de la figure 3 avec quadrillage de tout l'écran pour facilier la lecture des coordonnées des ppoints.
 
 ```basic
@@ -148,11 +182,14 @@ Ce n'est pas un programme Exelvision.
 La aussi des SUB routine seraient benvenues.
 
 ```basic
-
+TO DO
 ```
 
 
 ___
 ### Suite manquante
+
+Numéros suivant non trouvés.\
+Dommage.
 
 ___
