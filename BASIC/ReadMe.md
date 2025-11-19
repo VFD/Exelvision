@@ -155,6 +155,7 @@ CALL SPEECH(...)
 
 « ! » est l'éuivalent de « REM ».
 
+___
 ### Exelbasic+
 
 Modifications apportés :
@@ -168,7 +169,11 @@ PRINT USING → formatage plus riche\
 SAVE/LOAD  → gestion étendue des supports (disquette, K7, Exemémoire)\
 SPEECH*    → plus de contrôle sur la synthèse vocale
 
+<sup>*</sup> implique l'utilisation de « CALL » pour l'appel.
 
+TO DO : à développer.
+
+___
 ### Autres
 
 L'ajout de périférique implique de nouvelles choses.\
