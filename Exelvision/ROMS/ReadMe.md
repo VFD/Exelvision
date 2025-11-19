@@ -15,5 +15,10 @@ Pour l'Exelmemoire ce serait améliorer et pourquoi pas refaire de Exelmemoire.
 
 TO DO
 
+## Ressources
+
+https://github.com/martinhansdk/TMS7000-disassembler
+
+
 
 ___
