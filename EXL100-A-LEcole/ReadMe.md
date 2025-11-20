@@ -1,18 +1,20 @@
 # EXL 100 à L'école
 
+___
 # Introduction
 
 Livre rare.\
 J'ai réussi à en trouver un, il est maintenant scanné.\
 Disponible en PDF OCR.
 
+___
 # Listings
 
 21 programmes sont disponibles dans le livre.\
 Le principe est d'avoir en code principal le programme publié tel quel.\
 Tout autres modifications générant des versions alternate [a].\
 Ce qui peut être le cas dans le cas de sortie impression tel que décrit dans le livre.\
-Base d'archive K7, FD en analyse.
+Base d'archive K7, FD aussi en analyse.
 
 Les Listings sont à saisir (extraction OCR du livre).
 
@@ -29,7 +31,7 @@ Les Listings sont à saisir (extraction OCR du livre).
 | Kim musical |  | ❕ |
 | Autodictée |  | ❕ |
 | Soutien |  | ❕ |
-| Safari |  | 📝 |
+| Safari |  | ❕ |
 | Lecture rapide |  | 📝 |
 | Lecture débutant |  | 📝 |
 | Pluriel des noms |  | 📝 |
