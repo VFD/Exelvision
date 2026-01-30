@@ -2,7 +2,7 @@
 layout: default
 title: "Mon premier article"
 date: 2026-01-25
-permalink: /Exelvision/:year/:month/:day/:title.html
+permalink: /Exelvision/blog/:year/:month/:day/:title.html
 ---
 
 # Mon premier article
