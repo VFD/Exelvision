@@ -3,10 +3,14 @@
 ___
 ## Introduction
 
-TO DO
+Welcome to the resources for the Exelvision.
+The source codes are preserved here for posterity thanks to the work of the RPUFOS.
+
 
 
 ___
-## TO DO
+## The Program Listings
+
+To Do.
 
 
