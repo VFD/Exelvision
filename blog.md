@@ -1,0 +1,23 @@
+---
+layout: default
+title: Blog
+---
+
+<h1>Blog</h1>
+
+{% for post in paginator.posts %}
+  <article>
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <p>{{ post.date | date: "%d %B %Y" }}</p>
+  </article>
+{% endfor %}
+
+<nav class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}">← Newer posts</a>
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}">Older posts →</a>
+  {% endif %}
+</nav>

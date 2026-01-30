@@ -50,6 +50,5 @@ Possible also for other various elements.
 
 ## Links
 
-Page des [liens](links.html) vers d'autres ressources.
-
+[External Resources](links.html).
 
