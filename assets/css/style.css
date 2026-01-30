@@ -1,71 +1,83 @@
-/*
+/* ============================================================
+   File: styles.css
+   Description: Global CSS for all html
+   Author: VincentD
+   Created: November 26, 2025
+   Last Updated: January 30, 2026
+   Version: 1.0
+   ============================================================ */
 
+:root {
+  /* Main palette */
+  --font-family: Arial, sans-serif;
+  --background-color: #f3f3f3;
+  --text-color: #333;
+  --accent-color: #888;
+  --border-color: #ccc;
+  --highlight-bg: #eee;
+  --button-bg: #fff;
+  --button-hover-bg: #f0f0f0;
 
-
-
-*/
-
-/* ---------------------------------------- */
-/* GENERAL CSS */
-/* ---------------------------------------- */
-* {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+  /* Dimensions */
+  --logo-size: 96px;
+  --textarea-height: 600px;
+  --radius: 6px;
+  --padding: 10px;
+  
+  /* Language column colors */
+  --fr-bg: #f9f9f9;   /* subtle gray for French */
+  --us-bg: #f9f9f9;   /* subtle gray for US English */
 }
 
-/* ---------------------------------------- */
-/* BODY */
-/* ---------------------------------------- */
+/* Global styles */
 body {
-
+  font-family: var(--font-family);
+  margin: 20px;
+  background: var(--background-color);
+  color: var(--text-color);
 }
 
-/* ---------------------------------------- */
-/* HEADER */
-/* ---------------------------------------- */
 header {
-
-}
-
-header h1 {
-
-}
-
-
-
-header h1 a {
-	text-decoration: none;
-}
-
-nav a {
-	text-decoration: none;
+  padding: var(--padding);
 }
 
 .header-container {
-	
+  display: flex;
+  align-items: center;   /* vertically center logo + title */
+  justify-content: space-between; /* logo left, title centered */
+  position: relative;
 }
 
-
-/* ---------------------------------------- */
-/* MAIN CONTENT */
-/* ---------------------------------------- */
-main {
-	margin-bottom: 1em;
+.header-container .logo {
+  width: var(--logo-size);
+  height: var(--logo-size);
+  object-fit: contain; /* keep proportions */
 }
 
+.header-container h1 {
+  font-size: 2em;
+  margin: 0;
+  position: absolute;     /* independent centering */
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  font-weight: bold;
+}
 
-
-/* ---------------------------------------- */
-/* FOOTER */
-/* ---------------------------------------- */
+/* Footer */
 footer {
+  text-align: center;
+  font-size: small;
+  font-weight: bold;
+}
+
+footer img {
 	border-top: 1px solid #eee;
 	padding-top: 1em;
-	font-size: small;
-	text-align: center;
-	margin: auto;
+	display: block;        /* allows margin auto to work */
+	margin: 0 auto;        /* centers horizontally */
+	width: auto;           /* keep proportions */
 }
 
 
-/* -----[EOF]------------------------------ */
+/* ==================== EOF ===================== */
