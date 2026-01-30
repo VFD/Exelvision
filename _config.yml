@@ -4,6 +4,8 @@ title: Mon Site
 description: Retro Programmers United For Obsure Systems (RPUFOS), for Name of the OS.
 
 # Leave blank for a user site or set "/project-name" for a project site
+url: "https://VFD.github.io"
+
 baseurl: "/Exelvision"
 
 # Build settings
