@@ -8,65 +8,72 @@
    ============================================================ */
 
 :root {
-  /* Main palette */
-  --font-family: Arial, sans-serif;
-  --background-color: #f3f3f3;
-  --text-color: #333;
-  --accent-color: #888;
-  --border-color: #ccc;
-  --highlight-bg: #eee;
-  --button-bg: #fff;
-  --button-hover-bg: #f0f0f0;
+	/* Main palette */
+	--font-family: Arial, sans-serif;
+	--background-color: #f3f3f3;
+	--background-nav: #fafafa;
+	--text-color: #333;
+	--accent-color: #888;
+	--border-color: #ccc;
+	--highlight-bg: #eee;
+	--button-bg: #fff;
+	--button-hover-bg: #f0f0f0;
 
-  /* Dimensions */
-  --logo-size: 96px;
-  --textarea-height: 600px;
-  --radius: 6px;
-  --padding: 10px;
-  
+	/* Dimensions */
+	--logo-size: 96px;
+	--textarea-height: 600px;
+	--radius: 6px;
+	--padding: 10px;
 }
 
 /* Global styles */
 body {
-  font-family: var(--font-family);
-  margin-left: 4em;
-  margin-right: 4em;
-  background: var(--background-color);
-  color: var(--text-color);
+	font-family: var(--font-family);
+	margin-left: 4em;
+	margin-right: 4em;
+	background: var(--background-color);
+	color: var(--text-color);
 }
 
 header {
-  padding: var(--padding);
+	padding: var(--padding);
 }
 
 .header-container {
-  display: flex;
-  align-items: center;   /* vertically center logo + title */
-  justify-content: space-between; /* logo left, title centered */
-  position: relative;
+	display: flex;
+	align-items: center;   /* vertically center logo + title */
+	justify-content: space-between; /* logo left, title centered */
+	position: relative;
 }
 
 .header-container .logo {
-  width: var(--logo-size);
-  height: var(--logo-size);
-  object-fit: contain; /* keep proportions */
+	width: var(--logo-size);
+	height: var(--logo-size);
+	object-fit: contain; /* keep proportions */
 }
 
 .header-container h1 {
-  font-size: 2em;
-  margin: 0;
-  position: absolute;     /* independent centering */
-  left: 50%;
-  transform: translateX(-50%);
-  text-align: center;
-  font-weight: bold;
+	font-size: 2em;
+	margin: 0;
+	position: absolute;     /* independent centering */
+	left: 50%;
+	transform: translateX(-50%);
+	text-align: center;
+	font-weight: bold;
 }
+
+nav {
+	text-align: center;
+	background-color: var(--background-nav);
+}
+
 
 /* Footer */
 footer {
-  text-align: center;
-  font-size: small;
-  font-weight: bold;
+	background-color: var(--background-nav);
+	text-align: center;
+	font-size: small;
+	font-weight: bold;
 }
 
 footer img {
