@@ -38,42 +38,41 @@ body {
 }
 
 header {
-	padding: var(--padding);
+  padding: var(--padding);
 }
 
 .header-container {
-	display: flex;
-	align-items: center;
-	justify-content: flex-start;
-	gap: 20px;
+  display: flex;
+  align-items: center;   /* vertically center logo + title */
+  justify-content: space-between; /* logo left, title centered */
+  position: relative;
 }
 
-.header-text {
-	flex: 1;
-	text-align: center;
+.header-container .logo {
+  width: var(--logo-size);
+  height: var(--logo-size);
+  object-fit: contain; /* keep proportions */
 }
 
-.header-text h1 {
-	margin: 0;
-	font-size: 2em;
-	font-weight: bold;
+.header-container h1 {
+  font-size: 2em;
+  margin: 0;
+  position: absolute;     /* independent centering */
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  font-weight: bold;
 }
-
-.header-text p {
-	margin: 0;
-	font-size: 1.1em;
-}
-
 
 /* Footer */
 footer {
-	border-top: 1px solid #eee;
-	text-align: center;
-	font-size: small;
-	font-weight: bold;
+  text-align: center;
+  font-size: small;
+  font-weight: bold;
 }
 
 footer img {
+	border-top: 1px solid #eee;
 	padding-top: 1em;
 	display: block;        /* allows margin auto to work */
 	margin: 0 auto;        /* centers horizontally */
