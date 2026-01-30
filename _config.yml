@@ -1,0 +1,22 @@
+# Name of website
+title: Mon Site
+
+description: Retro Programmers United For Obsure Systems (RPUFOS), for Name of the OS.
+
+# Leave blank for a user site or set "/project-name" for a project site
+baseurl: "/project"
+
+# Build settings
+timezone: "Europe/Paris"
+
+# Conversion
+markdown: kramdown
+
+
+# Exclude
+exclude:
+    - .vscode/
+    - .github/
+
+
+

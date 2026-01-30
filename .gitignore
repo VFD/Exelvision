@@ -1,37 +1,9 @@
-# Ignore all macOS temporary files
+# ignore
+_site
+.sass-cache
+.vagrant
+
+# general
 .DS_Store
-.AppleDouble
-.LSOverride
-Icon?
-._*
-.Spotlight-V100
-.Trashes
-*.swp
-
-# Ignore all image files
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.bmp
-*.tiff
-*.webp
-*.svg
-*.heif
-*.jfif
-*.hif
-
-# Ignore all PDF files
-# *.pdf
-
-# Other
-*.doc
-*.docx
-*.xls
-*.xlxs
-*.txt
-
-# K7 Wav FD (for the moment)
-*.k7
-*.wav
-*.fd
+Thumbs.db
+ehthumbs.db
