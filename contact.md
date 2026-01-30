@@ -3,8 +3,6 @@ layout: default
 title: Contact
 ---
 
-{% include header.html %}
-
 
 # Social media
 
@@ -12,5 +10,3 @@ title: Contact
 - Discord
 - Facebook
 
-
-{% include footer.html %}

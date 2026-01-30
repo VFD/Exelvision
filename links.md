@@ -3,9 +3,6 @@ layout: default
 title: Links
 ---
 
-
-{% include header.html %}
-
 ___
 # Olipix
 
@@ -38,7 +35,4 @@ https://github.com/katahiromz/renum
 ```cmd
 renum -i program.bas -o new_program.bas --new-start 100 --step 10
 ```
-
-
-{% include footer.html %}
 
