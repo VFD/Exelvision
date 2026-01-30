@@ -1,8 +1,17 @@
 # Exelvision Project
 
 <div style="text-align: center;">
-  <img src="RPUFOS/Assets/RPUFOS_Logo.png" alt="Logo RPUFOS" width="150">
+  <img src="assets/img/RPUFOS_Logo.png" alt="Logo RPUFOS" width="100">&nbsp;&nbsp;
+  <img src="assets/img/UnderConstruction.png" alt="Under Construction" width="100">
 </div>
+
+## Website
+
+Go to the [Exelvision Website](https://vfd.github.io/Exelvision/).
+
+Build with Jekyll.
+
+
 
 ## Introduction
 
