@@ -1,3 +1,12 @@
+---
+layout: default
+title: In the library
+description: "A collection of resources for the Exelvision."
+author: VincentD
+
+---
+
+
 # The Library
 
 ___
@@ -13,7 +22,8 @@ We would be very interested in sharing such content here if anyone has it.
 ___
 ## What we have
 
-TO DO
+Books and articles pulled from various magazines.\
+Only the parts about the Obscure System made the cut — we spared you the rest.
 
 ### Books
 
@@ -25,13 +35,17 @@ TO DO
 - Programmez vos texte avec Exelvision, CNDP
 - Programmez en assembleur sur Exelvision, Glajean
 
+And yes! They’re all in French.
+
 ### Articles
 
+The best ones are from Hebdogiciel. Ah, L'Hebdo… back when chaos was printed weekly and nobody complained because it was hilarious.\
+If you’re learning French, this is a must‑read Best Of.
 
 ### Fanzines
 
-Sorry we have found nothing.
-
+Sorry we have found nothing.\
+So don’t hesitate to let us know if you uncover anything during your archaeological digs.
 
 ___
 ## Work in progress

@@ -9,7 +9,7 @@ ___
 - [Exelvision](https://www.ti99.com/exelvision/website/)
 - [DCExel](http://dcexel.free.fr/) /!\ non sécurisé.
 - Des listings
-
+	- 
 
 ___
 # Old magazines and stuffs
@@ -17,7 +17,7 @@ ___
 - [Abandonware Magazines](https://abandonware-magazines.org/)
 	- [Excelement Votre](https://abandonware-magazines.org/affiche_mag.php?mag=52)
 - [Archive.org](https://archive.org/)
-
+	- [Exelvision](https://archive.org/search?query=Exelvision)
 ___
 # Olipix
 
@@ -46,6 +46,7 @@ ___
 
 A renumbering solution: [katahiromz github](https://github.com/katahiromz/renum)
 
+How to:
 ```cmd
 renum -i program.bas -o new_program.bas --new-start 100 --step 10
 ```
