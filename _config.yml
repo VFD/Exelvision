@@ -11,15 +11,6 @@ baseurl: "/Exelvision"
 # Build settings
 timezone: "Europe/Paris"
 
-# blog pagination
-plugins:
-  - jekyll-paginate
-
-paginate: 10          # nombre de posts par page
-paginate_path: "/blog/page:num/"
-
-
-
 
 # Conversion
 markdown: kramdown
