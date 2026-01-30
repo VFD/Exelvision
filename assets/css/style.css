@@ -38,42 +38,42 @@ body {
 }
 
 header {
-  padding: var(--padding);
+	padding: var(--padding);
 }
 
 .header-container {
-  display: flex;
-  align-items: center;        /* logo + bloc texte alignés verticalement */
-  justify-content: flex-start;
-  gap: 20px;                  /* espace entre logo et texte */
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	gap: 20px;
 }
 
 .header-text {
-  flex: 1;                    /* prend toute la largeur restante */
-  text-align: center;         /* centre H1 et P */
+	flex: 1;
+	text-align: center;
 }
 
 .header-text h1 {
-  margin: 0;
-  font-size: 2em;
-  font-weight: bold;
+	margin: 0;
+	font-size: 2em;
+	font-weight: bold;
 }
 
 .header-text p {
-  margin: 0;
-  font-size: 1.1em;
+	margin: 0;
+	font-size: 1.1em;
 }
 
 
 /* Footer */
 footer {
-  text-align: center;
-  font-size: small;
-  font-weight: bold;
+	border-top: 1px solid #eee;
+	text-align: center;
+	font-size: small;
+	font-weight: bold;
 }
 
 footer img {
-	border-top: 1px solid #eee;
 	padding-top: 1em;
 	display: block;        /* allows margin auto to work */
 	margin: 0 auto;        /* centers horizontally */
