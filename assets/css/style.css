@@ -24,15 +24,13 @@
   --radius: 6px;
   --padding: 10px;
   
-  /* Language column colors */
-  --fr-bg: #f9f9f9;   /* subtle gray for French */
-  --us-bg: #f9f9f9;   /* subtle gray for US English */
 }
 
 /* Global styles */
 body {
   font-family: var(--font-family);
-  margin: 20px;
+  margin-left: 4em;
+  margin-right: 4em;
   background: var(--background-color);
   color: var(--text-color);
 }
