@@ -3,23 +3,26 @@ layout: default
 title: Links
 ---
 
+# In the Links
+
 ___
-# For Exelvision computers
+## For Exelvision computers
 
 - [Exelvision](https://www.ti99.com/exelvision/website/)
 - [DCExel](http://dcexel.free.fr/) /!\ non sécurisé.
 - Des listings
-	- 
+	- to do
 
 ___
-# Old magazines and stuffs
+## Old magazines and stuffs
 
 - [Abandonware Magazines](https://abandonware-magazines.org/)
 	- [Excelement Votre](https://abandonware-magazines.org/affiche_mag.php?mag=52)
 - [Archive.org](https://archive.org/)
 	- [Exelvision](https://archive.org/search?query=Exelvision)
+
 ___
-# Olipix
+## Olipix
 
 - You tube channel (FR)
 - You tube channel (EN)
@@ -27,7 +30,7 @@ ___
 
 
 ___
-# Obscure Systems
+## Obscure Systems
 
 Follow the white rabbit.
 
@@ -42,7 +45,7 @@ Follow the white rabbit.
 All in work in progress.
 
 ___
-# Tools
+## Tools
 
 A renumbering solution: [katahiromz github](https://github.com/katahiromz/renum)
 
