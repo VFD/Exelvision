@@ -1,10 +1,10 @@
 ---
-title: test 1
+title: test 2
 author: VincentD
 excerpt: "Petit résumé de l’article."
-type: book
+type: code
 ---
 
-Le Blog no 1
+le blog no 2.
 
-qui parle du livre machin.
+qui cause d'un listing
