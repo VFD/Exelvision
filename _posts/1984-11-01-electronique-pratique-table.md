@@ -1,7 +1,7 @@
 ---
 title: "Référence d'ancien no pour Electronique pratique"
 author: VincentD
-excerpt: "Les tables des matières de plusieurs numéros (59-76)"
+excerpt: "Les tables des matières de plusieurs numéros (59-76)."
 type: article
 ---
 
@@ -16,8 +16,8 @@ Auteur :
 
 ## Contenu
 
-3 pages des tables des matières du no 59 au no 75.
-
+3 pages des tables des matières du no 59 au no 75.\
+Référence au no 71 et de la présentation du EXL 100.
 
 ## Critique
 

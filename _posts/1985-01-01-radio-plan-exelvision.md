@@ -2,7 +2,7 @@
 title: "Des infos pour Exelvision"
 author: VincentD
 excerpt: "Concerne les présentations lors du SICOB par Exelvision."
-type: book
+type: article
 ---
 
 ## Information

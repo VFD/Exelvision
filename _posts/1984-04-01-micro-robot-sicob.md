@@ -2,7 +2,7 @@
 title: "Micro et Robot : Un EXL100 ?"
 author: VincentD
 excerpt: "Tiens un nouveau venu le EXL 100 d'Exelvision"
-type: book
+type: article
 ---
 
 ## Information

@@ -2,7 +2,7 @@
 title: "Pépé rétro et les micro-dinausaures"
 author: VincentD
 excerpt: "De l'humour avec Micro News et Pépé Rétro qui nous cause Exelvision."
-type: book
+type: article
 ---
 
 ## Information

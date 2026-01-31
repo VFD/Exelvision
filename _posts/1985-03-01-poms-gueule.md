@@ -2,7 +2,7 @@
 title: "Ça guele chez Poms..."
 author: VincentD
 excerpt: "Une lettre critique avec citation d'Exelvision."
-type: book
+type: article
 ---
 
 ## Information
