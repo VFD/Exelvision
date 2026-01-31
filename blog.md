@@ -3,10 +3,14 @@ layout: default
 title: Blog
 ---
 
-# Un peu de lecture
+# A bit of reading
 
+You’ll find all sorts of things to read here — book related blog posts for when you’re feeling intellectual, press articles for when you want to look informed, and program listings for when you feel like pretending you’re a hacker from the 80s.
+Whatever mood you’re in, there’s always something fun to scroll through.\
+Oh, and by the way, everything is in French for now.
 
-<h1>Books</h1>
+## Books
+
 <ul>
 {% for post in site.posts %}
   {% if post.type == "book" %}
@@ -19,7 +23,8 @@ title: Blog
 {% endfor %}
 </ul>
 
-<h1>Articles</h1>
+## Articles
+
 <ul>
 {% for post in site.posts %}
   {% if post.type == "article" %}
@@ -32,7 +37,8 @@ title: Blog
 {% endfor %}
 </ul>
 
-<h1>Code</h1>
+## Listings
+
 <ul>
 {% for post in site.posts %}
   {% if post.type == "code" %}
