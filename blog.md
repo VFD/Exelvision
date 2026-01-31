@@ -21,13 +21,12 @@ Enjoy your reading.
 <ul>
 {% for post in site.posts %}
   {% if post.type == "book" %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> — {{ post.date | date: "%d %B %Y" }}
+    <li style="margin-bottom: 1em;">
+      {{ post.date | date: "%d %B %Y" }} — <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
 	  <br />
 	  {{ post.excerpt | truncate: 150 }}
     </li>
   {% endif %}
-  <br />
 {% endfor %}
 </ul>
 
@@ -36,13 +35,12 @@ Enjoy your reading.
 <ul>
 {% for post in site.posts %}
   {% if post.type == "article" %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> — {{ post.date | date: "%d %B %Y" }}
+    <li style="margin-bottom: 1em;">
+     {{ post.date | date: "%d %B %Y" }}  — <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
 	  <br />
 	  {{ post.excerpt | truncate: 150 }}
     </li>
   {% endif %}
-  <br />
 {% endfor %}
 </ul>
 
@@ -51,13 +49,12 @@ Enjoy your reading.
 <ul>
 {% for post in site.posts %}
   {% if post.type == "code" %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> — {{ post.date | date: "%d %B %Y" }}
+    <li style="margin-bottom: 1em;">
+      {{ post.date | date: "%d %B %Y" }} — <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
 	  <br />
 	  {{ post.excerpt | truncate: 150 }}
     </li>
   {% endif %}
-  <br />
 {% endfor %}
 </ul>
 
