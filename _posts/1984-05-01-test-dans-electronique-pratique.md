@@ -1,16 +1,16 @@
 ---
 title: "Micro-ordinateur EXL 100 Exelvision"
 author: VincentD
-excerpt: "Une présentation basic du EXL 100 sans plus."
-type: book
+excerpt: "Une présentation basic du EXL 100 sans plus dans Electronique Pratique No 71."
+type: article
 ---
 
 ## Information
 
 No 71 page 52 de mai 1984.
 
-Edition 
-ISBN 
+Edition \
+ISBN \
 Auteur : 
 
 

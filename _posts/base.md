@@ -7,8 +7,8 @@ type: book
 
 ## Information
 
-Edition 
-ISBN 
+Edition \
+ISBN \
 Auteur : 
 
 

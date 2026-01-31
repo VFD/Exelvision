@@ -2,15 +2,15 @@
 title: "Le Haut parleur : des extentions pour EXL100"
 author: VincentD
 excerpt: "Les extentions Exelmodem et Exeldrums"
-type: book
+type: article
 ---
 
 ## Information
 
 Le Haut Parleur no 1722, pages 125 à 129.
 
-Edition 
-ISBN 
+Edition \
+ISBN \
 Auteur : C. TAVERNIER
 
 

@@ -1,16 +1,16 @@
 ---
 title: "ABC Informatique"
 author: VincentD
-excerpt: "Pour EXL100. Tracés de fonctions mathématiques."
-type: book
+excerpt: "Le Haut Parleur : Pour EXL100. Tracés de fonctions mathématiques."
+type: article
 ---
 
 ## Information
 
 Le Haut Parleur no 1723, pages 162 à 165.
 
-Edition 
-ISBN 
+Edition \
+ISBN \
 Auteur : C. TAVERNIER
 
 

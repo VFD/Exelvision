@@ -9,6 +9,13 @@ You’ll find all sorts of things to read here — book related blog posts for w
 Whatever mood you’re in, there’s always something fun to scroll through.\
 Oh, and by the way, everything is in French for now.
 
+This is a real fake blog (it’s not fake news).\
+Blogs didn’t exist at the time. The idea is to create one using the release dates of magazines, books, and other publications.\
+However, everything still needs to be filled in, which happens gradually as archaeological research progresses.
+
+Enjoy your reading.
+
+
 ## Books
 
 <ul>

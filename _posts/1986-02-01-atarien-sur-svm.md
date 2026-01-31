@@ -7,8 +7,8 @@ type: article
 
 ## Information
 
-Edition 
-ISBN 
+Edition \
+ISBN \
 Auteur : 
 
 

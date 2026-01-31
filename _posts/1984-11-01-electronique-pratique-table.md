@@ -2,15 +2,15 @@
 title: "Référence d'ancien no pour Electronique pratique"
 author: VincentD
 excerpt: "Les tables des matières de plusieurs numéros (59-76)"
-type: book
+type: article
 ---
 
 ## Information
 
 No 76 page 101 de novembre 1985.
 
-Edition 
-ISBN 
+Edition \
+ISBN \
 Auteur : 
 
 

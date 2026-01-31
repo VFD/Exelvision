@@ -1,16 +1,16 @@
 ---
 title: "ABC Informatique"
 author: VincentD
-excerpt: "Pour EXL100 MO5 et ORIC. Tracés élémentaires."
-type: book
+excerpt: "Le Haut Parleur : Pour EXL100 MO5 et ORIC. Tracés élémentaires."
+type: article
 ---
 
 ## Information
 
 Le Haut Parleur no 1722, pages 150 à 154.
 
-Edition 
-ISBN 
+Edition \
+ISBN \
 Auteur : C. TAVERNIER
 
 
