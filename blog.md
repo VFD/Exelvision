@@ -27,6 +27,7 @@ Enjoy your reading.
 	  {{ post.excerpt | truncate: 150 }}
     </li>
   {% endif %}
+  <br />
 {% endfor %}
 </ul>
 
@@ -41,6 +42,7 @@ Enjoy your reading.
 	  {{ post.excerpt | truncate: 150 }}
     </li>
   {% endif %}
+  <br />
 {% endfor %}
 </ul>
 
@@ -55,6 +57,7 @@ Enjoy your reading.
 	  {{ post.excerpt | truncate: 150 }}
     </li>
   {% endif %}
+  <br />
 {% endfor %}
 </ul>
 
