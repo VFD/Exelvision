@@ -16,7 +16,7 @@ Auteur : Pépé Rétro
 
 ## Contenu
 
-Résumé :
+Résumé :\
 Un article de 1989 revient avec humour sur l’**Exeltel**, dernier micro d’Exelvision :
 machine complète avec clavier mécanique (filaire ou infrarouge),
 synthèse vocale,

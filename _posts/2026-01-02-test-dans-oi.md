@@ -5,8 +5,22 @@ excerpt: "Petit topo de l’article de L'Ordinateur Individuel."
 type: article
 ---
 
-# L'Ordinateur Individuel
+## Information
 
-To do
+L'Ordinateur Individuel no  d', p.
 
-C'est un bon résumé hein ?
+Edition \
+ISBN \
+Auteur : 
+
+
+## Contenu
+
+Résumé :
+
+
+
+
+## Critique
+
+À faire.

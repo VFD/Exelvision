@@ -20,7 +20,7 @@ ___
 	- [Excelement Votre](https://abandonware-magazines.org/affiche_mag.php?mag=52)
 - [Archive.org](https://archive.org/)
 	- [Exelvision](https://archive.org/search?query=Exelvision)
-
+	- [Pavé à trier](https://archive.org/details/GameBase_Exelvision_2018)
 ___
 ## Olipix
 

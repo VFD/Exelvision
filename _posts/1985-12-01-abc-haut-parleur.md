@@ -20,10 +20,11 @@ Suite du no 1722.\
 Compartif EXL 100, MO5 et ORIC.\
 Le plus pauvre c'est l'EXL100...\
 5 listings.\
-Suite dans le no 1724 ?
+
 
 ## Critique
 
 Les programmes sont en BASIC.
 
-
+Suite dans le no 1724 ? Et zut, justement ça doit parler de l'assembleur du EXL 100.\
+On cherche donc la suite.

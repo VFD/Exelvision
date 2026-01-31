@@ -1,5 +1,5 @@
 ---
-title: "Ça guele chez Poms..."
+title: "Ça gueule chez Poms..."
 author: VincentD
 excerpt: "Une lettre critique avec citation d'Exelvision."
 type: article
