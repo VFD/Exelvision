@@ -44,6 +44,23 @@ Follow the white rabbit.
 
 All in work in progress.
 
+And:
+
+- David H Ahl
+
+This repository concerns the publications of David H. Ahl.  
+The goal is to archive and evaluate them to see whether they can be adapted to the Obscure Systems listed above.  
+It’s a long‑term project.  
+French versions will also need to be produced, which should be easier since the original U.S. editions are available.
+
+- RPUFOS
+
+This repository is currently undergoing a complete overhaul.  
+It previously hosted the work of David H. Ahl.  
+The goal is to turn it into a small blog for the RPUFOS project,  
+and possibly merge it with **RPUFOS-TOOLS**.
+
+
 ___
 ## Tools
 
@@ -54,3 +71,4 @@ How to:
 renum -i program.bas -o new_program.bas --new-start 100 --step 10
 ```
 
+That's all folks!
