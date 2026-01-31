@@ -3,7 +3,6 @@ layout: default
 title: In the library
 description: "A collection of resources for the Exelvision."
 author: VincentD
-
 ---
 
 
