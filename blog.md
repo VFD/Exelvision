@@ -15,10 +15,13 @@ However, everything still needs to be filled in, which happens gradually as arch
 
 Enjoy your reading.
 
-NDR : préparation en cours pour le mode blog.
+Editor’s note: preparation is underway for a proper blog mode.
+
 
 <br />
+
 ___
+
 <br />
 
 ## The dedicated "Exelement Votre" magazine
