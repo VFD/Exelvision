@@ -28,9 +28,9 @@ This is mentioned in the articles below.
 {% for post in site.posts %}
   {% if post.type == "magazine" %}
     <li style="margin-bottom: 1em;">
-      {{ post.date | date: "%d %B %Y" }} — <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <b>{{ post.date | date: "%d %B %Y" }} — <a href="{{ post.url | relative_url }}">{{ post.title }}</a></b>
 	  <br />
-	  {{ post.excerpt | truncate: 150 }}
+	  <i>{{ post.excerpt | truncate: 150 }}</i>
     </li>
   {% endif %}
 {% endfor %}
@@ -43,9 +43,9 @@ This is mentioned in the articles below.
 {% for post in site.posts %}
   {% if post.type == "book" %}
     <li style="margin-bottom: 1em;">
-      {{ post.date | date: "%d %B %Y" }} — <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <b>{{ post.date | date: "%d %B %Y" }} — <a href="{{ post.url | relative_url }}">{{ post.title }}</a></b>
 	  <br />
-	  {{ post.excerpt | truncate: 150 }}
+	  <i>{{ post.excerpt | truncate: 150 }}</i>
     </li>
   {% endif %}
 {% endfor %}
@@ -57,9 +57,9 @@ This is mentioned in the articles below.
 {% for post in site.posts %}
   {% if post.type == "article" %}
     <li style="margin-bottom: 1em;">
-     {{ post.date | date: "%d %B %Y" }}  — <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <b>{{ post.date | date: "%d %B %Y" }}  — <a href="{{ post.url | relative_url }}">{{ post.title }}</a></b>
 	  <br />
-	  {{ post.excerpt | truncate: 150 }}
+	  <i>{{ post.excerpt | truncate: 150 }}</i>
     </li>
   {% endif %}
 {% endfor %}
@@ -71,9 +71,9 @@ This is mentioned in the articles below.
 {% for post in site.posts %}
   {% if post.type == "code" %}
     <li style="margin-bottom: 1em;">
-      {{ post.date | date: "%d %B %Y" }} — <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <b>{{ post.date | date: "%d %B %Y" }} — <a href="{{ post.url | relative_url }}">{{ post.title }}</a></b>
 	  <br />
-	  {{ post.excerpt | truncate: 150 }}
+	  <i>{{ post.excerpt | truncate: 150 }}</i>
     </li>
   {% endif %}
 {% endfor %}
