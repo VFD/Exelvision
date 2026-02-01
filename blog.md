@@ -17,7 +17,9 @@ Enjoy your reading.
 
 NDR : préparation en cours pour le mode blog.
 
-<br /><hr /><br />
+<br />
+___
+<br />
 
 ## The dedicated "Exelement Votre" magazine
 
