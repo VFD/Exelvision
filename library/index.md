@@ -26,13 +26,13 @@ Only the parts about the Obscure System made the cut — we spared you the rest.
 
 ### Books
 
-- 102 Programmes, PSI.
-- EXL100 à l'école, PSI.
-- EXL100, Jeux d'action, SYBEX
-- Maitrisez votre EXL100, MicroSystemes ETSF
-- 35 programmes EXL100, Minipuce
-- Programmez vos texte avec Exelvision, CNDP
-- Programmez en assembleur sur Exelvision, Glajean
+- ❕ 102 Programmes, PSI.
+- 📝 EXL100 à l'école, PSI.
+- ❕ EXL100, Jeux d'action, SYBEX
+- ❕ Maitrisez votre EXL100, MicroSystemes ETSF
+- ❕ 35 programmes EXL100, Minipuce
+- ❕ Programmez vos texte avec Exelvision, CNDP
+- ❕ Programmez en assembleur sur Exelvision, Glajean
 
 And yes! They’re all in French.
 
@@ -50,4 +50,9 @@ ___
 ## Work in progress
 
 
-To do.
+| State  | Label        |
+|----|--------------|
+| ✅ | Completed     |
+| 📝 | In progress  |
+| ❕ | Searching     |
+| ✘ | Failed        |
