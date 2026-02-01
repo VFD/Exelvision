@@ -63,6 +63,8 @@ header {
 	font-weight: bold;
 }
 
+/* Navigation */
+
 nav {
 	padding-top: 1em;
 	padding-bottom: 1em;
@@ -70,6 +72,16 @@ nav {
 	background-color: var(--background-nav);
 	font-weight: bold;
 	text-decoration: none;
+}
+
+nav a {
+    text-decoration: none;
+    color: inherit;
+	cursor: pointer;
+}
+
+nav a:hover {
+    text-decoration: none;
 }
 
 
