@@ -11,7 +11,8 @@
 	/* Main palette */
 	--font-family: Arial, sans-serif;
 	--background-color: #f3f3f3;
-	--background-nav: #fafafa;
+	--background-nav: #ffb300;
+	--background-footer: #009ffe;
 	--text-color: #333;
 	--accent-color: #888;
 	--border-color: #ccc;
@@ -63,6 +64,8 @@ header {
 }
 
 nav {
+	padding-top: 1em;
+	padding-bottom: 1em;
 	text-align: center;
 	background-color: var(--background-nav);
 }
@@ -70,7 +73,9 @@ nav {
 
 /* Footer */
 footer {
-	background-color: var(--background-nav);
+	padding-top: 1em;
+	padding-bottom: 1em;
+	background-color: var(--background-footer);
 	text-align: center;
 	font-size: small;
 	font-weight: bold;
