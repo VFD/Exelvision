@@ -89,6 +89,18 @@ footer img {
 	width: auto;           /* keep proportions */
 }
 
+
+/* code */
+
+pre {
+	margin-left: 5em;
+	margin-right: 5em;
+	padding: 1em;
+	font-weight: bold;
+}
+
+
+
 /* link to return to blog */
 .blog-return {
   text-align: center;
