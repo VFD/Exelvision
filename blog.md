@@ -15,6 +15,10 @@ However, everything still needs to be filled in, which happens gradually as arch
 
 Enjoy your reading.
 
+NDR : préparation en cours pour le mode blog.
+
+<br /><hr /><br />
+
 ## The dedicated "Exelement Votre" magazine
 
 The magazine was published in 20 issues, with the final one unnumbered and marked "Dernier numéro".\
@@ -37,7 +41,7 @@ This is mentioned in the articles below.
 </ul>
 
 
-## Books
+## 📚 Books
 
 <ul>
 {% for post in site.posts %}
@@ -51,7 +55,7 @@ This is mentioned in the articles below.
 {% endfor %}
 </ul>
 
-## Articles
+## 📝 Articles
 
 <ul>
 {% for post in site.posts %}
@@ -65,7 +69,7 @@ This is mentioned in the articles below.
 {% endfor %}
 </ul>
 
-## Listings
+## 💻 Listings
 
 <ul>
 {% for post in site.posts %}
