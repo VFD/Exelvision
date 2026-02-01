@@ -15,7 +15,7 @@ However, everything still needs to be filled in, which happens gradually as arch
 
 Enjoy your reading.
 
-## The dedicated "Exelement Votre" magazin
+## The dedicated "Exelement Votre" magazine
 
 The magazine was published in 20 issues, with the final one unnumbered and marked "Dernier numéro".\
 It contains quite a few interesting articles and some software.\
