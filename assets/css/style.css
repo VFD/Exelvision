@@ -96,7 +96,6 @@ footer {
 }
 
 footer img {
-	border-top: 1px solid #eee;
 	padding-top: 1em;
 	display: block;        /* allows margin auto to work */
 	margin: 0 auto;        /* centers horizontally */
@@ -113,8 +112,12 @@ pre {
 	font-weight: bold;
 	border: 2px solid #962399;
 	border-radius: 1em;
+	color: white;
+	background-color: #00ec00;
 }
 
+/* green: 00ec00 */
+/* red: ff0000 */
 
 
 /* link to return to blog */
