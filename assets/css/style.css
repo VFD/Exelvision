@@ -68,6 +68,8 @@ nav {
 	padding-bottom: 1em;
 	text-align: center;
 	background-color: var(--background-nav);
+	font-weight: bold;
+	text-decoration: none;
 }
 
 
