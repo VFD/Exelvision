@@ -15,6 +15,27 @@ However, everything still needs to be filled in, which happens gradually as arch
 
 Enjoy your reading.
 
+## The dedicated "Exelement Votre" magazin
+
+The magazine was published in 20 issues, with the final one unnumbered and marked "Dernier numéro".\
+It contains quite a few interesting articles and some software.\
+We believe we have all the issues, but a few details still need to be checked, especially regarding certain blank pages.\
+We are therefore looking for additional copies for verification.\
+This is mentioned in the articles below.
+
+
+<ul>
+{% for post in site.posts %}
+  {% if post.type == "magazine" %}
+    <li style="margin-bottom: 1em;">
+      {{ post.date | date: "%d %B %Y" }} — <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+	  <br />
+	  {{ post.excerpt | truncate: 150 }}
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
 
 ## Books
 
